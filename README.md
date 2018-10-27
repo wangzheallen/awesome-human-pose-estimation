@@ -115,7 +115,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Self-supervised Learning of Motion Capture](http://papers.nips.cc/paper/7108-self-supervised-learning-of-motion-capture.pdf) - [[CODE]](https://sites.google.com/view/selfsupervisedlearningofmotion/) - Hsiao-Yu Fish Tung,  Hsiao-Wei Tung,  Ersin Yumer,  Katerina Fragkiadaki. (NIPS 2017)
 - [Detect-and-Track: Efficient Pose Estimation in Videos,](https://arxiv.org/abs/1712.09184) - [[CODE]](https://github.com/facebookresearch/DetectAndTrack/) - Rohit Girdhar, Georgia Gkioxari, Lorenzo Torresani, Manohar Paluri and Du Tran. (CVPR 2018)
 - [Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition,](https://arxiv.org/pdf/1801.07455.pdf) - [[CODE]](https://github.com/yysijie/st-gcn) - Sijie Yan, Yuanjun Xiong, and Dahua Lin. (AAAI 2018)
-- [Simple Baselines for Human Pose Estimation and Tracking](https://arxiv.org/pdf/1804.06208.pdf) - [[CODE]](hhttps://github.com/Microsoft/human-pose-estimation.pytorch) - Bin Xiao, Haiping Wu, Yichen Wei. (ECCV 2018)
+- [Simple Baselines for Human Pose Estimation and Tracking](https://arxiv.org/pdf/1804.06208.pdf) - [[CODE]](https://github.com/Microsoft/human-pose-estimation.pytorch) - Bin Xiao, Haiping Wu, Yichen Wei. (ECCV 2018)
 - [SFV: Reinforcement Learning of Physical Skills from Videos](https://xbpeng.github.io/projects/SFV/2018_TOG_SFV.pdf) - Xue Bin Peng, Angjoo Kanazawa, Jitendra Malik, Pieter Abbeel, Sergey Levine. (ACM SIGGRAPH Asia 2018)
 
 ### Real-time pose estimation
