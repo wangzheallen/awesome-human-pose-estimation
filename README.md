@@ -28,7 +28,7 @@ Feedback and contributions are welcome!
   - [Person generation](#person-generation)
   - [Video pose](#video-pose)
   - [Real-time Pose estimation](#real-time-pose-estimation)
-  - [Hand-Face Pose which is inspiring](#Hand-Face Pose which is inspiring)
+  - [Hand-Face Pose which is inspiring](#Hand-Face-landmark)
 - [Datasets](#datasets)
 - [Workshops](#workshops) 
 - [Blog posts](#blogposts)
