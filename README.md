@@ -28,7 +28,7 @@ Feedback and contributions are welcome!
   - [Person generation](#person-generation)
   - [Video pose](#video-pose)
   - [Real-time Pose estimation](#real-time-pose-estimation)
-  - [Hand/Face Pose which is inspiring](#Hand/Face Pose which is inspiring)
+  - [Hand-Face Pose which is inspiring](#Hand-Face Pose which is inspiring)
 - [Datasets](#datasets)
 - [Workshops](#workshops) 
 - [Blog posts](#blogposts)
@@ -149,7 +149,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [MPI-INF-3DHP](http://gvv.mpi-inf.mpg.de/3dhp-dataset/)
 - [Unite The People](http://files.is.tuebingen.mpg.de/classner/up/)
 
-### MESHES
+### Meshes
 - [Surreal](https://github.com/gulvarol/surreal)
 
 ## Workshops
