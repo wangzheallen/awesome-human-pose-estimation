@@ -36,7 +36,7 @@ Feedback and contributions are welcome!
   - [Others](#others)
 
 ## Basics
-- [Human Pose Estimation 101](https://github.com/cbsudux/Human-Pose-Estimation-101)
+- [pose_related_human_knowledge](https://github.com/wangzheallen/pose_related_human_knowledge)
 
 ## Papers
 
