@@ -11,6 +11,8 @@ A collection of resources on human pose related problem: mainly focus on human p
 
 This is a collection of papers and resources I curated when learning the ropes in Human Pose estimation.And This is a fork from https://github.com/cbsudux/awesome-human-pose-estimation and customized, thanks for cbsudux. I will be continuously updating this list with the latest papers and resources. If you want some theory on Human Pose Estimation, check out [Pose Related_Human_Knowledge](https://github.com/wangzheallen/pose_related_human_knowledge/blob/master/README.md)
 
+## Related Pages:
+https://github.com/xinghaochen/awesome-hand-pose-estimation
 
 ## Contributing
 
@@ -26,6 +28,7 @@ Feedback and contributions are welcome!
   - [Person generation](#person-generation)
   - [Video pose](#video-pose)
   - [Real-time Pose estimation](#real-time-pose-estimation)
+  - [Hand/Face Pose which is inspiring](#Hand/Face Pose which is inspiring)
 - [Datasets](#datasets)
 - [Workshops](#workshops) 
 - [Blog posts](#blogposts)
@@ -126,6 +129,9 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [RMPE: Regional Multi-person Pose Estimation](https://arxiv.org/pdf/1612.00137.pdf) - [[CODE1]](https://github.com/Fang-Haoshu/RMPE)[[CODE2]](https://github.com/MVIG-SJTU/AlphaPose) - Fang, H., Xie, S., & Lu, C. (ICCV 2017)
 - [Dense Human Pose Estimation In The Wild](https://arxiv.org/pdf/1802.00434.pdf) - [[CODE]](https://github.com/facebookresearch/Densepose) - Guler, R.A., Neverova, N., & Kokkinos, I. (CVPR 2018)
 - [MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network](https://arxiv.org/pdf/1807.04067.pdf) - [[CODE]](https://github.com/mkocabas/pose-residual-network) - Guler, R.A., Neverova, N., & Kokkinos, I. (ECCV 2018)
+
+### Hand/Face Pose which is inspiring
+- [Hand PointNet: 3D Hand Pose Estimation Using Point Sets](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ge_Hand_PointNet_3D_CVPR_2018_paper.pdf)  - Liuhao Ge, Yujun Cai, Junwu Weng, Junsong Yuan (CVPR 2018)
 
 
 
