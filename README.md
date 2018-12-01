@@ -128,6 +128,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [QuaterNet: A Quaternion-based Recurrent Model for Human Motion](https://arxiv.org/abs/1805.06485) - [[CODE]](https://github.com/facebookresearch/QuaterNet) - Dario Pavllo, David Grangier, and Michael Auli. (BMVC 2018)
 - [Simple Baselines for Human Pose Estimation and Tracking](https://arxiv.org/pdf/1804.06208.pdf) - [[CODE]](https://github.com/Microsoft/human-pose-estimation.pytorch) - Bin Xiao, Haiping Wu, Yichen Wei. (ECCV 2018)
 - [Learning 3D Human Pose from Structure and Motion](http://openaccess.thecvf.com/content_ECCV_2018/papers/Rishabh_Dabral_Learning_3D_Human_ECCV_2018_paper.pdf) - Dabral, R., Mundhada, A., Kusupati, U., Afaque, S., Sharma, A., & Jain, A. (ECCV 2018)
+- [Recovering Accurate 3D Human Pose in The Wild Using IMUs and a Moving Camera](http://files.is.tue.mpg.de/black/papers/VIP.pdf) - Timo von Marcard, Roberto Henschel, Michael J. Black, Bodo Rosenhahn,and Gerard Pons-Moll (ECCV 2018)
 - [SFV: Reinforcement Learning of Physical Skills from Videos](https://xbpeng.github.io/projects/SFV/2018_TOG_SFV.pdf) - Xue Bin Peng, Angjoo Kanazawa, Jitendra Malik, Pieter Abbeel, Sergey Levine. (ACM SIGGRAPH Asia 2018)
 
 ### Real-time pose estimation
@@ -158,6 +159,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [HumanEva](http://humaneva.is.tue.mpg.de/)
 - [MPI-INF-3DHP](http://gvv.mpi-inf.mpg.de/3dhp-dataset/)
 - [Unite The People](http://files.is.tuebingen.mpg.de/classner/up/)
+- [3DPW](http://virtualhumans.mpi-inf.mpg.de/3DPW/)
 
 ### Meshes
 - [Surreal](https://github.com/gulvarol/surreal)
