@@ -27,6 +27,7 @@ Feedback and contributions are welcome!
   - [3D Pose estimation](#3d-pose-estimation)
   - [Person generation](#person-generation)
   - [Video pose](#video-pose)
+  - [Pose forecasting](#video-pose)
   - [Real-time Pose estimation](#real-time-pose-estimation)
   - [Hand-Face Pose which is inspiring](#Hand-Face-landmark)
 - [Datasets](#datasets)
@@ -104,15 +105,20 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Monocap: Monocular human motion capture using a CNN coupled with a geometric prior](https://arxiv.org/abs/1701.02354) - [[CODE]](https://github.com/daniilidis-group/monocap) - X. Zhou, M. Zhu, G. Pavlakos, S. Leonardos, K.G. Derpanis, K. Daniilidis. (TPAMI 2018)
 
 
-### Person generation
+### Person/Pose generation/forecasting
+- [Activity Forecasting.](http://www.cs.cmu.edu/~kkitani/project/2014/08/01/forecasting-project/) - [[CODE]](http://www.cs.cmu.edu/~kkitani/datasets/index.html) - Kris M. Kitani, Brian Ziebart, James D. Bagnell and Martial Hebert. (ECCV 2012)
+- [Action-Reaction: Forecasting the Dynamics of Human Interaction.](http://www.cs.cmu.edu/~kkitani/project/2014/01/01/reaction-project/) - De-An Huang and Kris M. Kitani. (ECCV 2014)
 - [Binge Watching: Scaling Affordance Learning from Sitcoms. ](https://www.cs.cmu.edu/~xiaolonw/papers/CVPR_2017_VAE_affordance.pdf) - [[CODE]](https://www.cs.cmu.edu/~xiaolonw/affordance.html) - Xiaolong Wang*, Rohit Girdhar*, and Abhinav Gupta. (CVPR 2017)
 - [Pose Guided Person Image Generation](https://arxiv.org/pdf/1705.09368.pdf) - [[CODE]](https://github.com/charliememory/Pose-Guided-Person-Image-Generation) - Ma, L., Jia, X., Sun, Q., Schiele, B., Tuytelaars, T., & Gool, L.V. (NIPS 2017)
 - [A Generative Model of People in Clothing](https://arxiv.org/pdf/1705.04098.pdf) - Lassner, C., Pons-Moll, G., & Gehler, P.V. (ICCV 2017)
+- [First-Person Activity Forecasting with Online Inverse Reinforcement Learning](https://www.ri.cmu.edu/wp-content/uploads/2017/11/Rhinehart_First-Person_Activity_Forecasting_ICCV_2017_paper.pdf) - Nicholas Rhinehart and Kris M. Kitani. (ICCV 2017)
 - [Synthesizing Images of Humans in Unseen Poses](http://openaccess.thecvf.com/content_cvpr_2018/papers/Balakrishnan_Synthesizing_Images_of_CVPR_2018_paper.pdf) - [[CODE]](https://github.com/balakg/posewarp-cvpr2018) - Guha Balakrishnan, Amy Zhao, Adrian V. Dalca, Fredo Durand, John Guttag. (CVPR 2018)
 - [A Variational U-Net for Conditional Appearance and Shape Generation](https://compvis.github.io/vunet/images/vunet.pdf) - [[CODE]](https://github.com/CompVis/vunet) - Patrick Esser, Ekaterina Sutter, Björn Ommer. (CVPR 2018)
 - [Deformable GANs for Pose-based Human Image Generation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Siarohin_Deformable_GANs_for_CVPR_2018_paper.pdf) - [[CODE]](https://github.com/AliaksandrSiarohin/pose-gan) - Siarohin, A., Sangineto, E., Lathuilière, S., & Sebe, N. (CVPR 2018)
+- [QuaterNet: A Quaternion-based Recurrent Model for Human Motion](https://arxiv.org/abs/1805.06485) - [[CODE]](https://github.com/facebookresearch/QuaterNet) - Dario Pavllo, David Grangier, and Michael Auli. (BMVC 2018)
 - [Dense Pose Transfer](https://arxiv.org/pdf/1809.01995.pdf) - Neverova, N., Guler, R.A., & Kokkinos, I. (ECCV 2018)
 - [MT-VAE: Learning Motion Transformations to Generate Multimodal Human Dynamics](https://arxiv.org/abs/1808.04545) - Xinchen Yan, Akash Rastogi, Ruben Villegas, Kalyan Sunkavalli, Eli Shechtman, Sunil Hadap, Ersin Yumer, Honglak Lee (ECCV 2018)
+- [Few-Shot Human Motion Prediction via Meta-Learning](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liangyan_Gui_Few-Shot_Human_Motion_ECCV_2018_paper.pdf) - Liang-Yan Gui, Yu-Xiong Wang, Deva Ramanan, and Jos ́e M. F. Moura (ECCV 2018)
 - [ Everybody Dance Now](https://carolineec.github.io/everybody_dance_now/) - Caroline Chan, Shiry Ginosar, Tinghui Zhou, Alexei A. Efros  (Arxiv 2018)
 
 ### Video pose
@@ -130,6 +136,9 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Learning 3D Human Pose from Structure and Motion](http://openaccess.thecvf.com/content_ECCV_2018/papers/Rishabh_Dabral_Learning_3D_Human_ECCV_2018_paper.pdf) - Dabral, R., Mundhada, A., Kusupati, U., Afaque, S., Sharma, A., & Jain, A. (ECCV 2018)
 - [Recovering Accurate 3D Human Pose in The Wild Using IMUs and a Moving Camera](http://files.is.tue.mpg.de/black/papers/VIP.pdf) - Timo von Marcard, Roberto Henschel, Michael J. Black, Bodo Rosenhahn,and Gerard Pons-Moll (ECCV 2018)
 - [SFV: Reinforcement Learning of Physical Skills from Videos](https://xbpeng.github.io/projects/SFV/2018_TOG_SFV.pdf) - Xue Bin Peng, Angjoo Kanazawa, Jitendra Malik, Pieter Abbeel, Sergey Levine. (ACM SIGGRAPH Asia 2018)
+
+
+
 
 ### Real-time pose estimation
 
@@ -203,7 +212,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 
 - [x] Add basics
 - [ ] Add a SOTA ranking
-- [ ] Pose forecasting
+- [x] Pose forecasting
 
 ## License
 
