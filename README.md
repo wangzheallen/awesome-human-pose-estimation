@@ -25,9 +25,9 @@ Feedback and contributions are welcome!
 - [Papers](#papers)
   - [2D Pose estimation](#2d-pose-estimation)
   - [3D Pose estimation](#3d-pose-estimation)
-  - [Person generation](#person-generation)
+  - [Person generation](#Person/Pose-generation/forecasting)
   - [Video pose](#video-pose)
-  - [Pose forecasting](#video-pose)
+  - [Pose forecasting](#Person/Pose-generation/forecasting)
   - [Real-time Pose estimation](#real-time-pose-estimation)
   - [Hand-Face Pose which is inspiring](#Hand-Face-landmark)
 - [Datasets](#datasets)
@@ -105,7 +105,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Monocap: Monocular human motion capture using a CNN coupled with a geometric prior](https://arxiv.org/abs/1701.02354) - [[CODE]](https://github.com/daniilidis-group/monocap) - X. Zhou, M. Zhu, G. Pavlakos, S. Leonardos, K.G. Derpanis, K. Daniilidis. (TPAMI 2018)
 
 
-### Person/Pose generation/forecasting
+### Person/Pose-generation/forecasting
 - [Activity Forecasting.](http://www.cs.cmu.edu/~kkitani/project/2014/08/01/forecasting-project/) - [[CODE]](http://www.cs.cmu.edu/~kkitani/datasets/index.html) - Kris M. Kitani, Brian Ziebart, James D. Bagnell and Martial Hebert. (ECCV 2012)
 - [Action-Reaction: Forecasting the Dynamics of Human Interaction.](http://www.cs.cmu.edu/~kkitani/project/2014/01/01/reaction-project/) - De-An Huang and Kris M. Kitani. (ECCV 2014)
 - [Binge Watching: Scaling Affordance Learning from Sitcoms. ](https://www.cs.cmu.edu/~xiaolonw/papers/CVPR_2017_VAE_affordance.pdf) - [[CODE]](https://www.cs.cmu.edu/~xiaolonw/affordance.html) - Xiaolong Wang*, Rohit Girdhar*, and Abhinav Gupta. (CVPR 2017)
