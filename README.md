@@ -123,7 +123,9 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 
 ### Video pose
 - [Pose from Flow and Flow from Pose](http://www.cis.upenn.edu/~jshi/papers/CVPR2013_posefromflow.pdf) - Katerina Fragkiadaki, Han Hu and Jianbo Shi . (CVPR 2013)
+- [Recurrent Network Models for Human Dynamics](https://arxiv.org/pdf/1508.00271.pdf) - Katerina Fragkiadaki, Sergey Levine, Panna Felsen, Jitendra Malik . (ICCV 2015)
 - [Personalizing Human Video Pose Estimation](https://arxiv.org/pdf/1511.06676.pdf) - James Charles, Tomas Pfister, Derek Magee, David Hogg, Andrew Zisserman . (CVPR 2016)
+- [On human motion prediction using recurrent neural networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Martinez_On_Human_Motion_CVPR_2017_paper.pdf) - Julieta Martinez, Michael J. Black, and Javier Romero. (CVPR 2017)
 - [Thin-Slicing Network: A Deep Structured Model for Pose Estimation in Videos](https://arxiv.org/pdf/1703.10898.pdf) - Jie Song, Limin Wang, Luc Van Gool, Otmar Hilliges. (CVPR 2017)
 - [Deep Multitask Architecture for Integrated 2D and 3D Human Sensing,](http://openaccess.thecvf.com/content_cvpr_2017/papers/Popa_Deep_Multitask_Architecture_CVPR_2017_paper.pdf) - [[CODE]](https://github.com/alinionutpopa/dmhs) - Alin-Ionut Popa and Mihai Zanfir and Cristian Sminchisescu. (CVPR 2017)
 - [Rpan: An end-to-end recurrent pose-attention network for action recognition in videos](http://openaccess.thecvf.com/content_ICCV_2017/papers/Du_RPAN_An_End-To-End_ICCV_2017_paper.pdf) - Wenbin Du, Yali Wang, Yu Qiao. (ICCV 2017)
