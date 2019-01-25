@@ -26,6 +26,7 @@ Feedback and contributions are welcome!
   - [2D Pose estimation](#2d-pose-estimation)
   - [3D Pose estimation](#3d-pose-estimation)
   - [Person generation](#Person-generation)
+  - [Human mesh](#3D-Human-Mesh)
   - [Video pose](#video-pose)
   - [Real-time Pose estimation](#real-time-pose-estimation)
   - [Hand-Face Pose which is inspiring](#Hand-Face-landmark)
@@ -129,6 +130,8 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [MT-VAE: Learning Motion Transformations to Generate Multimodal Human Dynamics](https://arxiv.org/abs/1808.04545) - Xinchen Yan, Akash Rastogi, Ruben Villegas, Kalyan Sunkavalli, Eli Shechtman, Sunil Hadap, Ersin Yumer, Honglak Lee (ECCV 2018)
 - [Few-Shot Human Motion Prediction via Meta-Learning](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liangyan_Gui_Few-Shot_Human_Motion_ECCV_2018_paper.pdf) - Liang-Yan Gui, Yu-Xiong Wang, Deva Ramanan, and Jos ́e M. F. Moura (ECCV 2018)
 - [ Everybody Dance Now](https://carolineec.github.io/everybody_dance_now/) - Caroline Chan, Shiry Ginosar, Tinghui Zhou, Alexei A. Efros  (Arxiv 2018)
+
+### 3D Human Mesh
 
 ### Video pose
 - [Pose from Flow and Flow from Pose](http://www.cis.upenn.edu/~jshi/papers/CVPR2013_posefromflow.pdf) - Katerina Fragkiadaki, Han Hu and Jianbo Shi . (CVPR 2013)
