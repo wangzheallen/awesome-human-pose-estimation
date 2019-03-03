@@ -70,6 +70,7 @@ Feedback and contributions are welcome!
 - [Human Pose Estimation with Parsing Induced Learner](http://openaccess.thecvf.com/content_cvpr_2018/papers/Nie_Human_Pose_Estimation_CVPR_2018_paper.pdf)- Xuecheng Nie, Jiashi Feng, Yiming Zuo, Shuicheng Yan (CVPR 2018)
 - [LSTM Pose Machines](https://arxiv.org/pdf/1712.06316.pdf) - [[CODE]](https://github.com/lawy623/LSTM_Pose_Machines) - Yue Luo, Jimmy Ren, Zhouxia Wang, Wenxiu Sun, Jinshan Pan, Jianbo Liu, Jiahao Pang, Liang Lin (CVPR 2018)
 - [Cascaded Pyramid Network for Multi-Person Pose Estimation](https://arxiv.org/abs/1711.07319) - [[CODE]](https://github.com/chenyilun95/tf-cpn) - Yilun Chen, Zhicheng Wang, Yuxiang Peng, Zhiqiang Zhang, Gang Yu, Jian Sun (CVPR 2018)
+- [Jointly Optimize Data Augmentation and Network Training: Adversarial Data Augmentation in Human Pose Estimation](https://arxiv.org/abs/1805.09707) - [[CODE]](https://github.com/zhiqiangdon/pose-adv-aug) - Peng, Xi and Tang, Zhiqiang and Yang, Fei and Feris, Rogerio S and Metaxas, Dimitris (CVPR 2018)
 - [Human Pose Estimation with Parsing Induced Learner](http://openaccess.thecvf.com/content_cvpr_2018/papers/Nie_Human_Pose_Estimation_CVPR_2018_paper.pdf) - [[CODE]](https://github.com/NieXC/pytorch-pil) - Xuecheng Nie, Jiashi Feng, Yiming Zuo, Shuicheng Yan (CVPR 2018)
 - [Through-Wall Human Pose Estimation Using Radio Signals ](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_Through-Wall_Human_Pose_CVPR_2018_paper.pdf) - Mingmin Zhao,Tianhong Li, Mohammad Abu Alsheikh, Yonglong Tian, Hang Zhao, Antonio Torralba, Dina Katabi (CVPR 2018)
 - [Simple Baselines for Human Pose Estimation
@@ -129,6 +130,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [3D Human Pose Machines with Self-supervised Learning](https://arxiv.org/pdf/1901.03798.pdf) - [[CODE]](http://www.sysu-hcp.net/3d_pose_ssl/) - Keze Wang, Liang Lin, Chenhan Jiang, Chen Qian, and Pengxu Wei. (TPAMI 2019)
 - [Fast and Robust Multi-Person 3D Pose Estimation from Multiple Views](https://arxiv.org/abs/1901.04111) - [[CODE]](https://zju-3dv.github.io/mvpose/) - Junting Dong, Wen Jiang, Qixing Huang, Hujun Bao, Xiaowei Zhou. (CVPR 2019)
 - [Monocular Total Capture: Posing Face, Body and Hands in the Wild ](https://arxiv.org/abs/1812.01598) - [[CODE]](http://domedb.perception.cs.cmu.edu/monototalcapture.html) - Donglai Xiang, Hanbyul Joo, Yaser Sheikh (CVPR 2019)
+- [RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation](https://arxiv.org/abs/1902.09868) - Bastian Wandt, Bodo Rosenhahn (CVPR 2019)
 - [Explicit Pose Deformation Learning for Tracking Human Poses](https://arxiv.org/abs/1811.07123) - Xiao Sun, Chuankang Li, Stephen Lin (Arxiv 2018)
 
 ### Person generation
@@ -142,6 +144,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Synthesizing Images of Humans in Unseen Poses](http://openaccess.thecvf.com/content_cvpr_2018/papers/Balakrishnan_Synthesizing_Images_of_CVPR_2018_paper.pdf) - [[CODE]](https://github.com/balakg/posewarp-cvpr2018) - Guha Balakrishnan, Amy Zhao, Adrian V. Dalca, Fredo Durand, John Guttag. (CVPR 2018)
 - [A Variational U-Net for Conditional Appearance and Shape Generation](https://compvis.github.io/vunet/images/vunet.pdf) - [[CODE]](https://github.com/CompVis/vunet) - Patrick Esser, Ekaterina Sutter, Björn Ommer. (CVPR 2018)
 - [Deformable GANs for Pose-based Human Image Generation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Siarohin_Deformable_GANs_for_CVPR_2018_paper.pdf) - [[CODE]](https://github.com/AliaksandrSiarohin/pose-gan) - Siarohin, A., Sangineto, E., Lathuilière, S., & Sebe, N. (CVPR 2018)
+- [Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks](https://arxiv.org/abs/1803.10892) - [[CODE]](https://github.com/agrimgupta92/sgan) - Agrim Gupta, Justin Johnson, Fei-Fei Li, Silvio Savarese, Alexandre Alahi. (CVPR 2018)
 - [QuaterNet: A Quaternion-based Recurrent Model for Human Motion](https://arxiv.org/abs/1805.06485) - [[CODE]](https://github.com/facebookresearch/QuaterNet) - Dario Pavllo, David Grangier, and Michael Auli. (BMVC 2018)
 - [Dense Pose Transfer](https://arxiv.org/pdf/1809.01995.pdf) - Neverova, N., Guler, R.A., & Kokkinos, I. (ECCV 2018)
 - [MT-VAE: Learning Motion Transformations to Generate Multimodal Human Dynamics](https://arxiv.org/abs/1808.04545) - Xinchen Yan, Akash Rastogi, Ruben Villegas, Kalyan Sunkavalli, Eli Shechtman, Sunil Hadap, Ersin Yumer, Honglak Lee (ECCV 2018)
@@ -259,6 +262,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 
 - [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 - [DensePose](https://github.com/facebookresearch/DensePose)
+- [ZedPose](https://github.com/BlankTec/zed-openpose)
 
 ## Todo
 
