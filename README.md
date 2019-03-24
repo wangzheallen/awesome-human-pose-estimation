@@ -280,10 +280,9 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 
 - [x] Add basics
 - [ ] Add a SOTA ranking
-- [ ] Human Mesh
+- [x] Human Mesh
 - [ ] Pose & Language
-- [ ] Popular implementations
-- [x] Pose forecasting
+- [x] Popular implementations
 
 ## License
 
