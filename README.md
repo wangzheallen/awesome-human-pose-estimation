@@ -171,6 +171,8 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Learning to Reconstruct People in Clothing from a Single RGB Camera](https://arxiv.org/abs/1903.05885) - Thiemo Alldieck, Marcus Magnor, Bharat Lal Bhatnagar, Christian Theobalt, Gerard Pons-Moll (Arxiv 2019)
 - [DeepHuman: 3D Human Reconstruction from a Single Image](https://arxiv.org/abs/1903.06473) - Zerong Zheng, Tao Yu, Yixuan Wei, Qionghai Dai, Yebin Liu (Arxiv 2019)
 - [Learning 3D Human Dynamics from Video](https://arxiv.org/abs/1812.01601)  - [[CODE]](https://akanazawa.github.io/human_dynamics/) - Angjoo Kanazawa, Jason Y. Zhang, Panna Felsen, Jitendra Malik (CVPR 2019)
+- [DenseBody: Directly Regressing Dense 3D Human Pose and Shape From a Single Color Image](https://arxiv.org/pdf/1903.10153.pdf) - Pengfei Yao, Zheng Fang, Fan Wu, Yao Feng, Jiwei Li (Arxiv 2019)
+
 
 ### Pose and Language
 - [Your body language may shape who you are](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are?language=en) (TED 2012)
@@ -200,7 +202,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Human Motion Prediction via Learning Local Structure Representations and Temporal Dependencies](https://arxiv.org/abs/1902.07367) - Xiao Guo, Jongmoo Choi. (AAAI 2019)
 - [BiHMP-GAN: Bidirectional 3D Human Motion Prediction GAN](https://arxiv.org/abs/1812.02591) - Jogendra Nath Kundu, Maharshi Gor, R. Venkatesh Babu. (AAAI 2019)
 - [Bio-LSTM: A Biomechanically Inspired Recurrent Neural Network for 3D Pedestrian Pose and Gait Prediction](https://arxiv.org/abs/1809.03705) - Xiao Guo, Jongmoo Choi. (Arxiv 2019)
-
+- [Multi-person Articulated Tracking with Spatial and Temporal Embeddings](https://arxiv.org/abs/1903.09214) - Sheng Jin, Wentao Liu, Wanli Ouyang, Chen Qian (CVPR 2019)
 
 
 
