@@ -144,12 +144,14 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [In the Wild Human Pose Estimation Using Explicit 2D Features and Intermediate 3D Representations](https://arxiv.org/abs/1904.03289) - Ikhsanul Habibie, Weipeng Xu, Dushyant Mehta, Gerard Pons-Moll, Christian Theobalt (CVPR 2019)
 - [Semantic Graph Convolutional Networks for 3D Human Pose Regression](https://arxiv.org/abs/1904.03345) - Long Zhao, Xi Peng, Yu Tian, Mubbasir Kapadia, Dimitris N. Metaxas (CVPR 2019)
 - [Self-Supervised Learning of 3D Human Pose using Multi-view Geometry](https://arxiv.org/abs/1903.02330)  - [[CODE]](https://github.com/mkocabas/EpipolarPose)  - Muhammed Kocabas, Salih Karagoz, Emre Akbas, (CVPR 2019)
+- [Generating Multiple Hypotheses for 3D Human Pose Estimation with Mixture Density Network](https://arxiv.org/abs/1904.05547)  - [[CODE]](https://github.com/chaneyddtt/Generating-Multiple-Hypotheses-for-3D-Human-Pose-Estimation-with-Mixture-Density-Network)  - Chen Li, Gim Hee Lee (CVPR 2019)
 - [Neural Scene Decomposition for Multi-Person Motion Capture](https://arxiv.org/abs/1903.05684)  - Helge Rhodin, Victor Constantin, Isinsu Katircioglu, Mathieu Salzmann, Pascal Fua (CVPR 2019)
 - [Weakly-Supervised Discovery of Geometry-Aware Representationfor 3D Human Pose Estimation](https://128.84.21.199/pdf/1903.08839.pdf)  - Xipeng Chen, Kwan-Yee Lin, Wentao Liu, Chen Qian, Liang Lin (CVPR 2019)
 - [Monocular 3D Human Pose Estimation by Generation and Ordinal Ranking](https://arxiv.org/abs/1904.01324)  - [[CODE]](https://github.com/ssfootball04/generative_pose) - Saurabh Sharma, Pavan Teja Varigonda, Prashast Bindal, Abhishek Sharma, Arjun Jain (Arxiv 2019)
 - [Estimating 3D Motion and Forces of Person-Object Interactions from Monocular Video](https://arxiv.org/abs/1904.02683) - Zongmian Li, Jiri Sedlar, Justin Carpentier, Ivan Laptev, Nicolas Mansard, Josef Sivic (Arxiv 2019)
 - [Context-aware Human Motion Prediction](https://arxiv.org/abs/1904.03419) - Enric Corona, Albert Pumarola, Guillem Alenyà, Francesc Moreno (Arxiv 2019)
 - [Unsupervised 3D Pose Estimation with Geometric Self-Supervision](https://arxiv.org/abs/1904.04812) - Ching-Hang Chen, Ambrish Tyagi, Amit Agrawal, Dylan Drover, Rohith MV, Stefan Stojanov, James M. Rehg (Arxiv 2019)
+- [Generalizing Monocular 3D Human Pose Estimation in the Wild](https://arxiv.org/abs/1904.05512) - Luyang Wang, Yan Chen, Zhenhua Guo, Keyuan Qian, Mude Lin, Hongsheng Li, Jimmy S. Ren (Arxiv 2019)
 
 ### Person generation
 - [Activity Forecasting.](http://www.cs.cmu.edu/~kkitani/project/2014/08/01/forecasting-project/) - [[CODE]](http://www.cs.cmu.edu/~kkitani/datasets/index.html) - Kris M. Kitani, Brian Ziebart, James D. Bagnell and Martial Hebert. (ECCV 2012)
@@ -182,6 +184,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Learning to Reconstruct People in Clothing from a Single RGB Camera](https://arxiv.org/abs/1903.05885) - Thiemo Alldieck, Marcus Magnor, Bharat Lal Bhatnagar, Christian Theobalt, Gerard Pons-Moll (Arxiv 2019)
 - [DeepHuman: 3D Human Reconstruction from a Single Image](https://arxiv.org/abs/1903.06473) - Zerong Zheng, Tao Yu, Yixuan Wei, Qionghai Dai, Yebin Liu (Arxiv 2019)
 - [Learning 3D Human Dynamics from Video](https://arxiv.org/abs/1812.01601)  - [[CODE]](https://akanazawa.github.io/human_dynamics/) - Angjoo Kanazawa, Jason Y. Zhang, Panna Felsen, Jitendra Malik (CVPR 2019)
+- [Expressive Body Capture: 3D Hands, Face, and Body from a Single Image](https://arxiv.org/abs/1904.05866)  - [[CODE]](https://smpl-x.is.tue.mpg.de/) - Georgios Pavlakos, Vasileios Choutas, Nima Ghorbani, Timo Bolkart, Ahmed A. A. Osman, Dimitrios Tzionas, Michael J. Black (CVPR 2019)
 - [DenseBody: Directly Regressing Dense 3D Human Pose and Shape From a Single Color Image](https://arxiv.org/pdf/1903.10153.pdf) - Pengfei Yao, Zheng Fang, Fan Wu, Yao Feng, Jiwei Li (Arxiv 2019)
 - [Towards 3D Human Shape Recovery Under Clothing](https://arxiv.org/abs/1904.02601) - Xin Chen, Anqi Pang, Yu Zhu, Yuwei Li, Xi Luo, Ge Zhang, Peihao Wang, Yingliang Zhang, Shiying Li, Jingyi Yu (Arxiv 2019)
 - [3DPeople: Modeling the Geometry of Dressed Humans](https://arxiv.org/abs/1904.04571) - Albert Pumarola, Jordi Sanchez, Gary P. T. Choi, Alberto Sanfeliu, Francesc Moreno-Noguer (Arxiv 2019)
@@ -234,7 +237,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Hand PointNet: 3D Hand Pose Estimation Using Point Sets](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ge_Hand_PointNet_3D_CVPR_2018_paper.pdf)  - Liuhao Ge, Yujun Cai, Junwu Weng, Junsong Yuan (CVPR 2018)
 - [Real-Time Rotation-Invariant Face Detection with Progressive Calibration Networks](https://arxiv.org/abs/1804.06039)  - [[CODE]](https://github.com/Jack-CV/PCN-FaceDetection-FaceAlignment) - Xuepeng Shi, Shiguang Shan, Meina Kan, Shuzhe Wu, Xilin Chen (CVPR 2018)
 - [3D Hand Shape and Pose from Images in the Wild](https://arxiv.org/pdf/1902.03451.pdf)  - Adnane Boukhayma, Rodrigo de Bem, Philip H.S. Torr (Arxiv 2019)
-
+- [3D Dense Face Alignment via Graph Convolution Networks](https://arxiv.org/abs/1904.05562)  - Huawei Wei, Shuang Liang, Yichen Wei (Arxiv 2019)
 
 
 ## Datasets
