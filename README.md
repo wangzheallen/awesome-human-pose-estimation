@@ -32,6 +32,7 @@ Feedback and contributions are welcome!
   - [Real-time Pose estimation](#real-time-pose-estimation)
   - [Hand-Face Pose which is inspiring](#Hand-Face-landmark)
 - [Datasets](#datasets)
+- [Benchmarks](#Benchmarks)
 - [Workshops](#workshops) 
 - [Blog posts](#blogposts)
 - [Popular implementations](#popular-implementations)
@@ -152,6 +153,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Context-aware Human Motion Prediction](https://arxiv.org/abs/1904.03419) - Enric Corona, Albert Pumarola, Guillem Alenyà, Francesc Moreno (Arxiv 2019)
 - [Unsupervised 3D Pose Estimation with Geometric Self-Supervision](https://arxiv.org/abs/1904.04812) - Ching-Hang Chen, Ambrish Tyagi, Amit Agrawal, Dylan Drover, Rohith MV, Stefan Stojanov, James M. Rehg (Arxiv 2019)
 - [Generalizing Monocular 3D Human Pose Estimation in the Wild](https://arxiv.org/abs/1904.05512) - Luyang Wang, Yan Chen, Zhenhua Guo, Keyuan Qian, Mude Lin, Hongsheng Li, Jimmy S. Ren (Arxiv 2019)
+- [Absolute Human Pose Estimation with Depth Prediction Network](https://arxiv.org/abs/1904.05947) - Márton Véges, András Lőrincz (IJCNN 2019)
 
 ### Person generation
 - [Activity Forecasting.](http://www.cs.cmu.edu/~kkitani/project/2014/08/01/forecasting-project/) - [[CODE]](http://www.cs.cmu.edu/~kkitani/datasets/index.html) - Kris M. Kitani, Brian Ziebart, James D. Bagnell and Martial Hebert. (ECCV 2012)
@@ -257,6 +259,15 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 
 ### Meshes
 - [Surreal](https://github.com/gulvarol/surreal)
+
+## Benchmarks
+### 2D
+- [MPII](http://human-pose.mpi-inf.mpg.de/#related_benchmarks)
+- [COCO](http://cocodataset.org/#keypoints-leaderboard)
+
+### 3D
+- [Human3.6M](https://paperswithcode.com/sota/3d-human-pose-estimation-on-human36m)
+- [Human3.6M2](http://vision.imar.ro/human3.6m/ranking.php)
 
 ## Workshops
 - [POSETRACK-ECCV](https://posetrack.net/workshops/eccv2018/)
