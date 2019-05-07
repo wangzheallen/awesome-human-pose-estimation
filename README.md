@@ -234,7 +234,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [BiHMP-GAN: Bidirectional 3D Human Motion Prediction GAN](https://arxiv.org/abs/1812.02591) - Jogendra Nath Kundu, Maharshi Gor, R. Venkatesh Babu. (AAAI 2019)
 - [Bio-LSTM: A Biomechanically Inspired Recurrent Neural Network for 3D Pedestrian Pose and Gait Prediction](https://arxiv.org/abs/1809.03705) - Xiao Guo, Jongmoo Choi. (Arxiv 2019)
 - [Multi-person Articulated Tracking with Spatial and Temporal Embeddings](https://arxiv.org/abs/1903.09214) - Sheng Jin, Wentao Liu, Wanli Ouyang, Chen Qian (CVPR 2019)
-
+- [Learning Character-Agnostic Motion for Motion Retargeting in 2D](https://arxiv.org/abs/1905.01680) - [[CODE]](https://motionretargeting2d.github.io/) - Kfir Aberman, Rundi Wu, Dani Lischinski, Baoquan Chen, Daniel Cohen-Or. (SIGGRAPH 2019)
 
 
 
@@ -255,7 +255,8 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [3D Hand Shape and Pose from Images in the Wild](https://arxiv.org/pdf/1902.03451.pdf)  - Adnane Boukhayma, Rodrigo de Bem, Philip H.S. Torr (Arxiv 2019)
 - [3D Dense Face Alignment via Graph Convolution Networks](https://arxiv.org/abs/1904.05562)  - Huawei Wei, Shuang Liang, Yichen Wei (Arxiv 2019)
 - [Disentangling Pose from Appearance in Monochrome Hand Images](https://128.84.21.199/abs/1904.07528)  - Yikang Li, Chris Twigg, Yuting Ye, Lingling Tao, Xiaogang Wang (Arxiv 2019)
-
+- [Single Image 3D Hand Reconstruction with Mesh Convolutions
+](https://arxiv.org/abs/1905.01326)  - Dominik Kulon, Haoyang Wang, Riza Alp Güler, Michael Bronstein, Stefanos Zafeiriou (Arxiv 2019)
 
 ## Datasets
 ### 2D
