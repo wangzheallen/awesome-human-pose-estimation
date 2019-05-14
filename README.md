@@ -206,6 +206,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Towards 3D Human Shape Recovery Under Clothing](https://arxiv.org/abs/1904.02601) - Xin Chen, Anqi Pang, Yu Zhu, Yuwei Li, Xi Luo, Ge Zhang, Peihao Wang, Yingliang Zhang, Shiying Li, Jingyi Yu (Arxiv 2019)
 - [3DPeople: Modeling the Geometry of Dressed Humans](https://arxiv.org/abs/1904.04571) - Albert Pumarola, Jordi Sanchez, Gary P. T. Choi, Alberto Sanfeliu, Francesc Moreno-Noguer (Arxiv 2019)
 - [Long-Term Video Generation of Multiple FuturesUsing Human Poses](https://arxiv.org/abs/1904.07538) - Naoya Fushishita, Antonio Tejero-de-Pablos, Yusuke Mukuta, Tatsuya Harada (Arxiv 2019)
+- [PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://arxiv.org/abs/1905.05172) - Shunsuke Saito, Zeng Huang, Ryota Natsume, Shigeo Morishima, Angjoo Kanazawa, Hao Li (Arxiv 2019)
 
 ### Pose and Language
 - [Your body language may shape who you are](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are?language=en) (TED 2012)
@@ -239,6 +240,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Bio-LSTM: A Biomechanically Inspired Recurrent Neural Network for 3D Pedestrian Pose and Gait Prediction](https://arxiv.org/abs/1809.03705) - Xiao Guo, Jongmoo Choi. (Arxiv 2019)
 - [Multi-person Articulated Tracking with Spatial and Temporal Embeddings](https://arxiv.org/abs/1903.09214) - Sheng Jin, Wentao Liu, Wanli Ouyang, Chen Qian (CVPR 2019)
 - [Learning Character-Agnostic Motion for Motion Retargeting in 2D](https://arxiv.org/abs/1905.01680) - [[CODE]](https://motionretargeting2d.github.io/) - Kfir Aberman, Rundi Wu, Dani Lischinski, Baoquan Chen, Daniel Cohen-Or. (SIGGRAPH 2019)
+- [Exploiting temporal context for 3D human pose estimation in the wild](https://arxiv.org/abs/1905.04266)  - Anurag Arnab, Carl Doersch, Andrew Zisserman. (CVPR 2019)
 
 
 
