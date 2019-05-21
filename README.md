@@ -3,7 +3,9 @@
 <p align="center">
   <img src="diagram_2.png" width=700>
 </p>
-
+<p align="center">
+  <img src="vis.png" width=700>
+</p>
 
 A collection of resources on human pose related problem: mainly focus on human pose estimation, and will include mesh representation, flow calculation, kinematics, or maybe sequence learning.
 
@@ -162,6 +164,8 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Absolute Human Pose Estimation with Depth Prediction Network](https://arxiv.org/abs/1904.05947) - Márton Véges, András Lőrincz (IJCNN 2019)
 - [You2Me: Inferring Body Pose in Egocentric Video via First and Second Person Interactions](https://arxiv.org/abs/1904.09882)  - [[CODE]](http://vision.cs.utexas.edu/projects/you2me/)  - Evonne Ng, Donglai Xiang, Hanbyul Joo, Kristen Grauman (Arxiv 2019)
 - [Learnable Triangulation of Human Pose](https://arxiv.org/abs/1905.05754) - [[CODE]](https://saic-violet.github.io/learnable-triangulation/) - Karim Iskakov, Egor Burkov, Victor Lempitsky, Yury Malkov (Arxiv 2019)
+- [Not All Parts Are Created Equal: 3D Pose Estimation by Modelling Bi-directional Dependencies of Body Parts](https://arxiv.org/abs/1905.07862)  - Jue Wang, Shaoli Huang, Xinchao Wang, Dacheng Tao (Arxiv 2019)
+- [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1905.07718)  - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 
 ### Group of people
 - [SOCIAL LSTM: HUMAN TRAJECTORY PREDICTION IN CROWDED SPACES.](http://vision.stanford.edu/pdf/CVPR16_N_LSTM.pdf)  - Alexandre Alahi, Kratarth Goel, Vignesh Ramanathan, Alexandre Robicquet, Li Fei-Fei, Silvio Savarese. (CVPR 2016)
@@ -278,6 +282,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [MPI-INF-3DHP](http://gvv.mpi-inf.mpg.de/3dhp-dataset/)
 - [Unite The People](http://files.is.tuebingen.mpg.de/classner/up/)
 - [3DPW](http://virtualhumans.mpi-inf.mpg.de/3DPW/)
+- [GeometricPoseAffordance](http://wangzheallen.github.io/GPA)
 
 ### Meshes
 - [Surreal](https://github.com/gulvarol/surreal)
