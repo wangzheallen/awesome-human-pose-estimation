@@ -216,10 +216,15 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Long-Term Video Generation of Multiple FuturesUsing Human Poses](https://arxiv.org/abs/1904.07538) - Naoya Fushishita, Antonio Tejero-de-Pablos, Yusuke Mukuta, Tatsuya Harada (Arxiv 2019)
 - [PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://arxiv.org/abs/1905.05172) - Shunsuke Saito, Zeng Huang, Ryota Natsume, Shigeo Morishima, Angjoo Kanazawa, Hao Li (Arxiv 2019)
 - [Learning 3D Human Body Embedding](https://arxiv.org/abs/1905.05622) - Boyi Jiang, Juyong Zhang, Jianfei Cai, Jianmin Zheng (Arxiv 2019)
+- [Shape Evasion: Preventing Body Shape Inference of Multi-Stage Approaches
+](https://arxiv.org/abs/1905.11503) - Hosnieh Sattar, Katharina Krombholz, Gerard Pons-Moll, Mario Fritz (Arxiv 2019)
+
 ### Pose and Language
 - [Your body language may shape who you are](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are?language=en) (TED 2012)
 - [Generating Animated Videos of Human Activities from Natural Language Descriptions](https://www.cs.utexas.edu/~huangqx/NeurIPS_ViGIL_Text2Animation.pdf) - Angela S. Lin, Lemeng Wu, Rodolfo Corona, Kevin Tai, Qixing Huang, Raymond J. Mooney (NIPS 2018)
 - [HAKE: Human Activity Knowledge Engine](https://arxiv.org/abs/1904.06539) - [[CODE]](http://hake-mvig.cn/home/) - Yong-Lu Li, Liang Xu, Xijie Huang, Xinpeng Liu, Ze Ma, Mingyang Chen, Shiyi Wang, Hao-Shu Fang, Cewu Lu (Arxiv 2019)
+- [Shape Evasion: Preventing Body Shape Inference of Multi-Stage Approaches
+](https://arxiv.org/abs/1905.11503) - Hosnieh Sattar, Katharina Krombholz, Gerard Pons-Moll, Mario Fritz (Arxiv 2019)
 
 ### Video pose
 - [Pose from Flow and Flow from Pose](http://www.cis.upenn.edu/~jshi/papers/CVPR2013_posefromflow.pdf) - Katerina Fragkiadaki, Han Hu and Jianbo Shi . (CVPR 2013)
