@@ -96,7 +96,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Adaptive NMS: Refining Pedestrian Detection in a Crowd](https://arxiv.org/abs/1904.03629) - Songtao Liu, Di Huang, Yunhong Wang (CVPR 2019)
 - [Multi-Person Pose Estimation with Enhanced Channel-wise and Spatial Information](https://arxiv.org/abs/1905.03466) - Kai Su, Dongdong Yu, Zhenqi Xu, Xin Geng, Changhu Wang (CVPR 2019)
 - [Objects as Points](https://arxiv.org/abs/1904.07850) - [[CODE]](https://github.com/xingyizhou/CenterNet) - Xingyi Zhou, Dequan Wang, Philipp Krähenbühl (arxiv 2019)
-
+- [Fast Human Pose Estimation](https://arxiv.org/abs/1811.05419) - [[CODE]](https://github.com/yuanyuanli85/Fast_Human_Pose_Estimation_Pytorch) - Feng Zhang, Xiatian Zhu, Mao Ye (CVPR 2019)
 
 ### 3D Pose estimation
 - [Reconstruction of Articulated Objects from Point Correspondences in a Single Uncalibrated Image](https://pdfs.semanticscholar.org/4034/943de699dd4d672d3d59b408459168785e9c.pdf) - CJ Taylor. (CVIU 2000)
