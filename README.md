@@ -166,6 +166,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Learnable Triangulation of Human Pose](https://arxiv.org/abs/1905.05754) - [[CODE]](https://saic-violet.github.io/learnable-triangulation/) - Karim Iskakov, Egor Burkov, Victor Lempitsky, Yury Malkov (Arxiv 2019)
 - [Not All Parts Are Created Equal: 3D Pose Estimation by Modelling Bi-directional Dependencies of Body Parts](https://arxiv.org/abs/1905.07862)  - Jue Wang, Shaoli Huang, Xinchao Wang, Dacheng Tao (Arxiv 2019)
 - [MONET: Multiview Semi-supervised Keypoint via Epipolar Divergence](https://arxiv.org/abs/1806.00104)  - Yasamin Jafarian, Yuan Yao, Hyun Soo Park (Arxiv 2018)
+- [Feature Boosting Network For 3D Pose Estimation](https://arxiv.org/abs/1901.04877)  - Jun Liu, Henghui Ding, Amir Shahroudy, Ling-Yu Duan, Xudong Jiang, Gang Wang, Alex C. Kot (TPAMI 2019)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1905.07718)  - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 
 ### Group of people
