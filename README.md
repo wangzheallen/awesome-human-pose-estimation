@@ -277,6 +277,8 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 ### Hand-Face-landmark
 - [Hand PointNet: 3D Hand Pose Estimation Using Point Sets](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ge_Hand_PointNet_3D_CVPR_2018_paper.pdf)  - Liuhao Ge, Yujun Cai, Junwu Weng, Junsong Yuan (CVPR 2018)
 - [Real-Time Rotation-Invariant Face Detection with Progressive Calibration Networks](https://arxiv.org/abs/1804.06039)  - [[CODE]](https://github.com/Jack-CV/PCN-FaceDetection-FaceAlignment) - Xuepeng Shi, Shiguang Shan, Meina Kan, Shuzhe Wu, Xilin Chen (CVPR 2018)
+- [Hand Pose Estimation via Latent 2.5D Heatmap Networks Regression](https://arxiv.org/pdf/1804.09534.pdf)  - Umar Iqbal
+, Pavlo Molchanov, Thomas Breuel, Juergen Gall, Jan Kautz1 (ECCV 2018)
 - [H+O: Unified Egocentric Recognition of 3D Hand-Object Poses and Interactions](https://arxiv.org/abs/1904.05349)  - Bugra Tekin, Federica Bogo, Marc Pollefeys (CVPR 2019)
 - [3D Hand Shape and Pose from Images in the Wild](https://arxiv.org/pdf/1902.03451.pdf)  - Adnane Boukhayma, Rodrigo de Bem, Philip H.S. Torr (Arxiv 2019)
 - [3D Dense Face Alignment via Graph Convolution Networks](https://arxiv.org/abs/1904.05562)  - Huawei Wei, Shuang Liang, Yichen Wei (Arxiv 2019)
