@@ -222,6 +222,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Learning 3D Human Body Embedding](https://arxiv.org/abs/1905.05622) - Boyi Jiang, Juyong Zhang, Jianfei Cai, Jianmin Zheng (Arxiv 2019)
 - [Shape Evasion: Preventing Body Shape Inference of Multi-Stage Approaches
 ](https://arxiv.org/abs/1905.11503) - Hosnieh Sattar, Katharina Krombholz, Gerard Pons-Moll, Mario Fritz (Arxiv 2019)
+- [Temporally Coherent Full 3D Mesh Human Pose Recovery from Monocular Video](https://arxiv.org/abs/1906.00161) - Jian Liu, Naveed Akhtar, Ajmal Mian (Arxiv 2019)
 
 ### Pose and Language
 - [Your body language may shape who you are](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are?language=en) (TED 2012)
