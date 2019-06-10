@@ -115,6 +115,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Coarse-to-Fine Volumetric Prediction for Single-Image 3D Human Pose](https://arxiv.org/pdf/1611.07828.pdf) - [[CODE]](https://github.com/geopavlakos/c2f-vol-demo) - Pavlakos, G., Zhou, X., Derpanis, K.G., & Daniilidis, K. (CVPR 2017)
 - [LCR-Net: Localization-Classification-Regression for Human Pose](https://www.researchgate.net/publication/315867122_LCR-Net_Localization-Classification-Regression_for_Human_Pose) - [[CODE]](https://thoth.inrialpes.fr/src/LCR-Net/) - Grégory Rogez, Philippe Weinzaepfel, Cordelia Schmid. (CVPR 2017)
 - [Deep Learning on Lie Groups for Skeleton-based Action Recognition](https://github.com/zzhiwu/LieNet) - [[CODE]](https://github.com/zzhiwu/LieNet) - Zhiwu Huang, Chengde Wan, Thomas Probst, Luc Van Gool. (CVPR 2017)
+- [Seeing invisible poses: Estimating3d body pose from egocentric video.](https://arxiv.org/abs/1603.07763)  - Hao Jiang, Kristen Grauman. (CVPR 2017)
 - [Harvesting Multiple Views for Marker-less 3D Human Pose Annotations](https://www.seas.upenn.edu/~pavlakos/projects/harvesting/files/harvesting.pdf) - [[CODE]](https://github.com/geopavlakos/harvesting/) - G. Pavlakos, X. Zhou, K. Derpanis, K. Daniilidis.  (CVPR 2017)
 - [Towards 3D Human Pose Estimation in the Wild: a Weakly-supervised Approach](https://arxiv.org/pdf/1704.02447.pdf) - [[CODE]](https://github.com/xingyizhou/Pytorch-pose-hg-3d) - Zhou, X., Huang, Q., Sun, X., Xue, X., & Wei, Y. (ICCV 2017)
 - [Adversarial Inverse Graphics Networks: Learning 2D-to-3D Lifting and Image-to-Image Translation from Unpaired Supervision](https://arxiv.org/abs/1705.11166)  - Hsiao-Yu Fish Tung. etal. (ICCV 2017)
@@ -169,6 +170,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Not All Parts Are Created Equal: 3D Pose Estimation by Modelling Bi-directional Dependencies of Body Parts](https://arxiv.org/abs/1905.07862)  - Jue Wang, Shaoli Huang, Xinchao Wang, Dacheng Tao (Arxiv 2019)
 - [MONET: Multiview Semi-supervised Keypoint via Epipolar Divergence](https://arxiv.org/abs/1806.00104)  - Yasamin Jafarian, Yuan Yao, Hyun Soo Park (Arxiv 2018)
 - [Feature Boosting Network For 3D Pose Estimation](https://arxiv.org/abs/1901.04877)  - Jun Liu, Henghui Ding, Amir Shahroudy, Ling-Yu Duan, Xudong Jiang, Gang Wang, Alex C. Kot (TPAMI 2019)
+- [Ego-Pose Estimation and Forecasting as Real-Time PD Control](https://arxiv.org/abs/1906.03173)  - Ye Yuan, Kris Kitani (Arxiv 2019)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1905.07718)  - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 
 ### Group of people
