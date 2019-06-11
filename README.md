@@ -97,6 +97,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Multi-Person Pose Estimation with Enhanced Channel-wise and Spatial Information](https://arxiv.org/abs/1905.03466) - Kai Su, Dongdong Yu, Zhenqi Xu, Xin Geng, Changhu Wang (CVPR 2019)
 - [Objects as Points](https://arxiv.org/abs/1904.07850) - [[CODE]](https://github.com/xingyizhou/CenterNet) - Xingyi Zhou, Dequan Wang, Philipp Krähenbühl (arxiv 2019)
 - [Fast Human Pose Estimation](https://arxiv.org/abs/1811.05419) - [[CODE]](https://github.com/yuanyuanli85/Fast_Human_Pose_Estimation_Pytorch) - Feng Zhang, Xiatian Zhu, Mao Ye (CVPR 2019)
+- [Learning Individual Styles of Conversational Gesture](https://arxiv.org/abs/1906.04160) - [[CODE]](http://people.eecs.berkeley.edu/~shiry/speech2gesture/) - Shiry Ginosar, Amir Bar, Gefen Kohavi, Caroline Chan, Andrew Owens, Jitendra Malik (CVPR 2019)
 - [Visual Person Understanding through Multi-Task and Multi-Dataset Learning](https://arxiv.org/pdf/1906.03019.pdf)  - Kilian Pfeiffer, et al (Arxiv 2019)
 
 ### 3D Pose estimation
@@ -176,6 +177,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 ### Group of people
 - [SOCIAL LSTM: HUMAN TRAJECTORY PREDICTION IN CROWDED SPACES.](http://vision.stanford.edu/pdf/CVPR16_N_LSTM.pdf)  - Alexandre Alahi, Kratarth Goel, Vignesh Ramanathan, Alexandre Robicquet, Li Fei-Fei, Silvio Savarese. (CVPR 2016)
 - [Multi-Agent Tensor Fusion for Contextual Trajectory Prediction](https://arxiv.org/abs/1904.04776)  - Tianyang Zhao, Yifei Xu, Mathew Monfort, Wongun Choi, Chris Baker, Yibiao Zhao, Yizhou Wang, Ying Nian Wu (CVPR 2019)
+- [Towards Social Artificial Intelligence: Nonverbal Social Signal Prediction in A Triadic Interaction](https://arxiv.org/abs/1906.04158)  - Hanbyul Joo, Tomas Simon, Mina Cikara, Yaser Sheikh (CVPR 2019)
 
 ### Person generation
 - [Activity Forecasting.](http://www.cs.cmu.edu/~kkitani/project/2014/08/01/forecasting-project/) - [[CODE]](http://www.cs.cmu.edu/~kkitani/datasets/index.html) - Kris M. Kitani, Brian Ziebart, James D. Bagnell and Martial Hebert. (ECCV 2012)
@@ -231,6 +233,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 ### Pose and Language
 - [Your body language may shape who you are](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are?language=en) (TED 2012)
 - [Generating Animated Videos of Human Activities from Natural Language Descriptions](https://www.cs.utexas.edu/~huangqx/NeurIPS_ViGIL_Text2Animation.pdf) - Angela S. Lin, Lemeng Wu, Rodolfo Corona, Kevin Tai, Qixing Huang, Raymond J. Mooney (NIPS 2018)
+- [Learning Individual Styles of Conversational Gesture](https://arxiv.org/abs/1906.04160) - [[CODE]](http://people.eecs.berkeley.edu/~shiry/speech2gesture/) - Shiry Ginosar, Amir Bar, Gefen Kohavi, Caroline Chan, Andrew Owens, Jitendra Malik (CVPR 2019)
 - [HAKE: Human Activity Knowledge Engine](https://arxiv.org/abs/1904.06539) - [[CODE]](http://hake-mvig.cn/home/) - Yong-Lu Li, Liang Xu, Xijie Huang, Xinpeng Liu, Ze Ma, Mingyang Chen, Shiyi Wang, Hao-Shu Fang, Cewu Lu (Arxiv 2019)
 - [Shape Evasion: Preventing Body Shape Inference of Multi-Stage Approaches
 ](https://arxiv.org/abs/1905.11503) - Hosnieh Sattar, Katharina Krombholz, Gerard Pons-Moll, Mario Fritz (Arxiv 2019)
@@ -264,7 +267,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Multi-person Articulated Tracking with Spatial and Temporal Embeddings](https://arxiv.org/abs/1903.09214) - Sheng Jin, Wentao Liu, Wanli Ouyang, Chen Qian (CVPR 2019)
 - [Learning Character-Agnostic Motion for Motion Retargeting in 2D](https://arxiv.org/abs/1905.01680) - [[CODE]](https://motionretargeting2d.github.io/) - Kfir Aberman, Rundi Wu, Dani Lischinski, Baoquan Chen, Daniel Cohen-Or. (SIGGRAPH 2019)
 - [Exploiting temporal context for 3D human pose estimation in the wild](https://arxiv.org/abs/1905.04266)  - Anurag Arnab, Carl Doersch, Andrew Zisserman. (CVPR 2019)
-
+- [Learning Temporal Pose Estimation from Sparsely-Labeled Videos](https://arxiv.org/abs/1906.04016)  - Gedas Bertasius, Christoph Feichtenhofer, Du Tran, Jianbo Shi, Lorenzo Torresani. (CVPR 2019)
 
 
 ### Real-time pose estimation
