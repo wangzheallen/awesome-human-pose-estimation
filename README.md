@@ -98,6 +98,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Objects as Points](https://arxiv.org/abs/1904.07850) - [[CODE]](https://github.com/xingyizhou/CenterNet) - Xingyi Zhou, Dequan Wang, Philipp Krähenbühl (arxiv 2019)
 - [Fast Human Pose Estimation](https://arxiv.org/abs/1811.05419) - [[CODE]](https://github.com/yuanyuanli85/Fast_Human_Pose_Estimation_Pytorch) - Feng Zhang, Xiatian Zhu, Mao Ye (CVPR 2019)
 - [Learning Individual Styles of Conversational Gesture](https://arxiv.org/abs/1906.04160) - [[CODE]](http://people.eecs.berkeley.edu/~shiry/speech2gesture/) - Shiry Ginosar, Amir Bar, Gefen Kohavi, Caroline Chan, Andrew Owens, Jitendra Malik (CVPR 2019)
+- [Does Learning Specific Features for Related Parts Help Human Pose Estimation?](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_Does_Learning_Specific_Features_for_Related_Parts_Help_Human_Pose_CVPR_2019_paper.pdf) - Wei Tang and Ying Wu (CVPR 2019)
 - [Visual Person Understanding through Multi-Task and Multi-Dataset Learning](https://arxiv.org/pdf/1906.03019.pdf)  - Kilian Pfeiffer, et al (Arxiv 2019)
 
 ### 3D Pose estimation
