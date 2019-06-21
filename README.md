@@ -272,6 +272,11 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Learning Character-Agnostic Motion for Motion Retargeting in 2D](https://arxiv.org/abs/1905.01680) - [[CODE]](https://motionretargeting2d.github.io/) - Kfir Aberman, Rundi Wu, Dani Lischinski, Baoquan Chen, Daniel Cohen-Or. (SIGGRAPH 2019)
 - [Exploiting temporal context for 3D human pose estimation in the wild](https://arxiv.org/abs/1905.04266)  - Anurag Arnab, Carl Doersch, Andrew Zisserman. (CVPR 2019)
 - [Learning Temporal Pose Estimation from Sparsely-Labeled Videos](https://arxiv.org/abs/1906.04016)  - Gedas Bertasius, Christoph Feichtenhofer, Du Tran, Jianbo Shi, Lorenzo Torresani. (CVPR 2019)
+- [Temporal Transformer Networks: Joint Learning of Invariant and Discriminative Time Warping](https://arxiv.org/abs/1906.05947) - [[CODE]](https://github.com/suhaslohit/TTN)  - Suhas Lohit, Qiao Wang, Pavan Turaga. (CVPR 2019)
+- [Unsupervised Learning of Object Structure and Dynamics from Videos](https://arxiv.org/abs/1906.07889) - Matthias Minderer, Chen Sun, Ruben Villegas, Forrester Cole, Kevin Murphy, Honglak Lee (Arxiv 2019)
+- [VRED: A Position-Velocity Recurrent Encoder-Decoder for Human Motion Prediction](https://arxiv.org/abs/1906.06514) - Hongsong Wang, Jiashi Feng (Arxiv 2019)
+- [Delving into 3D Action Anticipation from Streaming Videos](https://arxiv.org/abs/1906.06521) - Hongsong Wang, Jiashi Feng (Arxiv 2019)
+
 
 
 ### Real-time pose estimation
