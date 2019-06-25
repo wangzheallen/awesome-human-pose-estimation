@@ -93,6 +93,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Person-in-WiFi: Fine-grained Person Perception using WiFi](https://arxiv.org/abs/1904.00276) - Fei Wang, Sanping Zhou, Stanislav Panev, Jinsong Han, Dong Huang (arxiv 2019)
 - [Can WiFi Estimate Person Pose?](https://arxiv.org/abs/1904.00277) - Fei Wang, Stanislav Panev, Ziyi Dai, Jinsong Han, Dong Huang (arxiv 2019)
 - [Learning to Learn Relation for Important People Detection in Still Images](https://arxiv.org/pdf/1904.03632.pdf)  - [[CODE]](https://weihonglee.github.io/Projects/POINT/POINT.htm) - Wei-Hong Li, Fa-Ting Hong, Wei-Shi Zheng (CVPR 2019)
+- [Efficient Online Multi-Person 2D Pose Tracking with Recurrent Spatio-Temporal Affinity Fields](https://arxiv.org/abs/1811.11975)  - [[CODE]](https://cmu-perceptual-computing-lab.github.io/spatio-temporal-affinity-fields/) - Yaadhav Raaj, Haroon Idrees, Gines Hidalgo, Yaser Sheikh(CVPR 2019)
 - [Adaptive NMS: Refining Pedestrian Detection in a Crowd](https://arxiv.org/abs/1904.03629) - Songtao Liu, Di Huang, Yunhong Wang (CVPR 2019)
 - [Multi-Person Pose Estimation with Enhanced Channel-wise and Spatial Information](https://arxiv.org/abs/1905.03466) - Kai Su, Dongdong Yu, Zhenqi Xu, Xin Geng, Changhu Wang (CVPR 2019)
 - [Fast Human Pose Estimation](https://arxiv.org/abs/1811.05419) - [[CODE]](https://github.com/yuanyuanli85/Fast_Human_Pose_Estimation_Pytorch) - Feng Zhang, Xiatian Zhu, Mao Ye (CVPR 2019)
