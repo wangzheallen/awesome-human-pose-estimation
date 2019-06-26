@@ -6,6 +6,9 @@
 <p align="center">
   <img src="vis.png" width=700>
 </p>
+<p align="center">
+  <img src="sfv.png" width=700>
+</p>
 
 A collection of resources on human pose related problem: mainly focus on human pose estimation, and will include mesh representation, flow calculation, (inverse) kinematics, affordance, robotics, or sequence learning.
 
