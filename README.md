@@ -33,7 +33,7 @@ Feedback and contributions are welcome!
   - [Group of people](#group-of-people)
   - [Person generation](#Person-generation)
   - [Human mesh](#3D-Human-Mesh)
-  - [Pose And Physics-Robotics](#Physics-Robotics)
+  - [Pose And Physics-Robotics](#Pose-And-Physics-Robotics)
   - [Pose and Language-Speech](#Pose-and-Language-Speech)
   - [Video pose](#video-pose)
   - [Real-time Pose estimation](#real-time-pose-estimation)
@@ -247,6 +247,8 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Learning Locomotion Skills Using DeepRL: Does the Choice of Action Space Matter? ](https://xbpeng.github.io/projects/ActionSpace/index.html) - [[CODE]](https://xbpeng.github.io/projects/ActionSpace/index.html) - Xue Bin Peng, Michiel van de Panne (Eurographics 2017)
 - [DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills ](https://xbpeng.github.io/projects/DeepMimic/index.html) - [[CODE]](https://xbpeng.github.io/projects/DeepMimic/index.html) - Xue Bin Peng, Pieter Abbeel, Sergey Levine, Michiel van de Panne  (SIGGRAPH 2018)
 - [SFV: Reinforcement Learning of Physical Skills from Videos ](https://xbpeng.github.io/projects/SFV/index.html) - [[CODE]](https://xbpeng.github.io/projects/SFV/index.html) - Xue Bin Peng, Angjoo Kanazawa, Jitendra Malik, Pieter Abbeel, Sergey Levine  (SIGGRAPH Asia 2018)
+
+
 
 ### Pose and Language-Speech 
 - [Your body language may shape who you are](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are?language=en) (TED 2012)
