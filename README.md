@@ -342,11 +342,12 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 
 ### 3D
 - [Human3.6M](https://paperswithcode.com/sota/3d-human-pose-estimation-on-human36m)
-- [Human3.6M2](http://vision.imar.ro/human3.6m/ranking.php)
+- [Human3.6M2](https://paperswithcode.com/task/3d-human-pose-estimation)
 
 ## Workshops
 - [POSETRACK-ECCV](https://posetrack.net/workshops/eccv2018/)
 - [3D HUMANS-CVPR 2018](https://project.inria.fr/humans2018/)
+- [3D HUMANS-CVPR 2019](https://sites.google.com/view/humans3d/3d-humans-workshop)
 
 
 ## Blog posts
