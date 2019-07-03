@@ -260,6 +260,8 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [HAKE: Human Activity Knowledge Engine](https://arxiv.org/abs/1904.06539) - [[CODE]](http://hake-mvig.cn/home/) - Yong-Lu Li, Liang Xu, Xijie Huang, Xinpeng Liu, Ze Ma, Mingyang Chen, Shiyi Wang, Hao-Shu Fang, Cewu Lu (Arxiv 2019)
 - [Shape Evasion: Preventing Body Shape Inference of Multi-Stage Approaches
 ](https://arxiv.org/abs/1905.11503) - Hosnieh Sattar, Katharina Krombholz, Gerard Pons-Moll, Mario Fritz (Arxiv 2019)
+- [Language2Pose: Natural Language Grounded Pose Forecasting
+](https://arxiv.org/abs/1907.01108) - Chaitanya Ahuja, Louis-Philippe Morency (Arxiv 2019)
 
 ### Video pose
 - [Nonrigid Structure from Motion in Trajectory Space](http://www.cs.cmu.edu/~yaser/AkhtarSheikhKhanKanade_NIPS2008.pdf) - Ijaz Akhter, Yaser Sheikh, Sohaib Khan and Takeo Kanade. (NIPS 2008)
