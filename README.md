@@ -297,7 +297,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Unsupervised Learning of Object Structure and Dynamics from Videos](https://arxiv.org/abs/1906.07889) - Matthias Minderer, Chen Sun, Ruben Villegas, Forrester Cole, Kevin Murphy, Honglak Lee (Arxiv 2019)
 - [VRED: A Position-Velocity Recurrent Encoder-Decoder for Human Motion Prediction](https://arxiv.org/abs/1906.06514) - Hongsong Wang, Jiashi Feng (Arxiv 2019)
 - [Delving into 3D Action Anticipation from Streaming Videos](https://arxiv.org/abs/1906.06521) - Hongsong Wang, Jiashi Feng (Arxiv 2019)
-
+- [Sim2real transfer learning for 3D pose estimation: motion to the rescue](https://arxiv.org/abs/1907.02499) - Carl Doersch, Andrew Zisserman (Arxiv 2019)
 
 
 ### Real-time pose estimation
