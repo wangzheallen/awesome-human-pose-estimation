@@ -322,6 +322,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Disentangling Pose from Appearance in Monochrome Hand Images](https://128.84.21.199/abs/1904.07528)  - Yikang Li, Chris Twigg, Yuting Ye, Lingling Tao, Xiaogang Wang (Arxiv 2019)
 - [Single Image 3D Hand Reconstruction with Mesh Convolutions
 ](https://arxiv.org/abs/1905.01326)  - Dominik Kulon, Haoyang Wang, Riza Alp Güler, Michael Bronstein, Stefanos Zafeiriou (Arxiv 2019)
+- [Gesture-to-Gesture Translation in the Wild via Category-Independent Conditional Maps](https://arxiv.org/abs/1907.05916)  - Yahui Liu, Marco De Nadai, Gloria Zen, Nicu Sebe, Bruno Lepri (Arxiv 2019)
 
 ## Datasets
 ### 2D
