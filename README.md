@@ -358,6 +358,11 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 ### 3D
 - [Human3.6M](https://paperswithcode.com/sota/3d-human-pose-estimation-on-human36m)
 - [Human3.6M2](https://paperswithcode.com/task/3d-human-pose-estimation)
+- [MuPoTS-3D](https://paperswithcode.com/sota/3d-multi-person-pose-estimation-absolute-on?p=camera-distance-aware-top-down-approach-for-1
+)
+- [MuPoTS-3D2](https://paperswithcode.com/sota/3d-multi-person-pose-estimation-root-relative?p=camera-distance-aware-top-down-approach-for-1
+)
+
 
 ## Workshops
 - [POSETRACK-ECCV](https://posetrack.net/workshops/eccv2018/)
