@@ -192,6 +192,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [XNect: Real-time Multi-person 3D Human Pose Estimation with a Single RGB Camera](https://arxiv.org/abs/1907.00837)  - Dushyant Mehta, Oleksandr Sotnychenko, Franziska Mueller, Weipeng Xu, Mohamed Elgharib, Pascal Fua, Hans-Peter Seidel, Helge Rhodin, Gerard Pons-Moll, Christian Theobalt (Arxiv 2019)
 - [Camera Distance-aware Top-down Approach for 3D Multi-person Pose Estimation from a Single RGB Image](https://arxiv.org/abs/1907.11346)  - [[CODE]](https://github.com/mks0601/3DMPPE_ROOTNET_RELEASE)  - [[CODE]](https://github.com/mks0601/3DMPPE_POSENET_RELEASE)  - Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee (ICCV 2019)
 - [xR-EgoPose: Egocentric 3D Human Pose from an HMD Camera](https://arxiv.org/abs/1905.07718)  - Denis Tome, Patrick Peluse, Lourdes Agapito, Hernan Badino (ICCV 2019)
+- [Semantic Estimation of 3D Body Shape and Pose using Minimal Cameras](https://arxiv.org/abs/1908.03030)  - Andrew Gilbert, Matthew Trumble, Adrian Hilton, John Collomosse (Arxiv 2019)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1907.10045)  - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 
 ### Group of people
