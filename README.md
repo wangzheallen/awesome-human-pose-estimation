@@ -276,6 +276,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 
 ### Video pose
 - [Nonrigid Structure from Motion in Trajectory Space](http://www.cs.cmu.edu/~yaser/AkhtarSheikhKhanKanade_NIPS2008.pdf) - Ijaz Akhter, Yaser Sheikh, Sohaib Khan and Takeo Kanade. (NIPS 2008)
+- [Human Attributes from 3D Pose Tracking](https://www.cs.ubc.ca/~lsigal/Publications/eccv2010sigal.pdf) - Leonid Sigal, David J. Fleet, Nikolaus F. Troje, and Micha Livne. (ECCV 2010)
 - [Pose from Flow and Flow from Pose](http://www.cis.upenn.edu/~jshi/papers/CVPR2013_posefromflow.pdf) - Katerina Fragkiadaki, Han Hu and Jianbo Shi . (CVPR 2013)
 - [Recurrent Network Models for Human Dynamics](https://arxiv.org/pdf/1508.00271.pdf) - Katerina Fragkiadaki, Sergey Levine, Panna Felsen, Jitendra Malik . (ICCV 2015)
 - [Personalizing Human Video Pose Estimation](https://arxiv.org/pdf/1511.06676.pdf) - James Charles, Tomas Pfister, Derek Magee, David Hogg, Andrew Zisserman . (CVPR 2016)
