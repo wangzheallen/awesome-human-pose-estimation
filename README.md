@@ -256,6 +256,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Temporally Coherent Full 3D Mesh Human Pose Recovery from Monocular Video](https://arxiv.org/abs/1906.00161) - Jian Liu, Naveed Akhtar, Ajmal Mian (Arxiv 2019)
 - [Moulding Humans: Non-parametric 3D Human Shape Estimation from Single Images](https://arxiv.org/abs/1908.00439) - [[Studio]](https://kinovis.inria.fr/)  - Valentin Gabeur, Jean-Sebastien Franco, Xavier Martin, Cordelia Schmid, Gregory Rogez (ICCV 2019)
 - [Dressing 3D Humans using a Conditional Mesh-VAE-GAN](https://arxiv.org/abs/1907.13615)  - Qianli Ma, Siyu Tang, Sergi Pujades, Gerard Pons-Moll, Anurag Ranjan, Michael J. Black (Arxiv 2019)
+- [AMASS: Archive of Motion Capture as Surface Shapes](https://arxiv.org/abs/1904.03278)  - [[CODE]](https://github.com/nghorbani/amass)  - [[CODE]](https://github.com/nghorbani/amass/tree/master/notebooks) - Mahmood, Naureen and Ghorbani, Nima and F. Troje, Nikolaus and Pons-Moll, Gerard and Black, Michael J. (ICCV 2019)
 
 ### Pose And Physics-Robotics
 - [Learning Locomotion Skills Using DeepRL: Does the Choice of Action Space Matter? ](https://xbpeng.github.io/projects/ActionSpace/index.html) - [[CODE]](https://xbpeng.github.io/projects/ActionSpace/index.html) - Xue Bin Peng, Michiel van de Panne (Eurographics 2017)
