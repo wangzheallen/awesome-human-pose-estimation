@@ -109,6 +109,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Movement science needs different pose tracking algorithms](https://arxiv.org/abs/1907.10226)  - Nidhi Seethapathi, Shaofei Wang, Rachit Saluja, Gunnar Blohm, Konrad P. Kording (Arxiv 2019)
 - [Learning to Train with Synthetic Humans](https://arxiv.org/abs/1908.00967)  - David T. Hoffmann, Dimitrios Tzionas, Micheal J. Black, Siyu Tang (GCPR 2019)
 - [Falls Prediction Based on Body Keypoints and Seq2Seq Architecture](https://arxiv.org/abs/1908.00275)  - Minjie Hua, Yibing Nan, Shiguo Lian (Arxiv 2019)
+- [Cross-Domain Adaptation for Animal Pose Estimation](https://arxiv.org/abs/1908.05806)  - Jinkun Cao, Hongyang Tang, Hao-Shu Fang, Xiaoyong Shen, Cewu Lu, Yu-Wing Tai (ICCV 2019)
 
 
 ### 3D Pose estimation
@@ -194,6 +195,9 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [xR-EgoPose: Egocentric 3D Human Pose from an HMD Camera](https://arxiv.org/abs/1905.07718)  - Denis Tome, Patrick Peluse, Lourdes Agapito, Hernan Badino (ICCV 2019)
 - [Semantic Estimation of 3D Body Shape and Pose using Minimal Cameras](https://arxiv.org/abs/1908.03030)  - Andrew Gilbert, Matthew Trumble, Adrian Hilton, John Collomosse (Arxiv 2019)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1907.10045)  - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
+
+### Geometry
+- [Learning Two-View Correspondences and Geometry Using Order-Aware Network](https://arxiv.org/abs/1908.04964)  - Jiahui Zhang, Dawei Sun, Zixin Luo, Anbang Yao, Lei Zhou, Tianwei Shen, Yurong Chen, Long Quan, Hongen Liao (ICCV 2019)
 
 ### Group of people
 - [SOCIAL LSTM: HUMAN TRAJECTORY PREDICTION IN CROWDED SPACES.](http://vision.stanford.edu/pdf/CVPR16_N_LSTM.pdf)  - Alexandre Alahi, Kratarth Goel, Vignesh Ramanathan, Alexandre Robicquet, Li Fei-Fei, Silvio Savarese. (CVPR 2016)
@@ -312,6 +316,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Delving into 3D Action Anticipation from Streaming Videos](https://arxiv.org/abs/1906.06521) - Hongsong Wang, Jiashi Feng (Arxiv 2019)
 - [Sim2real transfer learning for 3D pose estimation: motion to the rescue](https://arxiv.org/abs/1907.02499) - Carl Doersch, Andrew Zisserman (Arxiv 2019)
  [A-MAL: Automatic Motion Assessment Learning from Properly Performed Motions in 3D Skeleton Videos](https://arxiv.org/abs/1907.10004) - Tal Hakim, Ilan Shimshoni (Arxiv 2019)
+  [Learning Trajectory Dependencies for Human Motion Prediction](https://arxiv.org/abs/1908.05436) - [[CODE]](https://github.com/wei-mao-2019/LearnTrajDep) - Wei Mao, Miaomiao Liu, Mathieu Salzmann, Hongdong Li (ICCV 2019)
 
 
 ### Real-time pose estimation
