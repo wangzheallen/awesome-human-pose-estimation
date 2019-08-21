@@ -194,10 +194,13 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Camera Distance-aware Top-down Approach for 3D Multi-person Pose Estimation from a Single RGB Image](https://arxiv.org/abs/1907.11346)  - [[CODE]](https://github.com/mks0601/3DMPPE_ROOTNET_RELEASE)  - [[CODE]](https://github.com/mks0601/3DMPPE_POSENET_RELEASE)  - Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee (ICCV 2019)
 - [xR-EgoPose: Egocentric 3D Human Pose from an HMD Camera](https://arxiv.org/abs/1905.07718)  - Denis Tome, Patrick Peluse, Lourdes Agapito, Hernan Badino (ICCV 2019)
 - [Semantic Estimation of 3D Body Shape and Pose using Minimal Cameras](https://arxiv.org/abs/1908.03030)  - Andrew Gilbert, Matthew Trumble, Adrian Hilton, John Collomosse (Arxiv 2019)
+- [Resolving 3D Human Pose Ambiguities with 3D Scene Constraints](https://arxiv.org/abs/1908.06963)  - [[CODE]](https://prox.is.tue.mpg.de/) - Mohamed Hassan, Vasileios Choutas, Dimitrios Tzionas, Michael J. Black (ICCV 2019)
+- [Distill Knowledge from NRSfM for Weakly Supervised 3D Pose Learning](https://arxiv.org/abs/1908.06377)   - Chaoyang Wang, Chen Kong, Simon Lucey (Arxiv 2019)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1907.10045)  - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 
 ### Geometry
 - [Learning Two-View Correspondences and Geometry Using Order-Aware Network](https://arxiv.org/abs/1908.04964)  - Jiahui Zhang, Dawei Sun, Zixin Luo, Anbang Yao, Lei Zhou, Tianwei Shen, Yurong Chen, Long Quan, Hongen Liao (ICCV 2019)
+- [UprightNet: Geometry-Aware Camera Orientation Estimation from Single Images](https://arxiv.org/abs/1908.07070)  - Wenqi Xian, Zhengqi Li, Matthew Fisher, Jonathan Eisenmann, Eli Shechtman, Noah Snavely (Arxiv 2019)
 
 ### Group of people
 - [SOCIAL LSTM: HUMAN TRAJECTORY PREDICTION IN CROWDED SPACES.](http://vision.stanford.edu/pdf/CVPR16_N_LSTM.pdf)  - Alexandre Alahi, Kratarth Goel, Vignesh Ramanathan, Alexandre Robicquet, Li Fei-Fei, Silvio Savarese. (CVPR 2016)
@@ -261,11 +264,15 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Moulding Humans: Non-parametric 3D Human Shape Estimation from Single Images](https://arxiv.org/abs/1908.00439) - [[Studio]](https://kinovis.inria.fr/)  - Valentin Gabeur, Jean-Sebastien Franco, Xavier Martin, Cordelia Schmid, Gregory Rogez (ICCV 2019)
 - [Dressing 3D Humans using a Conditional Mesh-VAE-GAN](https://arxiv.org/abs/1907.13615)  - Qianli Ma, Siyu Tang, Sergi Pujades, Gerard Pons-Moll, Anurag Ranjan, Michael J. Black (Arxiv 2019)
 - [AMASS: Archive of Motion Capture as Surface Shapes](https://arxiv.org/abs/1904.03278)  - [[CODE]](https://github.com/nghorbani/amass)  - [[CODE]](https://github.com/nghorbani/amass/tree/master/notebooks) - Mahmood, Naureen and Ghorbani, Nima and F. Troje, Nikolaus and Pons-Moll, Gerard and Black, Michael J. (ICCV 2019)
+- [Human Mesh Recovery from Monocular Images via a Skeleton-disentangled Representation](https://arxiv.org/abs/1908.07172)  - Sun Yu, Ye Yun, Liu Wu, Gao Wenpeng, Fu YiLi, Mei Tao (ICCV 2019)
+- [Multi-Garment Net: Learning to Dress 3D People from Images](https://arxiv.org/abs/1908.06903)  - Bharat Lal Bhatnagar, Garvita Tiwari, Christian Theobalt, Gerard Pons-Moll (ICCV 2019)
+- [Delving Deep Into Hybrid Annotations for 3D Human Recovery in the Wild](https://arxiv.org/abs/1908.06442) - [[CODE]](https://penincillin.github.io/dct_iccv2019) - Yu Rong, Ziwei Liu, Cheng Li, Kaidi Cao, Chen Change Loy (ICCV 2019)
 
 ### Pose And Physics-Robotics
 - [Learning Locomotion Skills Using DeepRL: Does the Choice of Action Space Matter? ](https://xbpeng.github.io/projects/ActionSpace/index.html) - [[CODE]](https://xbpeng.github.io/projects/ActionSpace/index.html) - Xue Bin Peng, Michiel van de Panne (Eurographics 2017)
 - [DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills ](https://xbpeng.github.io/projects/DeepMimic/index.html) - [[CODE]](https://xbpeng.github.io/projects/DeepMimic/index.html) - Xue Bin Peng, Pieter Abbeel, Sergey Levine, Michiel van de Panne  (SIGGRAPH 2018)
 - [SFV: Reinforcement Learning of Physical Skills from Videos ](https://xbpeng.github.io/projects/SFV/index.html) - [[CODE]](https://xbpeng.github.io/projects/SFV/index.html) - Xue Bin Peng, Angjoo Kanazawa, Jitendra Malik, Pieter Abbeel, Sergey Levine  (SIGGRAPH Asia 2018)
+- [Learning to Sit: Synthesizing Human-Chair Interactions via Hierarchical Control](https://arxiv.org/abs/1908.07423) - [[Video]](https://www.youtube.com/watch?v=3CeN0OGz2cA&feature=youtu.be) - Yu-Wei Chao, Jimei Yang, Weifeng Chen, Jia Deng  (Arxiv 2018)
 
 
 
