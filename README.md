@@ -197,6 +197,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Resolving 3D Human Pose Ambiguities with 3D Scene Constraints](https://arxiv.org/abs/1908.06963)  - [[CODE]](https://prox.is.tue.mpg.de/) - Mohamed Hassan, Vasileios Choutas, Dimitrios Tzionas, Michael J. Black (ICCV 2019)
 - [Distill Knowledge from NRSfM for Weakly Supervised 3D Pose Learning](https://arxiv.org/abs/1908.06377)   - Chaoyang Wang, Chen Kong, Simon Lucey (Arxiv 2019)
 - [Single-Stage Multi-Person Pose Machines](https://arxiv.org/abs/1908.09220)   - Xuecheng Nie, Jianfeng Zhang, Shuicheng Yan, Jiashi Feng (ICCV 2019)
+- [A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image](https://arxiv.org/abs/1908.09999) - [[CODE]](https://github.com/zhangboshen/A2J)   - Fu Xiong, Boshen Zhang, Yang Xiao, Zhiguo Cao, Taidong Yu, Joey Tianyi Zhou, Junsong Yuan (ICCV 2019)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1907.10045)  - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 
 ### Geometry
