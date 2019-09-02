@@ -93,7 +93,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Human Pose Estimation with Spatial Contextual Information](https://arxiv.org/abs/1901.01760)  - Hong Zhang, Hao Ouyang, Shu Liu, Xiaojuan Qi, Xiaoyong Shen, Ruigang Yang, Jiaya Jia (Arxiv 2019)
 - [PoseFix: Model-agnostic General Human Pose Refinement Network](https://arxiv.org/abs/1812.03595)  - [[CODE]](https://github.com/mks0601/PoseFix_RELEASE) - Moon, Gyeongsik and Chang, Juyong and Lee, Kyoung Mu (CVPR 2019)
 - [Graphonomy: Universal Human Parsing via Graph Transfer Learning](https://arxiv.org/abs/1904.04536)  - [[CODE]](https://github.com/Gaoyiminggithub/Graphonomy) - Ke Gong, Yiming Gao, Xiaodan Liang, Xiaohui Shen, Meng Wang, Liang Lin (CVPR 2019)
-- [PifPaf: Composite Fields for Human Pose Estimation](https://arxiv.org/abs/1903.06593) - Sven Kreiss, Lorenzo Bertoni, Alexandre Alahi (arxiv 2019)
+- [PifPaf: Composite Fields for Human Pose Estimation](https://arxiv.org/abs/1903.06593)  - [[CODE]](https://github.com/vita-epfl/openpifpaf) - Sven Kreiss, Lorenzo Bertoni, Alexandre Alahi (CVPR 2019)
 - [Person-in-WiFi: Fine-grained Person Perception using WiFi](https://arxiv.org/abs/1904.00276) - Fei Wang, Sanping Zhou, Stanislav Panev, Jinsong Han, Dong Huang (arxiv 2019)
 - [Can WiFi Estimate Person Pose?](https://arxiv.org/abs/1904.00277) - Fei Wang, Stanislav Panev, Ziyi Dai, Jinsong Han, Dong Huang (arxiv 2019)
 - [Learning to Learn Relation for Important People Detection in Still Images](https://arxiv.org/pdf/1904.03632.pdf)  - [[CODE]](https://weihonglee.github.io/Projects/POINT/POINT.htm) - Wei-Hong Li, Fa-Ting Hong, Wei-Shi Zheng (CVPR 2019)
@@ -400,6 +400,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 
 
 ### PyTorch
+- [openpifpaf](https://github.com/vita-epfl/openpifpaf)
 - [pytorch-pose-hg-3d](https://github.com/xingyizhou/Pytorch-pose-hg-3d)
 - [pytorch_Realtime_Multi-Person_Pose_Estimation](https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation)
 - [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose/tree/pytorch)
