@@ -198,6 +198,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Distill Knowledge from NRSfM for Weakly Supervised 3D Pose Learning](https://arxiv.org/abs/1908.06377)   - Chaoyang Wang, Chen Kong, Simon Lucey (Arxiv 2019)
 - [Single-Stage Multi-Person Pose Machines](https://arxiv.org/abs/1908.09220)   - Xuecheng Nie, Jianfeng Zhang, Shuicheng Yan, Jiashi Feng (ICCV 2019)
 - [A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image](https://arxiv.org/abs/1908.09999) - [[CODE]](https://github.com/zhangboshen/A2J)   - Fu Xiong, Boshen Zhang, Yang Xiao, Zhiguo Cao, Taidong Yu, Joey Tianyi Zhou, Junsong Yuan (ICCV 2019)
+ [Motion Capture from Pan-Tilt Cameras with Unknown Orientation](https://arxiv.org/pdf/1908.11676.pdf)  - Roman Bachmann, Jörg Spörri, Pascal Fua, Helge Rhodin (3DV 2019)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1907.10045)  - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 
 ### Geometry
@@ -270,6 +271,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Multi-Garment Net: Learning to Dress 3D People from Images](https://arxiv.org/abs/1908.06903)  - Bharat Lal Bhatnagar, Garvita Tiwari, Christian Theobalt, Gerard Pons-Moll (ICCV 2019)
 - [Delving Deep Into Hybrid Annotations for 3D Human Recovery in the Wild](https://arxiv.org/abs/1908.06442) - [[CODE]](https://penincillin.github.io/dct_iccv2019) - Yu Rong, Ziwei Liu, Cheng Li, Kaidi Cao, Chen Change Loy (ICCV 2019)
 - [Shape-Aware Human Pose and Shape Reconstruction Using Multi-View Images](https://arxiv.org/abs/1908.09464)  - Junbang Liang, Ming C. Lin (ICCV 2019)
+- [Estimation of Body Mass Index from Photographs using Deep Convolutional Neural Networks](https://arxiv.org/abs/1908.11694)  - Adam Pantanowitz, Emmanuel Cohen, Philippe Gradidge, Nigel Crowther, Vered Aharonson, Benjamin Rosman, David M Rubin (arxiv 2019)
 
 ### Pose And Physics-Robotics
 - [Learning Locomotion Skills Using DeepRL: Does the Choice of Action Space Matter? ](https://xbpeng.github.io/projects/ActionSpace/index.html) - [[CODE]](https://xbpeng.github.io/projects/ActionSpace/index.html) - Xue Bin Peng, Michiel van de Panne (Eurographics 2017)
