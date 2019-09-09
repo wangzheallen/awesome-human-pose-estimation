@@ -201,11 +201,13 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Cross View Fusion for 3D Human Pose Estimation](https://chunyuwang.netlify.com/img/ICCV_Cross_view_camera_ready.pdf) - [[CODE]](https://github.com/microsoft/multiview-human-pose-estimation-pytorch)   - Haibo Qiu, Chunyu Wang, Jingdong Wang, Naiyan Wang, Wenjun Zeng (ICCV 2019)
 - [Optimizing Network Structure for 3D Human Pose Estimation](https://chunyuwang.netlify.com/)  - Hai Ci, Chunyu Wang, Xiaoxuan Ma, Yizhou Wang, (ICCV 2019)
  [Motion Capture from Pan-Tilt Cameras with Unknown Orientation](https://arxiv.org/pdf/1908.11676.pdf)  - Roman Bachmann, Jörg Spörri, Pascal Fua, Helge Rhodin (3DV 2019)
+  [C3DPO: Canonical 3D Pose Networks for Non-Rigid Structure From Motion](https://arxiv.org/abs/1909.02533)  - David Novotny, Nikhila Ravi, Benjamin Graham, Natalia Neverova, Andrea Vedaldi (arxiv 2019)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1907.10045)  - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 
 ### Geometry
 - [Learning Two-View Correspondences and Geometry Using Order-Aware Network](https://arxiv.org/abs/1908.04964)  - Jiahui Zhang, Dawei Sun, Zixin Luo, Anbang Yao, Lei Zhou, Tianwei Shen, Yurong Chen, Long Quan, Hongen Liao (ICCV 2019)
 - [UprightNet: Geometry-Aware Camera Orientation Estimation from Single Images](https://arxiv.org/abs/1908.07070)  - Wenqi Xian, Zhengqi Li, Matthew Fisher, Jonathan Eisenmann, Eli Shechtman, Noah Snavely (Arxiv 2019)
+- [Gravity as a Reference for Estimating a Person's Height from Video](https://arxiv.org/abs/1909.02211)  - Didier Bieler, Semih Günel, Pascal Fua, Helge Rhodin (ICCV 2019)
 
 ### Group of people
 - [SOCIAL LSTM: HUMAN TRAJECTORY PREDICTION IN CROWDED SPACES.](http://vision.stanford.edu/pdf/CVPR16_N_LSTM.pdf)  - Alexandre Alahi, Kratarth Goel, Vignesh Ramanathan, Alexandre Robicquet, Li Fei-Fei, Silvio Savarese. (CVPR 2016)
@@ -274,6 +276,8 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Delving Deep Into Hybrid Annotations for 3D Human Recovery in the Wild](https://arxiv.org/abs/1908.06442) - [[CODE]](https://penincillin.github.io/dct_iccv2019) - Yu Rong, Ziwei Liu, Cheng Li, Kaidi Cao, Chen Change Loy (ICCV 2019)
 - [Shape-Aware Human Pose and Shape Reconstruction Using Multi-View Images](https://arxiv.org/abs/1908.09464)  - Junbang Liang, Ming C. Lin (ICCV 2019)
 - [Estimation of Body Mass Index from Photographs using Deep Convolutional Neural Networks](https://arxiv.org/abs/1908.11694)  - Adam Pantanowitz, Emmanuel Cohen, Philippe Gradidge, Nigel Crowther, Vered Aharonson, Benjamin Rosman, David M Rubin (arxiv 2019)
+- [Video Interpolation and Prediction with Unsupervised Landmarks](https://arxiv.org/abs/1909.02749)  - Kevin J. Shih, Aysegul Dundar, Animesh Garg, Robert Pottorf, Andrew Tao, Bryan Catanzaro (arxiv 2019)
+
 
 ### Pose And Physics-Robotics
 - [Learning Locomotion Skills Using DeepRL: Does the Choice of Action Space Matter? ](https://xbpeng.github.io/projects/ActionSpace/index.html) - [[CODE]](https://xbpeng.github.io/projects/ActionSpace/index.html) - Xue Bin Peng, Michiel van de Panne (Eurographics 2017)
