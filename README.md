@@ -336,6 +336,8 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [A-MAL: Automatic Motion Assessment Learning from Properly Performed Motions in 3D Skeleton Videos](https://arxiv.org/abs/1907.10004) - Tal Hakim, Ilan Shimshoni (Arxiv 2019)
  - [Learning Trajectory Dependencies for Human Motion Prediction](https://arxiv.org/abs/1908.05436) - [[CODE]](https://github.com/wei-mao-2019/LearnTrajDep) - Wei Mao, Miaomiao Liu, Mathieu Salzmann, Hongdong Li (ICCV 2019)
 - [Dynamic Kernel Distillation for Efficient Pose Estimation in Videos](https://arxiv.org/abs/1908.09216) - Xuecheng Nie, Yuncheng Li, Linjie Luo, Ning Zhang, Jiashi Feng (ICCV 2019)
+- [Imitation Learning for Human Pose Prediction
+](https://arxiv.org/abs/1909.03449) - Borui Wang, Ehsan Adeli, Hsu-kuang Chiu, De-An Huang, Juan Carlos Niebles (ICCV 2019)
 
 ### Real-time pose estimation
 
