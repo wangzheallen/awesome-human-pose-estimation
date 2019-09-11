@@ -202,6 +202,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Optimizing Network Structure for 3D Human Pose Estimation](https://chunyuwang.netlify.com/)  - Hai Ci, Chunyu Wang, Xiaoxuan Ma, Yizhou Wang, (ICCV 2019)
 - [Motion Capture from Pan-Tilt Cameras with Unknown Orientation](https://arxiv.org/pdf/1908.11676.pdf)  - Roman Bachmann, Jörg Spörri, Pascal Fua, Helge Rhodin (3DV 2019)
 - [C3DPO: Canonical 3D Pose Networks for Non-Rigid Structure From Motion](https://arxiv.org/abs/1909.02533)  - David Novotny, Nikhila Ravi, Benjamin Graham, Natalia Neverova, Andrea Vedaldi (arxiv 2019)
+- [MonoLoco: Monocular 3D Pedestrian Localization and Uncertainty Estimation](https://arxiv.org/abs/1906.06059)  - [[CODE]](https://github.com/vita-epfl/monoloco) - Lorenzo Bertoni, Sven Kreiss, Alexandre Alahi (ICCV 2019)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1907.10045)  - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 
 ### Geometry
