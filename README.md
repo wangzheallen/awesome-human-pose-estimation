@@ -110,6 +110,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Learning to Train with Synthetic Humans](https://arxiv.org/abs/1908.00967)  - David T. Hoffmann, Dimitrios Tzionas, Micheal J. Black, Siyu Tang (GCPR 2019)
 - [Falls Prediction Based on Body Keypoints and Seq2Seq Architecture](https://arxiv.org/abs/1908.00275)  - Minjie Hua, Yibing Nan, Shiguo Lian (Arxiv 2019)
 - [Cross-Domain Adaptation for Animal Pose Estimation](https://arxiv.org/abs/1908.05806)  - Jinkun Cao, Hongyang Tang, Hao-Shu Fang, Xiaoyong Shen, Cewu Lu, Yu-Wing Tai (ICCV 2019)
+- [Pose Neural Fabrics Search](https://arxiv.org/abs/1909.07068)  - [[CODE]](https://github.com/yangsenius/PoseNFS) - Sen Yang, Wankou Yang, Zhen Cui (Arxiv 2019)
 
 
 ### 3D Pose estimation
