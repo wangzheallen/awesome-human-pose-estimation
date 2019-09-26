@@ -207,6 +207,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [MonoLoco: Monocular 3D Pedestrian Localization and Uncertainty Estimation](https://arxiv.org/abs/1906.06059)  - [[CODE]](https://github.com/vita-epfl/monoloco) - Lorenzo Bertoni, Sven Kreiss, Alexandre Alahi (ICCV 2019)
 - [Multi-Person 3D Human Pose Estimation from Monocular Images](https://arxiv.org/abs/1909.10854)   - Rishabh Dabral, Nitesh B Gundavarapu, Rahul Mitra, Abhishek Sharma, Ganesh Ramakrishnan, Arjun Jain (3DV 2019)
 - [Human Synthesis and Scene Compositing](https://arxiv.org/abs/1909.10307)   - Mihai Zanfir, Elisabeta Oneata, Alin-Ionut Popa, Andrei Zanfir, Cristian Sminchisescu (Arxiv 2019)
+- [MocapNET: Ensemble of SNN Encoders for 3D Human Pose Estimation in RGB Images](http://users.ics.forth.gr/~argyros/mypapers/2019_09_BMVC_mocapnet.pdf)  - [[CODE]](https://github.com/FORTH-ModelBasedTracker/MocapNET) - Qammaz, Ammar and Argyros, Antonis A (BMVC 2019)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1905.07718)  - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 
 ### Geometry
