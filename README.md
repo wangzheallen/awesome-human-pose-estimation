@@ -111,6 +111,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Falls Prediction Based on Body Keypoints and Seq2Seq Architecture](https://arxiv.org/abs/1908.00275)  - Minjie Hua, Yibing Nan, Shiguo Lian (Arxiv 2019)
 - [Cross-Domain Adaptation for Animal Pose Estimation](https://arxiv.org/abs/1908.05806)  - Jinkun Cao, Hongyang Tang, Hao-Shu Fang, Xiaoyong Shen, Cewu Lu, Yu-Wing Tai (ICCV 2019)
 - [Pose Neural Fabrics Search](https://arxiv.org/abs/1909.07068)  - [[CODE]](https://github.com/yangsenius/PoseNFS) - Sen Yang, Wankou Yang, Zhen Cui (Arxiv 2019)
+- [Anchor Loss: Modulating Loss Scale based on Prediction Difficulty](https://arxiv.org/pdf/1909.11155.pdf)  - Serim Ryou, Seong-Gyun Jeong, Pietro Perona (ICCV 2019)
 
 
 ### 3D Pose estimation
