@@ -112,6 +112,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Cross-Domain Adaptation for Animal Pose Estimation](https://arxiv.org/abs/1908.05806)  - Jinkun Cao, Hongyang Tang, Hao-Shu Fang, Xiaoyong Shen, Cewu Lu, Yu-Wing Tai (ICCV 2019)
 - [Pose Neural Fabrics Search](https://arxiv.org/abs/1909.07068)  - [[CODE]](https://github.com/yangsenius/PoseNFS) - Sen Yang, Wankou Yang, Zhen Cui (Arxiv 2019)
 - [Anchor Loss: Modulating Loss Scale based on Prediction Difficulty](https://arxiv.org/pdf/1909.11155.pdf)  - Serim Ryou, Seong-Gyun Jeong, Pietro Perona (ICCV 2019)
+- [Single-Network Whole-Body Pose Estimation](https://arxiv.org/pdf/1909.13423.pdf) - [[CODE]](https://github.com/CMU-Perceptual-Computing-Lab/openpose_train)  - Gines Hidalgo, Yaadhav Raaj, Haroon Idrees, Donglai Xiang, Hanbyul Joo, Tomas Simon, Yaser Sheikh (ICCV 2019)
 
 
 ### 3D Pose estimation
