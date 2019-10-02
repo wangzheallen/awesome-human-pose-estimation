@@ -211,6 +211,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [MocapNET: Ensemble of SNN Encoders for 3D Human Pose Estimation in RGB Images](http://users.ics.forth.gr/~argyros/mypapers/2019_09_BMVC_mocapnet.pdf)  - [[CODE]](https://github.com/FORTH-ModelBasedTracker/MocapNET) - Qammaz, Ammar and Argyros, Antonis A (BMVC 2019)
 - [Adversarial Attack on Skeleton-based HumanAction Recognition](https://arxiv.org/pdf/1909.06500.pdf)   -Jian Liu, Naveed Akhtar, and Ajmal Mian, (Arxiv 2019)
 - [Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop](https://arxiv.org/abs/1909.12828)  - [[CODE]](https://www.seas.upenn.edu/~nkolot/projects/spin/) - Nikos Kolotouros, Georgios Pavlakos, Michael J. Black, Kostas Daniilidis (ICCV 2019)
+- [DenseRaC: Joint 3D Pose and Shape Estimation by Dense Render-and-Compare](https://arxiv.org/abs/1910.00116)  - Yuanlu Xu, Song-Chun Zhu, Tony Tung (ICCV 2019)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1905.07718)  - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 
 ### Geometry
@@ -288,6 +289,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Estimation of Body Mass Index from Photographs using Deep Convolutional Neural Networks](https://arxiv.org/abs/1908.11694)  - Adam Pantanowitz, Emmanuel Cohen, Philippe Gradidge, Nigel Crowther, Vered Aharonson, Benjamin Rosman, David M Rubin (arxiv 2019)
 - [Video Interpolation and Prediction with Unsupervised Landmarks](https://arxiv.org/abs/1909.02749)  - Kevin J. Shih, Aysegul Dundar, Animesh Garg, Robert Pottorf, Andrew Tao, Bryan Catanzaro (arxiv 2019)
 - [Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop](https://arxiv.org/abs/1909.12828)  - [[CODE]](https://www.seas.upenn.edu/~nkolot/projects/spin/) - Nikos Kolotouros, Georgios Pavlakos, Michael J. Black, Kostas Daniilidis (ICCV 2019)
+- [DenseRaC: Joint 3D Pose and Shape Estimation by Dense Render-and-Compare](https://arxiv.org/abs/1910.00116)  - Yuanlu Xu, Song-Chun Zhu, Tony Tung (ICCV 2019)
 
 ### Pose And Physics-Robotics
 - [Learning Locomotion Skills Using DeepRL: Does the Choice of Action Space Matter? ](https://xbpeng.github.io/projects/ActionSpace/index.html) - [[CODE]](https://xbpeng.github.io/projects/ActionSpace/index.html) - Xue Bin Peng, Michiel van de Panne (Eurographics 2017)
