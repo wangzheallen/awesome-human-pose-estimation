@@ -221,6 +221,8 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Gravity as a Reference for Estimating a Person's Height from Video](https://arxiv.org/abs/1909.02211)  - Didier Bieler, Semih Günel, Pascal Fua, Helge Rhodin (ICCV 2019)
 - [End-to-End Multi-View Fusion for 3D Object Detection in LiDAR Point Clouds](https://arxiv.org/abs/1910.06528)  - DYin Zhou, Pei Sun, Yu Zhang, Dragomir Anguelov, Jiyang Gao, Tom Ouyang, James Guo, Jiquan Ngiam, Vijay Vasudevan (CoRL 2019)
 - [EGenerating Human Action Videos by Coupling 3D Game Engines and Probabilistic Graphical Models](https://arxiv.org/abs/1910.06699)  - César Roberto de Souza, Adrien Gaidon, Yohann Cabon, Naila Murray, Antonio Manuel López (IJCV 2019)
+- [Unsupervised High-Resolution Depth Learning From Videos With Dual Networks](https://arxiv.org/abs/1910.08897)  - Junsheng Zhou, Yuwang Wang, Kaihuai Qin, Wenjun Zeng (ICCV 2019)
+- [Moving Indoor: Unsupervised Video Depth Learning in Challenging Environments](https://arxiv.org/abs/1910.08898)  - Junsheng Zhou, Yuwang Wang, Kaihuai Qin, Wenjun Zeng (ICCV 2019)
 
 ### Group of people
 - [SOCIAL LSTM: HUMAN TRAJECTORY PREDICTION IN CROWDED SPACES.](http://vision.stanford.edu/pdf/CVPR16_N_LSTM.pdf)  - Alexandre Alahi, Kratarth Goel, Vignesh Ramanathan, Alexandre Robicquet, Li Fei-Fei, Silvio Savarese. (CVPR 2016)
@@ -356,7 +358,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 ](https://arxiv.org/abs/1909.03449) - Borui Wang, Ehsan Adeli, Hsu-kuang Chiu, De-An Huang, Juan Carlos Niebles (ICCV 2019)
 - [Symbiotic Graph Neural Networks for 3D Skeleton-based Human Action Recognition and Motion Prediction](https://arxiv.org/abs/1910.01275)  - Maosen Li, Siheng Chen, Xu Chen, Ya Zhang, Yanfeng Wang, Qi Tian (Arxiv 2019)
 - [MultiPath: Multiple Probabilistic Anchor Trajectory Hypotheses for Behavior Prediction](https://arxiv.org/abs/1910.05449)  - Yuning Chai, Benjamin Sapp, Mayank Bansal, Dragomir Anguelov (CoRL 2019)
-
+- [Structured Prediction Helps 3D Human Motion Modelling](https://arxiv.org/abs/1910.09070) - [[CODE]](https://ait.ethz.ch/projects/2019/spl/) - Emre Aksan, Manuel Kaufmann, Otmar Hilliges (ICCV 2019)
 ### Real-time pose estimation
 
 
