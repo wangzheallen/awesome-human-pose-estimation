@@ -214,7 +214,6 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Adversarial Attack on Skeleton-based HumanAction Recognition](https://arxiv.org/pdf/1909.06500.pdf)   -Jian Liu, Naveed Akhtar, and Ajmal Mian, (Arxiv 2019)
 - [Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop](https://arxiv.org/abs/1909.12828)  - [[CODE]](https://www.seas.upenn.edu/~nkolot/projects/spin/) - Nikos Kolotouros, Georgios Pavlakos, Michael J. Black, Kostas Daniilidis (ICCV 2019)
 - [DenseRaC: Joint 3D Pose and Shape Estimation by Dense Render-and-Compare](https://arxiv.org/abs/1910.00116)  - Yuanlu Xu, Song-Chun Zhu, Tony Tung (ICCV 2019)
-- [A Neural Network for Detailed Human Depth Estimation from a Single Image](https://arxiv.org/abs/1910.12032)  - Kun Zhou, Xiaoguang Han, Nianjuan Jiang, Kui Jia, Jiangbo Lu (ICCV 2019)
 - [Chirality Nets for Human Pose Regression](https://arxiv.org/abs/1911.00029)  - Raymond A. Yeh, Yuan-Ting Hu, Alexander G. Schwing (NIPS 2019)
 - [Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching](https://arxiv.org/abs/1911.04131)  - Wei Peng, Xiaopeng Hong, Haoyu Chen, Guoying Zhao (Arxiv 2020)
 - [A Neural Network for Detailed Human Depth Estimation from a Single Image] (https://arxiv.org/abs/1910.01275)  - Sicong Tang, Feitong Tan, Kelvin Cheng, Zhaoyang Li, Siyu Zhu, Ping Tan (ICCV 2019)
@@ -297,8 +296,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Long-Term Video Generation of Multiple FuturesUsing Human Poses](https://arxiv.org/abs/1904.07538) - Naoya Fushishita, Antonio Tejero-de-Pablos, Yusuke Mukuta, Tatsuya Harada (Arxiv 2019)
 - [PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://arxiv.org/abs/1905.05172) - Shunsuke Saito, Zeng Huang, Ryota Natsume, Shigeo Morishima, Angjoo Kanazawa, Hao Li (Arxiv 2019)
 - [Learning 3D Human Body Embedding](https://arxiv.org/abs/1905.05622) - Boyi Jiang, Juyong Zhang, Jianfei Cai, Jianmin Zheng (Arxiv 2019)
-- [Shape Evasion: Preventing Body Shape Inference of Multi-Stage Approaches
-](https://arxiv.org/abs/1905.11503) - Hosnieh Sattar, Katharina Krombholz, Gerard Pons-Moll, Mario Fritz (Arxiv 2019)
+- [Shape Evasion: Preventing Body Shape Inference of Multi-Stage Approaches](https://arxiv.org/abs/1905.11503) - Hosnieh Sattar, Katharina Krombholz, Gerard Pons-Moll, Mario Fritz (Arxiv 2019)
 - [Temporally Coherent Full 3D Mesh Human Pose Recovery from Monocular Video](https://arxiv.org/abs/1906.00161) - Jian Liu, Naveed Akhtar, Ajmal Mian (Arxiv 2019)
 - [Moulding Humans: Non-parametric 3D Human Shape Estimation from Single Images](https://arxiv.org/abs/1908.00439) - [[Studio]](https://kinovis.inria.fr/)  - Valentin Gabeur, Jean-Sebastien Franco, Xavier Martin, Cordelia Schmid, Gregory Rogez (ICCV 2019)
 - [Dressing 3D Humans using a Conditional Mesh-VAE-GAN](https://arxiv.org/abs/1907.13615)  - Qianli Ma, Siyu Tang, Sergi Pujades, Gerard Pons-Moll, Anurag Ranjan, Michael J. Black (Arxiv 2019)
@@ -312,7 +310,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop](https://arxiv.org/abs/1909.12828)  - [[CODE]](https://www.seas.upenn.edu/~nkolot/projects/spin/) - Nikos Kolotouros, Georgios Pavlakos, Michael J. Black, Kostas Daniilidis (ICCV 2019)
 - [DenseRaC: Joint 3D Pose and Shape Estimation by Dense Render-and-Compare](https://arxiv.org/abs/1910.00116)  - Yuanlu Xu, Song-Chun Zhu, Tony Tung (ICCV 2019)
 - [TexturePose: Supervising Human Mesh Estimation with Texture Consistency](https://arxiv.org/pdf/1910.11322.pdf)  - [[CODE]](https://github.com/geopavlakos/TexturePose) - YGeorgios Pavlakos, Nikos Kolotouros, Kostas Daniilidis (ICCV 2019)
-- [Towards Robust RGB-D Human Mesh Recovery](https://arxiv.org/pdf/1911.07383.pdf)   - Ren Li, Changjiang Cai, Georgios Georgakis, Srikrishna Karanam, Terrence Chen, Ziyan Wu (Arxiv 2019)
+- [Towards Robust RGB-D Human Mesh Recovery] (https://arxiv.org/pdf/1911.07383.pdf)   - Ren Li, Changjiang Cai, Georgios Georgakis, Srikrishna Karanam, Terrence Chen, Ziyan Wu (Arxiv 2019)
 
 ### Pose And Physics-Robotics
 - [Learning Locomotion Skills Using DeepRL: Does the Choice of Action Space Matter? ](https://xbpeng.github.io/projects/ActionSpace/index.html) - [[CODE]](https://xbpeng.github.io/projects/ActionSpace/index.html) - Xue Bin Peng, Michiel van de Panne (Eurographics 2017)
