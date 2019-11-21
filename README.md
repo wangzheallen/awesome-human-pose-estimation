@@ -117,6 +117,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [DirectPose: Direct End-to-End Multi-Person Pose Estimation](https://arxiv.org/pdf/1911.07451.pdf)   - Zhi Tian, Hao Chen, Chunhua Shen (Arxiv 2019)
 - [The Devil is in the Details: Delving into Unbiased Data Processing for Human Pose Estimation](https://arxiv.org/abs/1911.07524)  - Junjie Huang, Zheng Zhu, Feng Guo, Guan Huang (ICCV 2019)
 
+
 ### 3D Pose estimation
 - [Reconstruction of Articulated Objects from Point Correspondences in a Single Uncalibrated Image](https://pdfs.semanticscholar.org/4034/943de699dd4d672d3d59b408459168785e9c.pdf) - CJ Taylor. (CVIU 2000)
 - [Covariance-Scaled Sampling for Monocular 3D Body Tracking](http://www.maths.lth.se/sminchisescu/media/papers/css_cvpr01.pdf) - Cristian Sminchisescu and Bill Triggs. (CVPR 2001)
@@ -200,13 +201,13 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [xR-EgoPose: Egocentric 3D Human Pose from an HMD Camera](https://arxiv.org/abs/1905.07718)  - Denis Tome, Patrick Peluse, Lourdes Agapito, Hernan Badino (ICCV 2019)
 - [Semantic Estimation of 3D Body Shape and Pose using Minimal Cameras](https://arxiv.org/abs/1908.03030)  - Andrew Gilbert, Matthew Trumble, Adrian Hilton, John Collomosse (Arxiv 2019)
 - [Resolving 3D Human Pose Ambiguities with 3D Scene Constraints](https://arxiv.org/abs/1908.06963)  - [[Data]](https://prox.is.tue.mpg.de/) - [[CODE]](https://github.com/MohameHassan/prox) - Mohamed Hassan, Vasileios Choutas, Dimitrios Tzionas, Michael J. Black (ICCV 2019)
-- [Distill Knowledge from NRSfM for Weakly Supervised 3D Pose Learning](https://arxiv.org/abs/1908.06377)   - Chaoyang Wang, Chen Kong, Simon Lucey (Arxiv 2019)
+- [Distill Knowledge from NRSfM for Weakly Supervised 3D Pose Learning](https://arxiv.org/abs/1908.06377)   - Chaoyang Wang, Chen Kong, Simon Lucey (ICCV 2019)
 - [Single-Stage Multi-Person Pose Machines](https://arxiv.org/abs/1908.09220)   - Xuecheng Nie, Jianfeng Zhang, Shuicheng Yan, Jiashi Feng (ICCV 2019)
 - [A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image](https://arxiv.org/abs/1908.09999) - [[CODE]](https://github.com/zhangboshen/A2J)   - Fu Xiong, Boshen Zhang, Yang Xiao, Zhiguo Cao, Taidong Yu, Joey Tianyi Zhou, Junsong Yuan (ICCV 2019)
 - [Cross View Fusion for 3D Human Pose Estimation](https://chunyuwang.netlify.com/img/ICCV_Cross_view_camera_ready.pdf) - [[CODE]](https://github.com/microsoft/multiview-human-pose-estimation-pytorch)   - Haibo Qiu, Chunyu Wang, Jingdong Wang, Naiyan Wang, Wenjun Zeng (ICCV 2019)
 - [Optimizing Network Structure for 3D Human Pose Estimation](https://chunyuwang.netlify.com/)  - Hai Ci, Chunyu Wang, Xiaoxuan Ma, Yizhou Wang, (ICCV 2019)
 - [Motion Capture from Pan-Tilt Cameras with Unknown Orientation](https://arxiv.org/pdf/1908.11676.pdf)  - Roman Bachmann, Jörg Spörri, Pascal Fua, Helge Rhodin (3DV 2019)
-- [C3DPO: Canonical 3D Pose Networks for Non-Rigid Structure From Motion](https://arxiv.org/abs/1909.02533)  - David Novotny, Nikhila Ravi, Benjamin Graham, Natalia Neverova, Andrea Vedaldi (arxiv 2019)
+- [C3DPO: Canonical 3D Pose Networks for Non-Rigid Structure From Motion](https://arxiv.org/abs/1909.02533)  - David Novotny, Nikhila Ravi, Benjamin Graham, Natalia Neverova, Andrea Vedaldi (ICCV 2019)
 - [MonoLoco: Monocular 3D Pedestrian Localization and Uncertainty Estimation](https://arxiv.org/abs/1906.06059)  - [[CODE]](https://github.com/vita-epfl/monoloco) - Lorenzo Bertoni, Sven Kreiss, Alexandre Alahi (ICCV 2019)
 - [Multi-Person 3D Human Pose Estimation from Monocular Images](https://arxiv.org/abs/1909.10854)   - Rishabh Dabral, Nitesh B Gundavarapu, Rahul Mitra, Abhishek Sharma, Ganesh Ramakrishnan, Arjun Jain (3DV 2019)
 - [Human Synthesis and Scene Compositing](https://arxiv.org/abs/1909.10307)   - Mihai Zanfir, Elisabeta Oneata, Alin-Ionut Popa, Andrei Zanfir, Cristian Sminchisescu (Arxiv 2019)
@@ -221,6 +222,12 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Convex Optimisation for Inverse Kinematics](https://arxiv.org/abs/1910.11016)  - Tarun Yenamandra, Florian Bernard, Jiayi Wang, Franziska Mueller, Christian Theobalt (Arxiv 2019)
 - [AbsPoseLifter: Absolute 3D Human Pose Lifting Network from a Single Noisy 2D Human Pose](https://arxiv.org/abs/1910.12029)  - Ju Yong Chang, Gyeongsik Moon, Kyoung Mu Lee (Arxiv 2019)
 - [SMART: Skeletal Motion Action Recognition aTtack](https://arxiv.org/abs/1911.07107)  - He Wang, Feixiang He, Zexi Peng, Yongliang Yang, Tianjia Shao, Kun Zhou, David Hogg (Arxiv 2019)
+- [Markerless Outdoor Human Motion Capture Using Multiple Autonomous Micro Aerial Vehicles]
+(http://openaccess.thecvf.com/content_ICCV_2019/papers/Saini_Markerless_Outdoor_Human_Motion_Capture_Using_Multiple_Autonomous_Micro_Aerial_ICCV_2019_paper.pdf)  - [[CODE]](https://github.com/robot-perception-group/Aircap_Pose_Estimator) - Nitin Saini, Eric Price, Rahul Tallamraju, Raffi Enficiaud, Roman Ludwig, Igor Martinovic, Aamir Ahmad, Michael J. Black (ICCV 2019)
+- [Exploiting Spatial-temporal Relationships for 3D Pose Estimation via Graph Convolutional Networks](https://cse.buffalo.edu/~jsyuan/papers/2019/Exploiting_Spatialtemporal_Relationships_for_3D_Pose_Estimation_via_Graph_Convolutional_Networks.pdf)  - Yujun Cai, etal (ICCV 2019)
+- [Occlusion-Aware Networks for 3D Human Pose Estimation in Video](http://openaccess.thecvf.com/content_ICCV_2019/papers/Cheng_OcclusionAware_Networks_for_3D_Human_Pose_Estimation_in_Video_ICCV_2019_paper.pdf)  - Yu Cheng, Bo Yang, Bo Wang, Wending Yan, and Robby T. Tan (ICCV 2019)
+- [On Boosting Single-Frame 3D Human Pose Estimation via Monocular Videos] (http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_On_Boosting_SingleFrame_3D_Human_Pose_Estimation_via_Monocular_Videos_ICCV_2019_paper.pdf)  - Zhi Li,Xuan Wang, Fei Wang, and Peilin Jiang(ICCV 2019)
+- [Monocular 3D Human Pose Estimation by Generation and Ordinal Ranking](https://arxiv.org/abs/1904.01324)  - [[CODE]](https://github.com/ssfootball04/generative_pose)  - Saurabh Sharma, Pavan Teja Varigonda, Prashast Bindal, Abhishek Sharma, Arjun Jain (ICCV 2019)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1905.07718)  - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 
 ### Geometry
@@ -237,6 +244,10 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Conservative Wasserstein Training for Pose Estimation](https://arxiv.org/abs/1911.00962)   - Xiaofeng Liu, Yang Zou, Tong Che, Peng Ding, Ping Jia, Jane You, Kumar B.V.K (ICCV 2019)
 - [Tell Me What They're Holding: Weakly-supervised Object Detection with Transferable Knowledge from Human-object Interaction](https://arxiv.org/abs/1911.08141)   - Daesik Kim, Gyujeong Lee, Jisoo Jeong, Nojun Kwak (AAAI 2020)
 - [Single-Stage 6D Object Pose Estimation](https://arxiv.org/abs/1911.08324)   - Yinlin Hu, Pascal Fua, Wei Wang, Mathieu Salzmann (Arxiv 2019)
+- [GP2C: Geometric Projection Parameter Consensus for Joint 3D Pose and Focal Length Estimation in the Wild
+](https://arxiv.org/abs/1908.02809)   - Alexander Grabner, Peter M. Roth, Vincent Lepetit (ICCV 2019)
+- [SANet: Scene Agnostic Network for Camera Localization
+](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_SANet_Scene_Agnostic_Network_for_Camera_Localization_ICCV_2019_paper.pdf)   - Luwei Yang etal (ICCV 2019)
 
 ### Group of people
 - [SOCIAL LSTM: HUMAN TRAJECTORY PREDICTION IN CROWDED SPACES.](http://vision.stanford.edu/pdf/CVPR16_N_LSTM.pdf)  - Alexandre Alahi, Kratarth Goel, Vignesh Ramanathan, Alexandre Robicquet, Li Fei-Fei, Silvio Savarese. (CVPR 2016)
@@ -379,6 +390,10 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Symbiotic Graph Neural Networks for 3D Skeleton-based Human Action Recognition and Motion Prediction](https://arxiv.org/abs/1910.01275)  - Maosen Li, Siheng Chen, Xu Chen, Ya Zhang, Yanfeng Wang, Qi Tian (Arxiv 2019)
 - [MultiPath: Multiple Probabilistic Anchor Trajectory Hypotheses for Behavior Prediction](https://arxiv.org/abs/1910.05449)  - Yuning Chai, Benjamin Sapp, Mayank Bansal, Dragomir Anguelov (CoRL 2019)
 - [Structured Prediction Helps 3D Human Motion Modelling](https://arxiv.org/abs/1910.09070) - [[CODE]](https://ait.ethz.ch/projects/2019/spl/) - Emre Aksan, Manuel Kaufmann, Otmar Hilliges (ICCV 2019)
+- [Human Motion Prediction via Spatio-Temporal Inpainting](https://arxiv.org/abs/1812.05478)  - Alejandro Hernandez Ruiz, Juergen Gall, Francesc Moreno-Noguer (ICCV 2019)
+- [Imitation Learning for Human Pose Prediction](https://arxiv.org/abs/1909.03449)  - Borui Wang, Ehsan Adeli, Hsu-kuang Chiu, De-An Huang, Juan Carlos Niebles (ICCV 2019)
+
+
 ### Real-time pose estimation
 
 
@@ -404,6 +419,11 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Gesture-to-Gesture Translation in the Wild via Category-Independent Conditional Maps](https://arxiv.org/abs/1907.05916)  - Yahui Liu, Marco De Nadai, Gloria Zen, Nicu Sebe, Bruno Lepri (Arxiv 2019)
 - [FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape from Single RGB Images](https://arxiv.org/abs/1909.04349) - [[CODE]](https://lmb.informatik.uni-freiburg.de/projects/freihand/)  - Christian Zimmermann, Duygu Ceylan, Jimei Yang, Bryan Russell, Max Argus, Thomas Brox (ICCV 2019)
 - [Early Estimation of User's Intention of Tele-Operation Using Object Affordance and Hand Motion in a Dual First-Person Vision](https://arxiv.org/abs/1910.02201)  - Motoki Kojima, Jun Miura (Arxiv 2019)
+- [aligning latent spaces for 3d hand pose estimation](https://www.mu4yang.com/files/papers/Aligning%20Latent%20Spaces%20for%203D%20Hand%20Pose%20Estimation.pdf)  - Linlin Yang, Shile Li, Dongheui Lee, Angela Yao (ICCV 2019)
+- [A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image
+](https://arxiv.org/abs/1908.09999)  -Fu Xiong, Boshen Zhang, Yang Xiao, Zhiguo Cao, Taidong Yu, Joey Tianyi Zhou, Junsong Yuan (ICCV 2019)
+
+
 
 ## Datasets
 ### 2D
