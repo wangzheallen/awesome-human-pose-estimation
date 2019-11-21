@@ -216,7 +216,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [DenseRaC: Joint 3D Pose and Shape Estimation by Dense Render-and-Compare](https://arxiv.org/abs/1910.00116)  - Yuanlu Xu, Song-Chun Zhu, Tony Tung (ICCV 2019)
 - [Chirality Nets for Human Pose Regression](https://arxiv.org/abs/1911.00029)  - Raymond A. Yeh, Yuan-Ting Hu, Alexander G. Schwing (NIPS 2019)
 - [Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching](https://arxiv.org/abs/1911.04131)  - Wei Peng, Xiaopeng Hong, Haoyu Chen, Guoying Zhao (Arxiv 2020)
-- [A Neural Network for Detailed Human Depth Estimation from a Single Image] (https://arxiv.org/abs/1910.01275)  - Sicong Tang, Feitong Tan, Kelvin Cheng, Zhaoyang Li, Siyu Zhu, Ping Tan (ICCV 2019)
+- [A Neural Network for Detailed Human Depth Estimation from a Single Image](https://arxiv.org/abs/1910.01275)  - Sicong Tang, Feitong Tan, Kelvin Cheng, Zhaoyang Li, Siyu Zhu, Ping Tan (ICCV 2019)
 - [HEMlets Pose: Learning Part-Centric Heatmap Triplets for Accurate 3D Human Pose Estimation](https://arxiv.org/abs/1910.01275)  - Kun Zhou, Xiaoguang Han, Nianjuan Jiang, Kui Jia, Jiangbo Lu (ICCV 2019)
 - [Convex Optimisation for Inverse Kinematics](https://arxiv.org/abs/1910.11016)  - Tarun Yenamandra, Florian Bernard, Jiayi Wang, Franziska Mueller, Christian Theobalt (Arxiv 2019)
 - [AbsPoseLifter: Absolute 3D Human Pose Lifting Network from a Single Noisy 2D Human Pose](https://arxiv.org/abs/1910.12029)  - Ju Yong Chang, Gyeongsik Moon, Kyoung Mu Lee (Arxiv 2019)
