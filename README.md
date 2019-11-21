@@ -236,6 +236,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [GIFT: Learning Transformation-Invariant Dense Visual Descriptors via Group CNNs](https://arxiv.org/abs/1911.05932)   -[[CODE]](https://zju3dv.github.io/GIFT/)  - Yuan Liu, Zehong Shen, Zhixuan Lin, Sida Peng, Hujun Bao, Xiaowei Zhou (NIPS 2019)
 - [Conservative Wasserstein Training for Pose Estimation](https://arxiv.org/abs/1911.00962)   - Xiaofeng Liu, Yang Zou, Tong Che, Peng Ding, Ping Jia, Jane You, Kumar B.V.K (ICCV 2019)
 - [Tell Me What They're Holding: Weakly-supervised Object Detection with Transferable Knowledge from Human-object Interaction](https://arxiv.org/abs/1911.08141)   - Daesik Kim, Gyujeong Lee, Jisoo Jeong, Nojun Kwak (AAAI 2020)
+- [Single-Stage 6D Object Pose Estimation](https://arxiv.org/abs/1911.08324)   - Yinlin Hu, Pascal Fua, Wei Wang, Mathieu Salzmann (Arxiv 2019)
 
 ### Group of people
 - [SOCIAL LSTM: HUMAN TRAJECTORY PREDICTION IN CROWDED SPACES.](http://vision.stanford.edu/pdf/CVPR16_N_LSTM.pdf)  - Alexandre Alahi, Kratarth Goel, Vignesh Ramanathan, Alexandre Robicquet, Li Fei-Fei, Silvio Savarese. (CVPR 2016)
