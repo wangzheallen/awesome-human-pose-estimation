@@ -30,11 +30,13 @@ Feedback and contributions are welcome!
 - [Papers](#papers)
   - [2D Pose estimation](#2d-pose-estimation)
   - [3D Pose estimation](#3d-pose-estimation)
+  - [Geometry](#Geometry)
   - [Group of people](#group-of-people)
   - [Person generation](#Person-generation)
   - [Human mesh](#3D-Human-Mesh)
   - [Pose And Physics-Robotics](#Pose-And-Physics-Robotics)
   - [Pose and Language-Speech](#Pose-and-Language-Speech)
+  - [Pose and Action](#Pose-and-Action)
   - [Video pose](#video-pose)
   - [Real-time Pose estimation](#real-time-pose-estimation)
   - [Hand-Face Pose which is inspiring](#Hand-Face-landmark)
@@ -116,6 +118,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [The Devil is in the Details: Delving into Unbiased Data Processing for Human Pose Estimation](https://arxiv.org/abs/1911.07524)   - Junjie Huang, Zheng Zhu, Feng Guo, Guan Huang (Arxiv 2019)
 - [DirectPose: Direct End-to-End Multi-Person Pose Estimation](https://arxiv.org/pdf/1911.07451.pdf)   - Zhi Tian, Hao Chen, Chunhua Shen (Arxiv 2019)
 - [The Devil is in the Details: Delving into Unbiased Data Processing for Human Pose Estimation](https://arxiv.org/abs/1911.07524)  - Junjie Huang, Zheng Zhu, Feng Guo, Guan Huang (ICCV 2019)
+- [Simple and Lightweight Human Pose Estimation](https://arxiv.org/abs/1911.10346)  - Zhe Zhang, Jie Tang, Gangshan Wu (Arxiv 2019)
 
 
 ### 3D Pose estimation
@@ -228,6 +231,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Occlusion-Aware Networks for 3D Human Pose Estimation in Video](http://openaccess.thecvf.com/content_ICCV_2019/papers/Cheng_OcclusionAware_Networks_for_3D_Human_Pose_Estimation_in_Video_ICCV_2019_paper.pdf)  - Yu Cheng, Bo Yang, Bo Wang, Wending Yan, and Robby T. Tan (ICCV 2019)
 - [On Boosting Single-Frame 3D Human Pose Estimation via Monocular Videos] (http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_On_Boosting_SingleFrame_3D_Human_Pose_Estimation_via_Monocular_Videos_ICCV_2019_paper.pdf)  - Zhi Li,Xuan Wang, Fei Wang, and Peilin Jiang(ICCV 2019)
 - [Monocular 3D Human Pose Estimation by Generation and Ordinal Ranking](https://arxiv.org/abs/1904.01324)  - [[CODE]](https://github.com/ssfootball04/generative_pose)  - Saurabh Sharma, Pavan Teja Varigonda, Prashast Bindal, Abhishek Sharma, Arjun Jain (ICCV 2019)
+- [Consensus-based Optimization for 3D Human Pose Estimation in Camera Coordinates](https://arxiv.org/abs/1911.09245)   - Diogo C Luvizon, Hedi Tabia, David Picard (Arxiv 2019)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1905.07718)  - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 
 ### Geometry
@@ -244,10 +248,10 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Conservative Wasserstein Training for Pose Estimation](https://arxiv.org/abs/1911.00962)   - Xiaofeng Liu, Yang Zou, Tong Che, Peng Ding, Ping Jia, Jane You, Kumar B.V.K (ICCV 2019)
 - [Tell Me What They're Holding: Weakly-supervised Object Detection with Transferable Knowledge from Human-object Interaction](https://arxiv.org/abs/1911.08141)   - Daesik Kim, Gyujeong Lee, Jisoo Jeong, Nojun Kwak (AAAI 2020)
 - [Single-Stage 6D Object Pose Estimation](https://arxiv.org/abs/1911.08324)   - Yinlin Hu, Pascal Fua, Wei Wang, Mathieu Salzmann (Arxiv 2019)
-- [GP2C: Geometric Projection Parameter Consensus for Joint 3D Pose and Focal Length Estimation in the Wild
-](https://arxiv.org/abs/1908.02809)   - Alexander Grabner, Peter M. Roth, Vincent Lepetit (ICCV 2019)
-- [SANet: Scene Agnostic Network for Camera Localization
-](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_SANet_Scene_Agnostic_Network_for_Camera_Localization_ICCV_2019_paper.pdf)   - Luwei Yang etal (ICCV 2019)
+- [GP2C: Geometric Projection Parameter Consensus for Joint 3D Pose and Focal Length Estimation in the Wild](https://arxiv.org/abs/1908.02809)   - Alexander Grabner, Peter M. Roth, Vincent Lepetit (ICCV 2019)
+- [SANet: Scene Agnostic Network for Camera Localization](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_SANet_Scene_Agnostic_Network_for_Camera_Localization_ICCV_2019_paper.pdf)   - Luwei Yang etal (ICCV 2019)
+- [ViewSynth: Learning Local Features from Depth using View Synthesis](https://arxiv.org/abs/1911.10248)   - Jisan Mahmud, Peri Akiva, Rajat Vikram Singh, Spondon Kundu, Kuan-Chuan Peng, Jan-Michael Frahm (Arxiv 2019)
+
 
 ### Group of people
 - [SOCIAL LSTM: HUMAN TRAJECTORY PREDICTION IN CROWDED SPACES.](http://vision.stanford.edu/pdf/CVPR16_N_LSTM.pdf)  - Alexandre Alahi, Kratarth Goel, Vignesh Ramanathan, Alexandre Robicquet, Li Fei-Fei, Silvio Savarese. (CVPR 2016)
@@ -345,6 +349,10 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Motion Reasoning for Goal-Based Imitation Learning](https://arxiv.org/pdf/1911.05864.pdf) - De-An Huang, Yu-Wei Chao, Chris Paxton, Xinke Deng, Li Fei-Fei, Juan Carlos Niebles, Animesh Garg, Dieter Fox (Arxiv 2019)
 - [Dancing to Music](https://arxiv.org/pdf/1911.02001.pdf) - [[CODE]](https://github.com/NVlabs/Dancing2Music) - Hsin-Ying Lee, Xiaodong Yang, Ming-Yu Liu, Ting-Chun Wang, Yu-Ding Lu, Ming-Hsuan Yang, Jan Kautz (NIPS 2019)
 
+### Pose-and-Action
+
+- [RSA: Randomized Simulation as Augmentation for Robust Human Action Recognition](https://arxiv.org/abs/1912.01180) - Yi Zhang, Xinyue Wei, Weichao Qiu, Zihao Xiao, Gregory D. Hager, Alan Yuille. (Arxiv 2019)
+- [Simultaneous Implementation Features Extraction and Recognition Using C3DNetwork for WiFi-based Human Activity Recognition](https://arxiv.org/pdf/1911.09325.pdf) - Yafeng  Liu et al. (Arxiv 2019)
 
 ### Video pose
 - [Nonrigid Structure from Motion in Trajectory Space](http://www.cs.cmu.edu/~yaser/AkhtarSheikhKhanKanade_NIPS2008.pdf) - Ijaz Akhter, Yaser Sheikh, Sohaib Khan and Takeo Kanade. (NIPS 2008)
