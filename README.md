@@ -261,6 +261,8 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Pyramid Multi-view Stereo Net with Self-adaptive View Aggregation](https://arxiv.org/abs/1912.03001) -[[CODE]](https://github.com/yhw-yhw/PVAMVSNet)  - Hongwei Yi, Zizhuang Wei, Mingyu Ding, Runze Zhang, Yisong Chen, Guoping Wang, Yu-Wing Tai (Arxiv 2019)
 - [Neural Network Generalization: The impact of camera parameters](https://arxiv.org/abs/1912.03604)   - HZhenyi Liu, Trisha Lian, Joyce Farrell, Brian Wandell(Arxiv 2019)
 - [Geometric Capsule Autoencoders for 3D Point Clouds](https://arxiv.org/abs/1912.03310)   - Nitish Srivastava, Hanlin Goh, Ruslan Salakhutdinov(Arxiv 2019)
+- [What You See is What You Get: Exploiting Visibility for 3D Object Detection](https://arxiv.org/abs/1912.04986)   - Peiyun Hu, Jason Ziglar, David Held, Deva Ramanan(Arxiv 2019)
+- [Car Pose in Context: Accurate Pose Estimation with Ground Plane Constraints](https://arxiv.org/abs/1912.04363)   - Pengfei Li, Weichao Qiu, Michael Peven, Gregory D. Hager, Alan L. Yuille (Arxiv 2019)
 
 ### Group of people
 - [SOCIAL LSTM: HUMAN TRAJECTORY PREDICTION IN CROWDED SPACES.](http://vision.stanford.edu/pdf/CVPR16_N_LSTM.pdf)  - Alexandre Alahi, Kratarth Goel, Vignesh Ramanathan, Alexandre Robicquet, Li Fei-Fei, Silvio Savarese. (CVPR 2016)
@@ -342,8 +344,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills ](https://xbpeng.github.io/projects/DeepMimic/index.html) - [[CODE]](https://xbpeng.github.io/projects/DeepMimic/index.html) - Xue Bin Peng, Pieter Abbeel, Sergey Levine, Michiel van de Panne  (SIGGRAPH 2018)
 - [SFV: Reinforcement Learning of Physical Skills from Videos ](https://xbpeng.github.io/projects/SFV/index.html) - [[CODE]](https://xbpeng.github.io/projects/SFV/index.html) - Xue Bin Peng, Angjoo Kanazawa, Jitendra Malik, Pieter Abbeel, Sergey Levine  (SIGGRAPH Asia 2018)
 - [Learning to Sit: Synthesizing Human-Chair Interactions via Hierarchical Control](https://arxiv.org/abs/1908.07423) - [[Video]](https://www.youtube.com/watch?v=3CeN0OGz2cA&feature=youtu.be) - Yu-Wei Chao, Jimei Yang, Weifeng Chen, Jia Deng  (Arxiv 2018)
-
-
+- [AVID: Learning Multi-Stage Tasks via Pixel-Level Translation of Human Videos](https://arxiv.org/abs/1912.04443) - [[CODE]](https://sites.google.com/view/icra20avid) - Laura Smith, Nikita Dhawan, Marvin Zhang, Pieter Abbeel, Sergey Levine  (Arxiv 2019)
 
 ### Pose and Language-Speech-Reasoning 
 - [Your body language may shape who you are](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are?language=en) (TED 2012)
