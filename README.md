@@ -263,6 +263,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Geometric Capsule Autoencoders for 3D Point Clouds](https://arxiv.org/abs/1912.03310)   - Nitish Srivastava, Hanlin Goh, Ruslan Salakhutdinov(Arxiv 2019)
 - [What You See is What You Get: Exploiting Visibility for 3D Object Detection](https://arxiv.org/abs/1912.04986)   - Peiyun Hu, Jason Ziglar, David Held, Deva Ramanan(Arxiv 2019)
 - [Car Pose in Context: Accurate Pose Estimation with Ground Plane Constraints](https://arxiv.org/abs/1912.04363)   - Pengfei Li, Weichao Qiu, Michael Peven, Gregory D. Hager, Alan L. Yuille (Arxiv 2019)
+- [Quaternion Knowledge Graph Embeddings](https://arxiv.org/abs/1904.10281)  -[[CODE]](https://github.com/cheungdaven/QuatE) - Shuai Zhang, Yi Tay, Lina Yao, Qi Liu (NIPS 2019)
 
 ### Group of people
 - [SOCIAL LSTM: HUMAN TRAJECTORY PREDICTION IN CROWDED SPACES.](http://vision.stanford.edu/pdf/CVPR16_N_LSTM.pdf)  - Alexandre Alahi, Kratarth Goel, Vignesh Ramanathan, Alexandre Robicquet, Li Fei-Fei, Silvio Savarese. (CVPR 2016)
@@ -413,7 +414,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Structured Prediction Helps 3D Human Motion Modelling](https://arxiv.org/abs/1910.09070) - [[CODE]](https://ait.ethz.ch/projects/2019/spl/) - Emre Aksan, Manuel Kaufmann, Otmar Hilliges (ICCV 2019)
 - [Human Motion Prediction via Spatio-Temporal Inpainting](https://arxiv.org/abs/1812.05478)  - Alejandro Hernandez Ruiz, Juergen Gall, Francesc Moreno-Noguer (ICCV 2019)
 - [Imitation Learning for Human Pose Prediction](https://arxiv.org/abs/1909.03449)  - Borui Wang, Ehsan Adeli, Hsu-kuang Chiu, De-An Huang, Juan Carlos Niebles (ICCV 2019)
-
+- [Unsupervised learning of object structure and dynamics from videos](https://arxiv.org/abs/1906.07889) - [[CODE]](https://mjlm.github.io/video_structure/)  - Matthias Minderer*, Chen Sun, Ruben Villegas, Forrester Cole, Kevin Murphy, Honglak Lee (NIPS 2019)
 
 ### Real-time pose estimation
 
