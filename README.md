@@ -121,6 +121,8 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Simple and Lightweight Human Pose Estimation](https://arxiv.org/abs/1911.10346)  - Zhe Zhang, Jie Tang, Gangshan Wu (Arxiv 2019)
 - [Mixture Dense Regression for Object Detection and Human Pose Estimation](https://arxiv.org/abs/1912.00821)  - Ali Varamesh, Tinne Tuytelaars (Arxiv 2019)
 - [15 Keypoints Is All You Need](https://arxiv.org/abs/1912.02323)  - Michael Snower, Asim Kadav, Farley Lai, Hans Peter Graf (Arxiv 2019)
+- [Learning Temporal Pose Estimation from Sparsely Labeled Videos](https://arxiv.org/abs/1906.04016)  - [[CODE]](https://github.com/facebookresearch/PoseWarper)   - Gedas Bertasius, Christoph Feichtenhofer, Du Tran, Jianbo Shi, Lorenzo Torresani (NIPS 2019)
+- [Correlated Uncertainty for Learning DenseCorrespondences from Noisy Labels](https://nneverova.github.io/npapers/densepose_neurips_cameraready_slides.pdf)   - Natalia Neverova, David Novotny, Andrea Vedaldi (NIPS 2019)
 
 
 ### 3D Pose estimation
@@ -237,6 +239,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [DeepFuse: An IMU-Aware Network for Real-Time 3D Human Pose Estimation from Multi-View Image](https://arxiv.org/abs/1912.04071)  - Fuyang Huang, Ailing Zeng, Minhao Liu, Qiuxia Lai, Qiang Xu (WACV 2020)
 - [Generating 3D People in Scenes without People](https://arxiv.org/abs/1912.02923)  - Yan Zhang, Mohamed Hassan, Heiko Neumann, Michael J. Black, Siyu Tang (Arxiv 2019)
 - [Video Motion Capture from the Part Confidence Maps of Multi-Camera Images by Spatiotemporal Filtering Using the Human Skeletal Model](https://arxiv.org/abs/1912.03880)  - Takuya Ohashi, Yosuke Ikegami, Kazuki Yamamoto, Wataru Takano, Yoshihiko Nakamura (IROS 2018)
+- [Domes to Drones: Self-Supervised Active Triangulation for 3D Human Pose Reconstruction](https://arxiv.org/abs/1912.02923)  - Aleksis Pirinen1, Erik Gärtner and Cristian Sminchisescu (NIPS 2019)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1905.07718)  - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 
 ### Geometry
