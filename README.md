@@ -123,6 +123,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [15 Keypoints Is All You Need](https://arxiv.org/abs/1912.02323)  - Michael Snower, Asim Kadav, Farley Lai, Hans Peter Graf (Arxiv 2019)
 - [Learning Temporal Pose Estimation from Sparsely Labeled Videos](https://arxiv.org/abs/1906.04016)  - [[CODE]](https://github.com/facebookresearch/PoseWarper)   - Gedas Bertasius, Christoph Feichtenhofer, Du Tran, Jianbo Shi, Lorenzo Torresani (NIPS 2019)
 - [Correlated Uncertainty for Learning DenseCorrespondences from Noisy Labels](https://nneverova.github.io/npapers/densepose_neurips_cameraready_slides.pdf)   - Natalia Neverova, David Novotny, Andrea Vedaldi (NIPS 2019)
+- [Simple Pose: Rethinking and Improving a Bottom-up Approach for Multi-Person Pose Estimation](https://arxiv.org/abs/1911.10529) -[[CODE]](https://github.com/jialee93/Improved-Body-Parts) - Jia Li, Wen Su, Zengfu Wang (AAAI2020)
 
 
 ### 3D Pose estimation
