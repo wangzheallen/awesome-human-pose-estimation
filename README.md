@@ -482,7 +482,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 )
 - [MuPoTS-3D2](https://paperswithcode.com/sota/3d-multi-person-pose-estimation-root-relative?p=camera-distance-aware-top-down-approach-for-1
 )
-
+- [GPA(Geometric Pose Affordance dataset)](https://paperswithcode.com/sota/3d-human-pose-estimation-on-geometric-pose)
 
 ## Workshops
 - [POSETRACK-ECCV](https://posetrack.net/workshops/eccv2018/)
