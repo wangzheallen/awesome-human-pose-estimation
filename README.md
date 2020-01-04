@@ -344,6 +344,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [TexturePose: Supervising Human Mesh Estimation with Texture Consistency](https://arxiv.org/pdf/1910.11322.pdf)  - [[CODE]](https://github.com/geopavlakos/TexturePose) - YGeorgios Pavlakos, Nikos Kolotouros, Kostas Daniilidis (ICCV 2019)
 - [Towards Robust RGB-D Human Mesh Recovery] (https://arxiv.org/pdf/1911.07383.pdf)   - Ren Li, Changjiang Cai, Georgios Georgakis, Srikrishna Karanam, Terrence Chen, Ziyan Wu (Arxiv 2019)
 - [CLOTH3D: Clothed 3D Humans] (https://arxiv.org/abs/1912.02792)   - Hugo Bertiche, Meysam Madadi, Sergio Escalera(Arxiv 2019)
+- [Learning 3D Human Shape and Pose from Dense Body Parts] (https://hongwenzhang.github.io/dense2mesh/pdf/learning3Dhuman.pdf)   - Hongwen Zhang Jie Cao Guo Lu Wanli Ouyang Zhenan Sun (Arxiv 2019)
 
 ### Pose And Physics-Robotics
 - [Learning Locomotion Skills Using DeepRL: Does the Choice of Action Space Matter? ](https://xbpeng.github.io/projects/ActionSpace/index.html) - [[CODE]](https://xbpeng.github.io/projects/ActionSpace/index.html) - Xue Bin Peng, Michiel van de Panne (Eurographics 2017)
