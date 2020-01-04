@@ -241,6 +241,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Generating 3D People in Scenes without People](https://arxiv.org/abs/1912.02923)  - Yan Zhang, Mohamed Hassan, Heiko Neumann, Michael J. Black, Siyu Tang (Arxiv 2019)
 - [Video Motion Capture from the Part Confidence Maps of Multi-Camera Images by Spatiotemporal Filtering Using the Human Skeletal Model](https://arxiv.org/abs/1912.03880)  - Takuya Ohashi, Yosuke Ikegami, Kazuki Yamamoto, Wataru Takano, Yoshihiko Nakamura (IROS 2018)
 - [Domes to Drones: Self-Supervised Active Triangulation for 3D Human Pose Reconstruction](https://arxiv.org/abs/1912.02923)  - Aleksis Pirinen1, Erik Gärtner and Cristian Sminchisescu (NIPS 2019)
+- [ActiveMoCap: Optimized Drone Flight for Active Human Motion Capture](https://arxiv.org/abs/1912.08568)  - Sena Kiciroglu, Helge Rhodin, Sudipta Sinha, Mathieu Salzmann, Pascal Fua (Arxiv 2019)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1905.07718)  - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 
 ### Geometry
@@ -268,6 +269,8 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [What You See is What You Get: Exploiting Visibility for 3D Object Detection](https://arxiv.org/abs/1912.04986)   - Peiyun Hu, Jason Ziglar, David Held, Deva Ramanan(Arxiv 2019)
 - [Car Pose in Context: Accurate Pose Estimation with Ground Plane Constraints](https://arxiv.org/abs/1912.04363)   - Pengfei Li, Weichao Qiu, Michael Peven, Gregory D. Hager, Alan L. Yuille (Arxiv 2019)
 - [Quaternion Knowledge Graph Embeddings](https://arxiv.org/abs/1904.10281)  -[[CODE]](https://github.com/cheungdaven/QuatE) - Shuai Zhang, Yi Tay, Lina Yao, Qi Liu (NIPS 2019)
+- [Quaternion Product Units for Deep Learning on 3D Rotation Groups](https://arxiv.org/abs/1912.07791)  -Xuan Zhang, Shaofei Qin, Yi Xu, Hongteng Xu (arxiv 2019)
+- [Inferring Distributions Over Depth from a Single Image](https://arxiv.org/abs/1912.06268)  -Gengshan Yang, Peiyun Hu, Deva Ramanan (IROS 2019)
 
 ### Group of people
 - [SOCIAL LSTM: HUMAN TRAJECTORY PREDICTION IN CROWDED SPACES.](http://vision.stanford.edu/pdf/CVPR16_N_LSTM.pdf)  - Alexandre Alahi, Kratarth Goel, Vignesh Ramanathan, Alexandre Robicquet, Li Fei-Fei, Silvio Savarese. (CVPR 2016)
@@ -345,6 +348,9 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Towards Robust RGB-D Human Mesh Recovery] (https://arxiv.org/pdf/1911.07383.pdf)   - Ren Li, Changjiang Cai, Georgios Georgakis, Srikrishna Karanam, Terrence Chen, Ziyan Wu (Arxiv 2019)
 - [CLOTH3D: Clothed 3D Humans] (https://arxiv.org/abs/1912.02792)   - Hugo Bertiche, Meysam Madadi, Sergio Escalera(Arxiv 2019)
 - [Learning 3D Human Shape and Pose from Dense Body Parts] (https://hongwenzhang.github.io/dense2mesh/pdf/learning3Dhuman.pdf)   - Hongwen Zhang Jie Cao Guo Lu Wanli Ouyang Zhenan Sun (Arxiv 2019)
+- [Learning from Synthetic Animals] (https://arxiv.org/pdf/1912.08265.pdf)   - Jiteng Mu, Weichao Qiu, Gregory Hager, Alan Yuille (Arxiv 2019)
+- [Dressing for Diverse Body Shapes](https://arxiv.org/pdf/1912.06697.pdf)  - Wei-Lin Hsiao, Kristen Grauman (Arxiv 2019)
+
 
 ### Pose And Physics-Robotics
 - [Learning Locomotion Skills Using DeepRL: Does the Choice of Action Space Matter? ](https://xbpeng.github.io/projects/ActionSpace/index.html) - [[CODE]](https://xbpeng.github.io/projects/ActionSpace/index.html) - Xue Bin Peng, Michiel van de Panne (Eurographics 2017)
@@ -353,7 +359,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Learning to Sit: Synthesizing Human-Chair Interactions via Hierarchical Control](https://arxiv.org/abs/1908.07423) - [[Video]](https://www.youtube.com/watch?v=3CeN0OGz2cA&feature=youtu.be) - Yu-Wei Chao, Jimei Yang, Weifeng Chen, Jia Deng  (Arxiv 2018)
 - [AVID: Learning Multi-Stage Tasks via Pixel-Level Translation of Human Videos](https://arxiv.org/abs/1912.04443) - [[CODE]](https://sites.google.com/view/icra20avid) - Laura Smith, Nikita Dhawan, Marvin Zhang, Pieter Abbeel, Sergey Levine  (Arxiv 2019)
 
-### Pose and Language-Speech-Reasoning 
+### Pose and Language-Speech-Reasoning-Semantics 
 - [Your body language may shape who you are](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are?language=en) (TED 2012)
 - [Generating Animated Videos of Human Activities from Natural Language Descriptions](https://www.cs.utexas.edu/~huangqx/NeurIPS_ViGIL_Text2Animation.pdf) - Angela S. Lin, Lemeng Wu, Rodolfo Corona, Kevin Tai, Qixing Huang, Raymond J. Mooney (NIPS 2018)
 - [Learning Individual Styles of Conversational Gesture](https://arxiv.org/abs/1906.04160) - [[CODE]](http://people.eecs.berkeley.edu/~shiry/speech2gesture/) - Shiry Ginosar, Amir Bar, Gefen Kohavi, Caroline Chan, Andrew Owens, Jitendra Malik (CVPR 2019)
@@ -367,12 +373,19 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Motion Reasoning for Goal-Based Imitation Learning](https://arxiv.org/pdf/1911.05864.pdf) - De-An Huang, Yu-Wei Chao, Chris Paxton, Xinke Deng, Li Fei-Fei, Juan Carlos Niebles, Animesh Garg, Dieter Fox (Arxiv 2019)
 - [Dancing to Music](https://arxiv.org/pdf/1911.02001.pdf) - [[CODE]](https://github.com/NVlabs/Dancing2Music) - Hsin-Ying Lee, Xiaodong Yang, Ming-Yu Liu, Ting-Chun Wang, Yu-Ding Lu, Ming-Hsuan Yang, Jan Kautz (NIPS 2019)
 - [Skeleton based Zero Shot Action Recognition in Joint Pose-Language Semantic Space](https://arxiv.org/abs/1911.11344)  - Bhavan Jasani, Afshaan Mazagonwalla (Arxiv 2019)
+- [Dressing for Diverse Body Shapes](https://arxiv.org/pdf/1912.06697.pdf)  - Wei-Lin Hsiao, Kristen Grauman (Arxiv 2019)
+- [Music-oriented Dance Video Synthesis with Pose Perceptual Loss](https://arxiv.org/abs/1912.06606)  - Xuanchi Ren, Haoran Li, Zijian Huang, Qifeng Chen (Arxiv 2019)
+
 ### Pose-and-Action
 
 - [RSA: Randomized Simulation as Augmentation for Robust Human Action Recognition](https://arxiv.org/abs/1912.01180) - Yi Zhang, Xinyue Wei, Weichao Qiu, Zihao Xiao, Gregory D. Hager, Alan Yuille. (Arxiv 2019)
 - [Simultaneous Implementation Features Extraction and Recognition Using C3DNetwork for WiFi-based Human Activity Recognition](https://arxiv.org/pdf/1911.09325.pdf) - Yafeng  Liu et al. (Arxiv 2019)
 - [Action Recognition via Pose-Based Graph Convolutional Networks with Intermediate Dense Supervision](https://arxiv.org/abs/1911.12509) - Lei Shi, Yifan Zhang, Jian Cheng, Hanqing Lu (Arxiv 2019)
 - [Synthetic Humans for Action Recognition from Unseen Viewpoints](https://arxiv.org/abs/1912.04070) - Gül Varol, Ivan Laptev, Cordelia Schmid, Andrew Zisserman (Arxiv 2019)
+- [Action Genome: Actions as Composition of Spatio-temporal Scene Graphs](https://arxiv.org/abs/1912.06992) - Jingwei Ji, Ranjay Krishna, Li Fei-Fei, Juan Carlos Niebles (Arxiv 2019)
+- [Mimetics: Towards Understanding Human Actions Out of Context](https://arxiv.org/abs/1912.06992) - Philippe Weinzaepfel, Grégory Rogez (Arxiv 2019)
+- [SPIN: A High Speed, High Resolution Vision Dataset for Tracking and Action Recognition in Ping Pong](https://arxiv.org/abs/1912.06640) - Steven Schwarcz, Peng Xu, David D'Ambrosio, Juhana Kangaspunta, Anelia Angelova, Huong Phan, Navdeep Jaitly (Arxiv 2019)
+- [Human Motion Anticipation with Symbolic Label](https://arxiv.org/abs/1912.06079) - Julian Tanke, Andreas Weber, Juergen Gall (Arxiv 2019)
 
 ### Video pose
 - [Nonrigid Structure from Motion in Trajectory Space](http://www.cs.cmu.edu/~yaser/AkhtarSheikhKhanKanade_NIPS2008.pdf) - Ijaz Akhter, Yaser Sheikh, Sohaib Khan and Takeo Kanade. (NIPS 2008)
