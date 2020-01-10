@@ -326,7 +326,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Volumetric Capture of Humans with a Single RGBD Camera viaSemi-Parametric Learning](https://arxiv.org/pdf/1905.12162.pdf) - Rohit Pandey et al. (CVPR 2019)
 - [DenseBody: Directly Regressing Dense 3D Human Pose and Shape From a Single Color Image](https://arxiv.org/pdf/1903.10153.pdf)  - [[CODE]](https://github.com/Lotayou/densebody_pytorch) - Pengfei Yao, Zheng Fang, Fan Wu, Yao Feng, Jiwei Li (Arxiv 2019)
 - [Towards 3D Human Shape Recovery Under Clothing](https://arxiv.org/abs/1904.02601) - Xin Chen, Anqi Pang, Yu Zhu, Yuwei Li, Xi Luo, Ge Zhang, Peihao Wang, Yingliang Zhang, Shiying Li, Jingyi Yu (Arxiv 2019)
-- [3DPeople: Modeling the Geometry of Dressed Humans](https://arxiv.org/abs/1904.04571) - Albert Pumarola, Jordi Sanchez, Gary P. T. Choi, Alberto Sanfeliu, Francesc Moreno-Noguer (Arxiv 2019)
+- [3DPeople: Modeling the Geometry of Dressed Humans](https://arxiv.org/abs/1904.04571) - [[Dataset]](https://github.com/albertpumarola/3DPeople-Dataset) - Albert Pumarola, Jordi Sanchez, Gary P. T. Choi, Alberto Sanfeliu, Francesc Moreno-Noguer (ICCV 2019)
 - [Long-Term Video Generation of Multiple FuturesUsing Human Poses](https://arxiv.org/abs/1904.07538) - Naoya Fushishita, Antonio Tejero-de-Pablos, Yusuke Mukuta, Tatsuya Harada (Arxiv 2019)
 - [PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://arxiv.org/abs/1905.05172) - Shunsuke Saito, Zeng Huang, Ryota Natsume, Shigeo Morishima, Angjoo Kanazawa, Hao Li (Arxiv 2019)
 - [Learning 3D Human Body Embedding](https://arxiv.org/abs/1905.05622) - Boyi Jiang, Juyong Zhang, Jianfei Cai, Jianmin Zheng (Arxiv 2019)
