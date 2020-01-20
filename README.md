@@ -358,6 +358,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [SFV: Reinforcement Learning of Physical Skills from Videos ](https://xbpeng.github.io/projects/SFV/index.html) - [[CODE]](https://xbpeng.github.io/projects/SFV/index.html) - Xue Bin Peng, Angjoo Kanazawa, Jitendra Malik, Pieter Abbeel, Sergey Levine  (SIGGRAPH Asia 2018)
 - [Learning to Sit: Synthesizing Human-Chair Interactions via Hierarchical Control](https://arxiv.org/abs/1908.07423) - [[Video]](https://www.youtube.com/watch?v=3CeN0OGz2cA&feature=youtu.be) - Yu-Wei Chao, Jimei Yang, Weifeng Chen, Jia Deng  (Arxiv 2018)
 - [AVID: Learning Multi-Stage Tasks via Pixel-Level Translation of Human Videos](https://arxiv.org/abs/1912.04443) - [[CODE]](https://sites.google.com/view/icra20avid) - Laura Smith, Nikita Dhawan, Marvin Zhang, Pieter Abbeel, Sergey Levine  (Arxiv 2019)
+- [pymanoid](https://github.com/stephane-caron/pymanoid) - [[CODE]](https://github.com/stephane-caron/pymanoid) 
 
 ### Pose and Language-Speech-Reasoning-Semantics 
 - [Your body language may shape who you are](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are?language=en) (TED 2012)
@@ -464,7 +465,8 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [aligning latent spaces for 3d hand pose estimation](https://www.mu4yang.com/files/papers/Aligning%20Latent%20Spaces%20for%203D%20Hand%20Pose%20Estimation.pdf)  - Linlin Yang, Shile Li, Dongheui Lee, Angela Yao (ICCV 2019)
 - [A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image
 ](https://arxiv.org/abs/1908.09999)  -Fu Xiong, Boshen Zhang, Yang Xiao, Zhiguo Cao, Taidong Yu, Joey Tianyi Zhou, Junsong Yuan (ICCV 2019)
-
+- [Word-level Deep Sign Language Recognition from Video: A New Large-scale Dataset and Methods Comparison
+](https://github.com/dxli94/WLASL)  -Dongxu Li and Cristian Rodriguez Opazo and Xin Yu and Hongdong Li (arxiv 2019)
 
 
 ## Datasets
