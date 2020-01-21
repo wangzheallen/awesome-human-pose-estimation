@@ -240,11 +240,15 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [DeepFuse: An IMU-Aware Network for Real-Time 3D Human Pose Estimation from Multi-View Image](https://arxiv.org/abs/1912.04071)  - Fuyang Huang, Ailing Zeng, Minhao Liu, Qiuxia Lai, Qiang Xu (WACV 2020)
 - [Generating 3D People in Scenes without People](https://arxiv.org/abs/1912.02923)  - Yan Zhang, Mohamed Hassan, Heiko Neumann, Michael J. Black, Siyu Tang (Arxiv 2019)
 - [Video Motion Capture from the Part Confidence Maps of Multi-Camera Images by Spatiotemporal Filtering Using the Human Skeletal Model](https://arxiv.org/abs/1912.03880)  - Takuya Ohashi, Yosuke Ikegami, Kazuki Yamamoto, Wataru Takano, Yoshihiko Nakamura (IROS 2018)
-- [Domes to Drones: Self-Supervised Active Triangulation for 3D Human Pose Reconstruction](https://arxiv.org/abs/1912.02923)  - Aleksis Pirinen1, Erik Gärtner and Cristian Sminchisescu (NIPS 2019)
+- [Domes to Drones: Self-Supervised Active Triangulation for 3D Human Pose Reconstruction](https://arxiv.org/abs/1912.02923)
+- Aleksis Pirinen1, Erik Gärtner and Cristian Sminchisescu (NIPS 2019)
+- [From Kinematics To Dynamics: Estimating Center of Pressure and Base of Support from Video Frames of Human Motion](https://arxiv.org/abs/2001.00657)
+- Jesse Scott, Christopher Funk, Bharadwaj Ravichandran, John H. Challis, Robert T. Collins, Yanxi Liu (arxiv 2020)
 - [ActiveMoCap: Optimized Drone Flight for Active Human Motion Capture](https://arxiv.org/abs/1912.08568)  - Sena Kiciroglu, Helge Rhodin, Sudipta Sinha, Mathieu Salzmann, Pascal Fua (Arxiv 2019)
-- [Lightweight 3D Human Pose Estimation Network Training Using Teacher-Student Learning](https://arxiv.org/abs/2001.05097)   - Dong-Hyun Hwang, Suntae Kim, Nicolas Monet, Hideki Koike, Soonmin Bae (Arxiv 2020)
 - [Synergetic Reconstruction from 2D Pose and 3D Motion for Wide-Space Multi-Person Video Motion Capture in the Wild](https://arxiv.org/abs/2001.05613)  - [[CODE]](http://www.ynl.t.u-tokyo.ac.jp/research/vmocap-syn/)  -  Takuya Ohashi,
 Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
+- [Deep Reinforcement Learning for Active Human Pose Estimation](https://arxiv.org/abs/2001.02024)
+- Erik Gärtner, Aleksis Pirinen, Cristian Sminchisescu (AAAI 2020)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1905.07718)  - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 
 ### Geometry
@@ -274,6 +278,8 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Quaternion Knowledge Graph Embeddings](https://arxiv.org/abs/1904.10281)  -[[CODE]](https://github.com/cheungdaven/QuatE) - Shuai Zhang, Yi Tay, Lina Yao, Qi Liu (NIPS 2019)
 - [Quaternion Product Units for Deep Learning on 3D Rotation Groups](https://arxiv.org/abs/1912.07791)  -Xuan Zhang, Shaofei Qin, Yi Xu, Hongteng Xu (arxiv 2019)
 - [Inferring Distributions Over Depth from a Single Image](https://arxiv.org/abs/1912.06268)  -Gengshan Yang, Peiyun Hu, Deva Ramanan (IROS 2019)
+- [A Bayesian 3D Multi-view Multi-object Tracking Filter](https://arxiv.org/abs/2001.04118)  -Jonah Ong, Ba Tuong Vo, Ba Ngu Vo, Du Yong Kim, Sven Nordholm (TPAMI 2020)
+- [Learning to Move with Affordance Maps](https://arxiv.org/abs/2001.02364)  -William Qi, Ravi Teja Mullapudi, Saurabh Gupta, Deva Ramanan (ICLR 2020)
 
 ### Group of people
 - [SOCIAL LSTM: HUMAN TRAJECTORY PREDICTION IN CROWDED SPACES.](http://vision.stanford.edu/pdf/CVPR16_N_LSTM.pdf)  - Alexandre Alahi, Kratarth Goel, Vignesh Ramanathan, Alexandre Robicquet, Li Fei-Fei, Silvio Savarese. (CVPR 2016)
@@ -353,7 +359,8 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Learning 3D Human Shape and Pose from Dense Body Parts] (https://hongwenzhang.github.io/dense2mesh/pdf/learning3Dhuman.pdf)   - Hongwen Zhang Jie Cao Guo Lu Wanli Ouyang Zhenan Sun (Arxiv 2019)
 - [Learning from Synthetic Animals] (https://arxiv.org/pdf/1912.08265.pdf)   - Jiteng Mu, Weichao Qiu, Gregory Hager, Alan Yuille (Arxiv 2019)
 - [Dressing for Diverse Body Shapes](https://arxiv.org/pdf/1912.06697.pdf)  - Wei-Lin Hsiao, Kristen Grauman (Arxiv 2019)
-
+- [Neural Human Video Rendering: Joint Learning of Dynamic Textures and Rendering-to-Video Translation](https://arxiv.org/abs/2001.04947)  - Lingjie Liu, Weipeng Xu, Marc Habermann, Michael Zollhoefer, Florian Bernard, Hyeongwoo Kim, Wenping Wang, Christian Theobalt(Arxiv 2020)
+- [Chained Representation Cycling: Learning to Estimate 3D Human Pose and Shape by Cycling Between Representations](https://arxiv.org/abs/2001.01613)  - Nadine Rueegg, Christoph Lassner, Michael J. Black, Konrad Schindler (AAAI 2020)
 
 ### Pose And Physics-Robotics
 - [Learning Locomotion Skills Using DeepRL: Does the Choice of Action Space Matter? ](https://xbpeng.github.io/projects/ActionSpace/index.html) - [[CODE]](https://xbpeng.github.io/projects/ActionSpace/index.html) - Xue Bin Peng, Michiel van de Panne (Eurographics 2017)
@@ -450,6 +457,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network](https://arxiv.org/pdf/1807.04067.pdf) - [[CODE]](https://github.com/mkocabas/pose-residual-network) - Guler, R.A., Neverova, N., & Kokkinos, I. (ECCV 2018)
 - [Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose](https://arxiv.org/pdf/1811.12004.pdf) - [[CODE]](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch) - Osokin, D. (Arxiv 2018)
   - Extension to 3D pose estimation (based on [Single-Shot Multi-Person 3D Pose Estimation From Monocular RGB](https://arxiv.org/pdf/1712.03453.pdf) - Mehta, D., et al.) - [[CODE]](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch)
+  - [Lightweight 3D Human Pose Estimation Network Training Using Teacher-Student Learning](https://arxiv.org/abs/2001.05097)   - Dong-Hyun Hwang, Suntae Kim, Nicolas Monet, Hideki Koike, Soonmin Bae (Arxiv 2020)
 
 ### Hand-Face-landmark
 - [Hand PointNet: 3D Hand Pose Estimation Using Point Sets](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ge_Hand_PointNet_3D_CVPR_2018_paper.pdf)  - Liuhao Ge, Yujun Cai, Junwu Weng, Junsong Yuan (CVPR 2018)
