@@ -249,6 +249,8 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Deep Reinforcement Learning for Active Human Pose Estimation](https://arxiv.org/abs/2001.02024)
 - Erik Gärtner, Aleksis Pirinen, Cristian Sminchisescu (AAAI 2020)
+- [Deep NRSfM++: Towards 3D Reconstruction in the Wild](https://arxiv.org/abs/2001.10090)
+- Chaoyang Wang, Chen-Hsuan Lin, Simon Lucey (Arxiv 2020)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1905.07718)  - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 
 ### Geometry
@@ -361,6 +363,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Dressing for Diverse Body Shapes](https://arxiv.org/pdf/1912.06697.pdf)  - Wei-Lin Hsiao, Kristen Grauman (Arxiv 2019)
 - [Neural Human Video Rendering: Joint Learning of Dynamic Textures and Rendering-to-Video Translation](https://arxiv.org/abs/2001.04947)  - Lingjie Liu, Weipeng Xu, Marc Habermann, Michael Zollhoefer, Florian Bernard, Hyeongwoo Kim, Wenping Wang, Christian Theobalt(Arxiv 2020)
 - [Chained Representation Cycling: Learning to Estimate 3D Human Pose and Shape by Cycling Between Representations](https://arxiv.org/abs/2001.01613)  - Nadine Rueegg, Christoph Lassner, Michael J. Black, Konrad Schindler (AAAI 2020)
+- [The Whole Is Greater Than the Sum of Its Nonrigid Parts](https://arxiv.org/abs/2001.09650)  - Oshri Halimi, Ido Imanuel, Or Litany, Giovanni Trappolini, Emanuele Rodolà, Leonidas Guibas, Ron Kimmel (Arxiv 2020)
 
 ### Pose And Physics-Robotics
 - [Learning Locomotion Skills Using DeepRL: Does the Choice of Action Space Matter? ](https://xbpeng.github.io/projects/ActionSpace/index.html) - [[CODE]](https://xbpeng.github.io/projects/ActionSpace/index.html) - Xue Bin Peng, Michiel van de Panne (Eurographics 2017)
@@ -478,7 +481,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 ](https://arxiv.org/abs/1908.09999)  -Fu Xiong, Boshen Zhang, Yang Xiao, Zhiguo Cao, Taidong Yu, Joey Tianyi Zhou, Junsong Yuan (ICCV 2019)
 - [Word-level Deep Sign Language Recognition from Video: A New Large-scale Dataset and Methods Comparison
 ](https://github.com/dxli94/WLASL)  -Dongxu Li and Cristian Rodriguez Opazo and Xin Yu and Hongdong Li (arxiv 2019)
-
+- [Deformation-aware Unpaired Image Translation for Pose Estimation on Laboratory Animals](https://arxiv.org/abs/2001.08601)  -Siyuan Li, Semih Günel, Mirela Ostrek, Pavan Ramdya, Pascal Fua, Helge Rhodin (arxiv 2020)
 
 ## Datasets
 ### 2D
