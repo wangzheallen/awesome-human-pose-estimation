@@ -390,6 +390,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Skeleton based Zero Shot Action Recognition in Joint Pose-Language Semantic Space](https://arxiv.org/abs/1911.11344)  - Bhavan Jasani, Afshaan Mazagonwalla (Arxiv 2019)
 - [Dressing for Diverse Body Shapes](https://arxiv.org/pdf/1912.06697.pdf)  - Wei-Lin Hsiao, Kristen Grauman (Arxiv 2019)
 - [Music-oriented Dance Video Synthesis with Pose Perceptual Loss](https://arxiv.org/abs/1912.06606)  - Xuanchi Ren, Haoran Li, Zijian Huang, Qifeng Chen (Arxiv 2019)
+- [Music2Dance: Music-driven Dance Generation using WaveNet](https://arxiv.org/pdf/2002.03761.pdf)  - Wenlin Zhuang, Congyi Wang, Siyu Xia, Jinxiang Chai, Yangang Wang (Arxiv 2020)
 
 ### Pose-and-Action
 
