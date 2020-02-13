@@ -230,8 +230,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Convex Optimisation for Inverse Kinematics](https://arxiv.org/abs/1910.11016)  - Tarun Yenamandra, Florian Bernard, Jiayi Wang, Franziska Mueller, Christian Theobalt (Arxiv 2019)
 - [AbsPoseLifter: Absolute 3D Human Pose Lifting Network from a Single Noisy 2D Human Pose](https://arxiv.org/abs/1910.12029)  - Ju Yong Chang, Gyeongsik Moon, Kyoung Mu Lee (Arxiv 2019)
 - [SMART: Skeletal Motion Action Recognition aTtack](https://arxiv.org/abs/1911.07107)  - He Wang, Feixiang He, Zexi Peng, Yongliang Yang, Tianjia Shao, Kun Zhou, David Hogg (Arxiv 2019)
-- [Markerless Outdoor Human Motion Capture Using Multiple Autonomous Micro Aerial Vehicles]
-(http://openaccess.thecvf.com/content_ICCV_2019/papers/Saini_Markerless_Outdoor_Human_Motion_Capture_Using_Multiple_Autonomous_Micro_Aerial_ICCV_2019_paper.pdf)  - [[CODE]](https://github.com/robot-perception-group/Aircap_Pose_Estimator) - Nitin Saini, Eric Price, Rahul Tallamraju, Raffi Enficiaud, Roman Ludwig, Igor Martinovic, Aamir Ahmad, Michael J. Black (ICCV 2019)
+- [Markerless Outdoor Human Motion Capture Using Multiple Autonomous Micro Aerial Vehicles](http://openaccess.thecvf.com/content_ICCV_2019/papers/Saini_Markerless_Outdoor_Human_Motion_Capture_Using_Multiple_Autonomous_Micro_Aerial_ICCV_2019_paper.pdf)  - [[CODE]](https://github.com/robot-perception-group/Aircap_Pose_Estimator) - Nitin Saini, Eric Price, Rahul Tallamraju, Raffi Enficiaud, Roman Ludwig, Igor Martinovic, Aamir Ahmad, Michael J. Black (ICCV 2019)
 - [Exploiting Spatial-temporal Relationships for 3D Pose Estimation via Graph Convolutional Networks](https://cse.buffalo.edu/~jsyuan/papers/2019/Exploiting_Spatialtemporal_Relationships_for_3D_Pose_Estimation_via_Graph_Convolutional_Networks.pdf)  - Yujun Cai, etal (ICCV 2019)
 - [Occlusion-Aware Networks for 3D Human Pose Estimation in Video](http://openaccess.thecvf.com/content_ICCV_2019/papers/Cheng_OcclusionAware_Networks_for_3D_Human_Pose_Estimation_in_Video_ICCV_2019_paper.pdf)  - Yu Cheng, Bo Yang, Bo Wang, Wending Yan, and Robby T. Tan (ICCV 2019)
 - [On Boosting Single-Frame 3D Human Pose Estimation via Monocular Videos] (http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_On_Boosting_SingleFrame_3D_Human_Pose_Estimation_via_Monocular_Videos_ICCV_2019_paper.pdf)  - Zhi Li,Xuan Wang, Fei Wang, and Peilin Jiang(ICCV 2019)
@@ -249,8 +248,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Deep Reinforcement Learning for Active Human Pose Estimation](https://arxiv.org/abs/2001.02024)
 - Erik Gärtner, Aleksis Pirinen, Cristian Sminchisescu (AAAI 2020)
-- [Deep NRSfM++: Towards 3D Reconstruction in the Wild](https://arxiv.org/abs/2001.10090)
-- Chaoyang Wang, Chen-Hsuan Lin, Simon Lucey (Arxiv 2020)
+- [Deep NRSfM++: Towards 3D Reconstruction in the Wild](https://arxiv.org/abs/2001.10090) - Chaoyang Wang, Chen-Hsuan Lin, Simon Lucey (Arxiv 2020)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1905.07718)  - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 
 ### Geometry
