@@ -246,8 +246,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [ActiveMoCap: Optimized Drone Flight for Active Human Motion Capture](https://arxiv.org/abs/1912.08568)  - Sena Kiciroglu, Helge Rhodin, Sudipta Sinha, Mathieu Salzmann, Pascal Fua (Arxiv 2019)
 - [Synergetic Reconstruction from 2D Pose and 3D Motion for Wide-Space Multi-Person Video Motion Capture in the Wild](https://arxiv.org/abs/2001.05613)  - [[CODE]](http://www.ynl.t.u-tokyo.ac.jp/research/vmocap-syn/)  -  Takuya Ohashi,
 Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
-- [Deep Reinforcement Learning for Active Human Pose Estimation](https://arxiv.org/abs/2001.02024)
-- Erik Gärtner, Aleksis Pirinen, Cristian Sminchisescu (AAAI 2020)
+- [Deep Reinforcement Learning for Active Human Pose Estimation](https://arxiv.org/abs/2001.02024) - Erik Gärtner, Aleksis Pirinen, Cristian Sminchisescu (AAAI 2020)
 - [Deep NRSfM++: Towards 3D Reconstruction in the Wild](https://arxiv.org/abs/2001.10090) - Chaoyang Wang, Chen-Hsuan Lin, Simon Lucey (Arxiv 2020)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1905.07718)  - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 
