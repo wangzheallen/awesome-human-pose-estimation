@@ -318,6 +318,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Textured Neural Avatars](https://arxiv.org/abs/1905.08776)  - [[CODE]](https://saic-violet.github.io/texturedavatar/) - Aliaksandra Shysheya, et al (Arxiv 2019)
 - [Explicit Disentanglement of Appearance and Perspective in Generative Models](https://arxiv.org/pdf/1906.11881.pdf)  -Nicki S. Detlefsen,Søren Hauberg  (Arxiv 2019)
 - [Learning Variations in Human Motion via Mix-and-Match Perturbation](https://arxiv.org/abs/1908.00733)  -Mohammad Sadegh Aliakbarian, Fatemeh Sadat Saleh, Mathieu Salzmann, Lars Petersson, Stephen Gould, Amirhossein Habibian  (Arxiv 2019)
+- [First Order Motion Model for Image Animation](https://github.com/AliaksandrSiarohin/first-order-model) - [[CODE]](https://github.com/AliaksandrSiarohin/first-order-model) -Stéphane Lathuilière, Sergey Tulyakov, Elisa Ricci and Nicu Sebe  (NIPS 2019)
 
 ### 3D Human Mesh
 - [Video Based Reconstruction of 3D People Models](https://arxiv.org/pdf/1803.04758.pdf) - Thiemo Alldieck， Marcus Magnor， Weipeng Xu， Christian Theobalt， Gerard Pons-Moll， (CVPR 2018)
