@@ -124,7 +124,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Learning Temporal Pose Estimation from Sparsely Labeled Videos](https://arxiv.org/abs/1906.04016)  - [[CODE]](https://github.com/facebookresearch/PoseWarper)   - Gedas Bertasius, Christoph Feichtenhofer, Du Tran, Jianbo Shi, Lorenzo Torresani (NIPS 2019)
 - [Correlated Uncertainty for Learning DenseCorrespondences from Noisy Labels](https://nneverova.github.io/npapers/densepose_neurips_cameraready_slides.pdf)   - Natalia Neverova, David Novotny, Andrea Vedaldi (NIPS 2019)
 - [Simple Pose: Rethinking and Improving a Bottom-up Approach for Multi-Person Pose Estimation](https://arxiv.org/abs/1911.10529) -[[CODE]](https://github.com/jialee93/Improved-Body-Parts) - Jia Li, Wen Su, Zengfu Wang (AAAI2020)
-
+- [An End-to-End Framework for Unsupervised Pose Estimation of Occluded Pedestrians](https://arxiv.org/abs/2002.06429)   - Sudip Das, Perla Sai Raj Kishore, Ujjwal Bhattacharya (Arxiv 2020)
 
 ### 3D Pose estimation
 - [Reconstruction of Articulated Objects from Point Correspondences in a Single Uncalibrated Image](https://pdfs.semanticscholar.org/4034/943de699dd4d672d3d59b408459168785e9c.pdf) - CJ Taylor. (CVIU 2000)
@@ -248,6 +248,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Deep Reinforcement Learning for Active Human Pose Estimation](https://arxiv.org/abs/2001.02024) - Erik Gärtner, Aleksis Pirinen, Cristian Sminchisescu (AAAI 2020)
 - [Deep NRSfM++: Towards 3D Reconstruction in the Wild](https://arxiv.org/abs/2001.10090) - Chaoyang Wang, Chen-Hsuan Lin, Simon Lucey (Arxiv 2020)
+- [Anatomy-aware 3D Human Pose Estimation in Videos](https://arxiv.org/abs/2002.10322) - Tianlang Chen, Chen Fang, Xiaohui Shen, Yiheng Zhu, Zhili Chen, Jiebo Luo (Arxiv 2020)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1905.07718)  - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 
 ### Geometry
@@ -362,6 +363,9 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Neural Human Video Rendering: Joint Learning of Dynamic Textures and Rendering-to-Video Translation](https://arxiv.org/abs/2001.04947)  - Lingjie Liu, Weipeng Xu, Marc Habermann, Michael Zollhoefer, Florian Bernard, Hyeongwoo Kim, Wenping Wang, Christian Theobalt(Arxiv 2020)
 - [Chained Representation Cycling: Learning to Estimate 3D Human Pose and Shape by Cycling Between Representations](https://arxiv.org/abs/2001.01613)  - Nadine Rueegg, Christoph Lassner, Michael J. Black, Konrad Schindler (AAAI 2020)
 - [The Whole Is Greater Than the Sum of Its Nonrigid Parts](https://arxiv.org/abs/2001.09650)  - Oshri Halimi, Ido Imanuel, Or Litany, Giovanni Trappolini, Emanuele Rodolà, Leonidas Guibas, Ron Kimmel (Arxiv 2020)
+- [Particle Filter Based Monocular Human Tracking with a 3D Cardbox Model and a Novel Deterministic Resampling Strategy](https://arxiv.org/abs/2002.09554)  - Ziyuan Liu, Dongheui Lee, Wolfgang Sepp (Arxiv 2020)
+- [PeelNet: Textured 3D reconstruction of human body using single view RGB image](https://arxiv.org/abs/2002.06664)  - Sai Sagar Jinka, Rohan Chacko, Avinash Sharma, P. J. Narayanan (Arxiv 2020)
+
 
 ### Pose And Physics-Robotics
 - [Learning Locomotion Skills Using DeepRL: Does the Choice of Action Space Matter? ](https://xbpeng.github.io/projects/ActionSpace/index.html) - [[CODE]](https://xbpeng.github.io/projects/ActionSpace/index.html) - Xue Bin Peng, Michiel van de Panne (Eurographics 2017)
