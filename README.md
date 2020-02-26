@@ -365,6 +365,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [The Whole Is Greater Than the Sum of Its Nonrigid Parts](https://arxiv.org/abs/2001.09650)  - Oshri Halimi, Ido Imanuel, Or Litany, Giovanni Trappolini, Emanuele Rodolà, Leonidas Guibas, Ron Kimmel (Arxiv 2020)
 - [Particle Filter Based Monocular Human Tracking with a 3D Cardbox Model and a Novel Deterministic Resampling Strategy](https://arxiv.org/abs/2002.09554)  - Ziyuan Liu, Dongheui Lee, Wolfgang Sepp (Arxiv 2020)
 - [PeelNet: Textured 3D reconstruction of human body using single view RGB image](https://arxiv.org/abs/2002.06664)  - Sai Sagar Jinka, Rohan Chacko, Avinash Sharma, P. J. Narayanan (Arxiv 2020)
+- [VIBE: Video Inference for Human Body Pose and Shape Estimation](https://github.com/mkocabas/VIBE) - [[CODE]](https://github.com/mkocabas/VIBE) - Muhammed Kocabas, Nikos Athanasiou, Michael J. Black (CVPR 2020)
 
 
 ### Pose And Physics-Robotics
