@@ -125,6 +125,8 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Correlated Uncertainty for Learning DenseCorrespondences from Noisy Labels](https://nneverova.github.io/npapers/densepose_neurips_cameraready_slides.pdf)   - Natalia Neverova, David Novotny, Andrea Vedaldi (NIPS 2019)
 - [Simple Pose: Rethinking and Improving a Bottom-up Approach for Multi-Person Pose Estimation](https://arxiv.org/abs/1911.10529) -[[CODE]](https://github.com/jialee93/Improved-Body-Parts) - Jia Li, Wen Su, Zengfu Wang (AAAI2020)
 - [An End-to-End Framework for Unsupervised Pose Estimation of Occluded Pedestrians](https://arxiv.org/abs/2002.06429)   - Sudip Das, Perla Sai Raj Kishore, Ujjwal Bhattacharya (Arxiv 2020)
+- [Transferring Dense Pose to Proximal Animal Classes](https://arxiv.org/abs/2003.00080) - [[CODE]](https://asanakoy.github.io/densepose-evolution/)  - Artsiom Sanakoyeu, Vasil Khalidov, Maureen S. McCarthy, Andrea Vedaldi, Natalia Neverova (CVPR 2020)
+
 
 ### 3D Pose estimation
 - [Reconstruction of Articulated Objects from Point Correspondences in a Single Uncalibrated Image](https://pdfs.semanticscholar.org/4034/943de699dd4d672d3d59b408459168785e9c.pdf) - CJ Taylor. (CVIU 2000)
@@ -319,7 +321,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Textured Neural Avatars](https://arxiv.org/abs/1905.08776)  - [[CODE]](https://saic-violet.github.io/texturedavatar/) - Aliaksandra Shysheya, et al (Arxiv 2019)
 - [Explicit Disentanglement of Appearance and Perspective in Generative Models](https://arxiv.org/pdf/1906.11881.pdf)  -Nicki S. Detlefsen,Søren Hauberg  (Arxiv 2019)
 - [Learning Variations in Human Motion via Mix-and-Match Perturbation](https://arxiv.org/abs/1908.00733)  -Mohammad Sadegh Aliakbarian, Fatemeh Sadat Saleh, Mathieu Salzmann, Lars Petersson, Stephen Gould, Amirhossein Habibian  (Arxiv 2019)
-- [First Order Motion Model for Image Animation](https://github.com/AliaksandrSiarohin/first-order-model) - [[CODE]](https://github.com/AliaksandrSiarohin/first-order-model) -Stéphane Lathuilière, Sergey Tulyakov, Elisa Ricci and Nicu Sebe  (NIPS 2019)
+- [First Order Motion Model for Image Animation]https://arxiv.org/pdf/2003.00196.pdf) - [[CODE]](https://github.com/AliaksandrSiarohin/first-order-model) -Stéphane Lathuilière, Sergey Tulyakov, Elisa Ricci and Nicu Sebe  (NIPS 2019)
 
 ### 3D Human Mesh
 - [Video Based Reconstruction of 3D People Models](https://arxiv.org/pdf/1803.04758.pdf) - Thiemo Alldieck， Marcus Magnor， Weipeng Xu， Christian Theobalt， Gerard Pons-Moll， (CVPR 2018)
@@ -366,6 +368,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Particle Filter Based Monocular Human Tracking with a 3D Cardbox Model and a Novel Deterministic Resampling Strategy](https://arxiv.org/abs/2002.09554)  - Ziyuan Liu, Dongheui Lee, Wolfgang Sepp (Arxiv 2020)
 - [PeelNet: Textured 3D reconstruction of human body using single view RGB image](https://arxiv.org/abs/2002.06664)  - Sai Sagar Jinka, Rohan Chacko, Avinash Sharma, P. J. Narayanan (Arxiv 2020)
 - [VIBE: Video Inference for Human Body Pose and Shape Estimation](https://github.com/mkocabas/VIBE) - [[CODE]](https://github.com/mkocabas/VIBE) - Muhammed Kocabas, Nikos Athanasiou, Michael J. Black (CVPR 2020)
+- [Learning Nonparametric Human Mesh Reconstruction from a Single Image without Ground Truth Meshes](https://arxiv.org/abs/2003.00052)  - Kevin Lin, Lijuan Wang, Ying Jin, Zicheng Liu, Ming-Ting Sun (Arxiv 2020)
 
 
 ### Pose And Physics-Robotics
@@ -453,6 +456,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Human Motion Prediction via Spatio-Temporal Inpainting](https://arxiv.org/abs/1812.05478)  - Alejandro Hernandez Ruiz, Juergen Gall, Francesc Moreno-Noguer (ICCV 2019)
 - [Imitation Learning for Human Pose Prediction](https://arxiv.org/abs/1909.03449)  - Borui Wang, Ehsan Adeli, Hsu-kuang Chiu, De-An Huang, Juan Carlos Niebles (ICCV 2019)
 - [Unsupervised learning of object structure and dynamics from videos](https://arxiv.org/abs/1906.07889) - [[CODE]](https://mjlm.github.io/video_structure/)  - Matthias Minderer*, Chen Sun, Ruben Villegas, Forrester Cole, Kevin Murphy, Honglak Lee (NIPS 2019)
+- [Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction](https://arxiv.org/abs/2002.11927)  - Abduallah Mohamed, Kun Qian, Mohamed Elhoseiny, Christian Claudel (CVPR 2020)
 
 ### Real-time pose estimation
 
