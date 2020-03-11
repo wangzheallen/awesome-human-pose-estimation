@@ -251,6 +251,8 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Deep Reinforcement Learning for Active Human Pose Estimation](https://arxiv.org/abs/2001.02024) - Erik Gärtner, Aleksis Pirinen, Cristian Sminchisescu (AAAI 2020)
 - [Deep NRSfM++: Towards 3D Reconstruction in the Wild](https://arxiv.org/abs/2001.10090) - Chaoyang Wang, Chen-Hsuan Lin, Simon Lucey (Arxiv 2020)
 - [Anatomy-aware 3D Human Pose Estimation in Videos](https://arxiv.org/abs/2002.10322) - Tianlang Chen, Chen Fang, Xiaohui Shen, Yiheng Zhu, Zhili Chen, Jiebo Luo (Arxiv 2020)
+- [PoseNet3D: Unsupervised 3D Human Shape and Pose Estimation](https://arxiv.org/abs/2003.03473) - Shashank Tripathi, Siddhant Ranade, Ambrish Tyagi, Amit Agrawal (Arxiv 2020)
+- [Cross-View Tracking for Multi-Human 3D Pose Estimation at over 100 FPS](https://arxiv.org/abs/2003.03972) - Long Chen, Haizhou Ai, Rui Chen, Zijie Zhuang, Shuang Liu (CVPR 2020)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1905.07718)  - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 
 ### Geometry
@@ -369,6 +371,9 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [PeelNet: Textured 3D reconstruction of human body using single view RGB image](https://arxiv.org/abs/2002.06664)  - Sai Sagar Jinka, Rohan Chacko, Avinash Sharma, P. J. Narayanan (Arxiv 2020)
 - [VIBE: Video Inference for Human Body Pose and Shape Estimation](https://github.com/mkocabas/VIBE) - [[CODE]](https://github.com/mkocabas/VIBE) - Muhammed Kocabas, Nikos Athanasiou, Michael J. Black (CVPR 2020)
 - [Learning Nonparametric Human Mesh Reconstruction from a Single Image without Ground Truth Meshes](https://arxiv.org/abs/2003.00052)  - Kevin Lin, Lijuan Wang, Ying Jin, Zicheng Liu, Ming-Ting Sun (Arxiv 2020)
+- [Hierarchical Kinematic Human Mesh Recovery](https://arxiv.org/abs/2003.04232)  - Georgios Georgakis, Ren Li, Srikrishna Karanam, Terrence Chen, Jana Kosecka, Ziyan Wu (Arxiv 2020)
+- [Learning to Transfer Texture from Clothing Images to 3D Humans](https://arxiv.org/abs/2003.02050)  - Aymen Mir, Thiemo Alldieck, Gerard Pons-Moll (CVPR 2020)
+- [The Virtual Tailor: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style](https://arxiv.org/abs/2003.04583)  - [[CODE]](https://virtualhumans.mpi-inf.mpg.de/vtailor/) - Chaitanya Patel, Zhouyingcheng Liao, Gerard Pons-Moll (CVPR 2020)
 
 
 ### Pose And Physics-Robotics
