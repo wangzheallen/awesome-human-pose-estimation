@@ -252,7 +252,9 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Deep NRSfM++: Towards 3D Reconstruction in the Wild](https://arxiv.org/abs/2001.10090) - Chaoyang Wang, Chen-Hsuan Lin, Simon Lucey (Arxiv 2020)
 - [Anatomy-aware 3D Human Pose Estimation in Videos](https://arxiv.org/abs/2002.10322) - Tianlang Chen, Chen Fang, Xiaohui Shen, Yiheng Zhu, Zhili Chen, Jiebo Luo (Arxiv 2020)
 - [PoseNet3D: Unsupervised 3D Human Shape and Pose Estimation](https://arxiv.org/abs/2003.03473) - Shashank Tripathi, Siddhant Ranade, Ambrish Tyagi, Amit Agrawal (Arxiv 2020)
-- [Cross-View Tracking for Multi-Human 3D Pose Estimation at over 100 FPS](https://arxiv.org/abs/2003.03972) - Long Chen, Haizhou Ai, Rui Chen, Zijie Zhuang, Shuang Liu (CVPR 2020)
+- [PoseNet3D: Unsupervised 3D Human Shape and Pose Estimation](https://arxiv.org/abs/2003.03473) - Shashank Tripathi, Siddhant Ranade, Ambrish Tyagi, Amit Agrawal (Arxiv 2020)
+- [EllipBody: A Light-weight and Part-based Representation for Human Pose and Shape Recovery](https://arxiv.org/pdf/2003.10873.pdf) - Min Wang, Feng Qiu, Wentao Liu, Chen Qian, Xiaowei Zhou, Lizhuang Ma (CVPR 2020)
+- [Weakly-Supervised 3D Human Pose Learning via Multi-view Images in the Wild](https://arxiv.org/abs/2003.07581) - Umar Iqbal, Pavlo Molchanov, Jan Kautz (CVPR 2020)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1905.07718)  - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 
 ### Geometry
@@ -284,6 +286,8 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Inferring Distributions Over Depth from a Single Image](https://arxiv.org/abs/1912.06268)  -Gengshan Yang, Peiyun Hu, Deva Ramanan (IROS 2019)
 - [A Bayesian 3D Multi-view Multi-object Tracking Filter](https://arxiv.org/abs/2001.04118)  -Jonah Ong, Ba Tuong Vo, Ba Ngu Vo, Du Yong Kim, Sven Nordholm (TPAMI 2020)
 - [Learning to Move with Affordance Maps](https://arxiv.org/abs/2001.02364)  -William Qi, Ravi Teja Mullapudi, Saurabh Gupta, Deva Ramanan (ICLR 2020)
+- [Depth Estimation by Learning Triangulation and Densification of Sparse Points for Multi-view Stereo
+](https://arxiv.org/abs/2003.08933)  -Ayan Sinha, Zak Murez, James Bartolozzi, Vijay Badrinarayanan, Andrew Rabinovich (arxiv 2019)
 
 ### Group of people
 - [SOCIAL LSTM: HUMAN TRAJECTORY PREDICTION IN CROWDED SPACES.](http://vision.stanford.edu/pdf/CVPR16_N_LSTM.pdf)  - Alexandre Alahi, Kratarth Goel, Vignesh Ramanathan, Alexandre Robicquet, Li Fei-Fei, Silvio Savarese. (CVPR 2016)
@@ -495,6 +499,8 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Word-level Deep Sign Language Recognition from Video: A New Large-scale Dataset and Methods Comparison
 ](https://github.com/dxli94/WLASL)  -Dongxu Li and Cristian Rodriguez Opazo and Xin Yu and Hongdong Li (arxiv 2019)
 - [Deformation-aware Unpaired Image Translation for Pose Estimation on Laboratory Animals](https://arxiv.org/abs/2001.08601)  -Siyuan Li, Semih Günel, Mirela Ostrek, Pavan Ramdya, Pascal Fua, Helge Rhodin (arxiv 2020)
+- [Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data](https://arxiv.org/abs/2003.09572)  - [[CODE]](https://github.com/CalciferZh/minimal-hand) -Yuxiao Zhou, Marc Habermann, Weipeng Xu, Ikhsanul Habibie, Christian Theobalt, Feng Xu (CVPR 2020)
+- [Balanced Alignment for Face Recognition: A Joint Learning Approach](https://arxiv.org/abs/2003.10168)  -Huawei Wei, Peng Lu, Yichen Wei (arxiv 2020)
 
 ## Datasets
 ### 2D
