@@ -288,6 +288,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Learning to Move with Affordance Maps](https://arxiv.org/abs/2001.02364)  -William Qi, Ravi Teja Mullapudi, Saurabh Gupta, Deva Ramanan (ICLR 2020)
 - [Depth Estimation by Learning Triangulation and Densification of Sparse Points for Multi-view Stereo
 ](https://arxiv.org/abs/2003.08933)  -Ayan Sinha, Zak Murez, James Bartolozzi, Vijay Badrinarayanan, Andrew Rabinovich (arxiv 2019)
+- [Differentiable Volumetric Rendering: Learning Implicit 3D Representations without 3D Supervision](http://www.cvlibs.net/publications/Niemeyer2020CVPR.pdf)  -[[CODE]](https://github.com/autonomousvision/differentiable_volumetric_rendering) - Niemeyer, Michael and Mescheder, Lars and Oechsle, Michael and Geiger, Andreas (CVPR 2020)
 
 ### Group of people
 - [SOCIAL LSTM: HUMAN TRAJECTORY PREDICTION IN CROWDED SPACES.](http://vision.stanford.edu/pdf/CVPR16_N_LSTM.pdf)  - Alexandre Alahi, Kratarth Goel, Vignesh Ramanathan, Alexandre Robicquet, Li Fei-Fei, Silvio Savarese. (CVPR 2016)
