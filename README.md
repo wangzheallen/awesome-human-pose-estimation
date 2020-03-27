@@ -126,6 +126,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Simple Pose: Rethinking and Improving a Bottom-up Approach for Multi-Person Pose Estimation](https://arxiv.org/abs/1911.10529) -[[CODE]](https://github.com/jialee93/Improved-Body-Parts) - Jia Li, Wen Su, Zengfu Wang (AAAI2020)
 - [An End-to-End Framework for Unsupervised Pose Estimation of Occluded Pedestrians](https://arxiv.org/abs/2002.06429)   - Sudip Das, Perla Sai Raj Kishore, Ujjwal Bhattacharya (Arxiv 2020)
 - [Transferring Dense Pose to Proximal Animal Classes](https://arxiv.org/abs/2003.00080) - [[CODE]](https://asanakoy.github.io/densepose-evolution/)  - Artsiom Sanakoyeu, Vasil Khalidov, Maureen S. McCarthy, Andrea Vedaldi, Natalia Neverova (CVPR 2020)
+- [Peeking into occluded joints: A novel framework for crowd pose estimation](https://arxiv.org/abs/2003.10506)   - ingteng Qiu, Xuanye Zhang, Yanran Li, Guanbin Li, Xiaojun Wu, Zixiang Xiong, Xiaoguang Han, Shuguang Cui (Arxiv 2020)
 
 
 ### 3D Pose estimation
@@ -258,6 +259,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1905.07718)  - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 
 ### Geometry
+- [Neural 3D Mesh Renderer](https://github.com/hiroharu-kato/neural_renderer)  - JKato, Hiroharu and Ushiku, Yoshitaka and Harada, Tatsuya (CVPR 2018)
 - [Learning Two-View Correspondences and Geometry Using Order-Aware Network](https://arxiv.org/abs/1908.04964)  - Jiahui Zhang, Dawei Sun, Zixin Luo, Anbang Yao, Lei Zhou, Tianwei Shen, Yurong Chen, Long Quan, Hongen Liao (ICCV 2019)
 - [UprightNet: Geometry-Aware Camera Orientation Estimation from Single Images](https://arxiv.org/abs/1908.07070)  - Wenqi Xian, Zhengqi Li, Matthew Fisher, Jonathan Eisenmann, Eli Shechtman, Noah Snavely (Arxiv 2019)
 - [Gravity as a Reference for Estimating a Person's Height from Video](https://arxiv.org/abs/1909.02211)  - Didier Bieler, Semih Günel, Pascal Fua, Helge Rhodin (ICCV 2019)
@@ -289,6 +291,10 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Depth Estimation by Learning Triangulation and Densification of Sparse Points for Multi-view Stereo
 ](https://arxiv.org/abs/2003.08933)  -Ayan Sinha, Zak Murez, James Bartolozzi, Vijay Badrinarayanan, Andrew Rabinovich (arxiv 2019)
 - [Differentiable Volumetric Rendering: Learning Implicit 3D Representations without 3D Supervision](http://www.cvlibs.net/publications/Niemeyer2020CVPR.pdf)  -[[CODE]](https://github.com/autonomousvision/differentiable_volumetric_rendering) - Niemeyer, Michael and Mescheder, Lars and Oechsle, Michael and Geiger, Andreas (CVPR 2020)
+- [SeqXY2SeqZ: Structure Learning for 3D Shapes by Sequentially Predicting 1D Occupancy Segments From 2D Coordinates
+](https://arxiv.org/abs/2003.08933)  -Zhizhong Han, Guanhui Qiao, Yu-Shen Liu, Matthias Zwicker (arxiv 2020)
+
+
 
 ### Group of people
 - [SOCIAL LSTM: HUMAN TRAJECTORY PREDICTION IN CROWDED SPACES.](http://vision.stanford.edu/pdf/CVPR16_N_LSTM.pdf)  - Alexandre Alahi, Kratarth Goel, Vignesh Ramanathan, Alexandre Robicquet, Li Fei-Fei, Silvio Savarese. (CVPR 2016)
