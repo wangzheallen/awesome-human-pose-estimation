@@ -552,6 +552,8 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Deep learning for human pose estimation](https://www.slideshare.net/plutoyang/mmlab-seminar-2016-deep-learning-for-human-pose-estimation)
 - [Deep Learning based Human Pose Estimation using OpenCV ( C++ / Python )](https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/)
 - [A 2019 guide to Human Pose Estimation with Deep Learning](https://blog.nanonets.com/human-pose-estimation-2d-guide/?from=timeline&isappinstalled=0)
+- [Direct 3d Human Pose and Shape Estimation](https://ikvision.github.io/)
+
 
 ## Popular implementations
 
