@@ -258,6 +258,8 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Weakly-Supervised 3D Human Pose Learning via Multi-view Images in the Wild](https://arxiv.org/abs/2003.07581) - Umar Iqbal, Pavlo Molchanov, Jan Kautz (CVPR 2020)
 - [Fusing Wearable IMUs with Multi-View Images for Human Pose Estimation: A Geometric Approach](https://arxiv.org/abs/2003.11163) - Zhe Zhang, Chunyu Wang, Wenhu Qin, Wenjun Zeng (CVPR 2020)
 - [MetaFuse: A Pre-trained Fusion Model for Human Pose Estimation](https://arxiv.org/abs/2003.13239) - Rongchang Xie, Chunyu Wang, Yizhou Wang (CVPR 2020)
+- [MetaFuse: A Pre-trained Fusion Model for Human Pose Estimation](https://arxiv.org/abs/2003.13239) - Rongchang Xie, Chunyu Wang, Yizhou Wang (CVPR 2020)
+- [Optical Non-Line-of-Sight Physics-based 3D Human Pose Estimation](https://arxiv.org/abs/2003.14414) - Mariko Isogawa, Ye Yuan, Matthew O'Toole, Kris Kitani (CVPR 2020)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1905.07718)  - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 
 ### Geometry
@@ -293,9 +295,9 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Depth Estimation by Learning Triangulation and Densification of Sparse Points for Multi-view Stereo
 ](https://arxiv.org/abs/2003.08933)  -Ayan Sinha, Zak Murez, James Bartolozzi, Vijay Badrinarayanan, Andrew Rabinovich (arxiv 2019)
 - [Differentiable Volumetric Rendering: Learning Implicit 3D Representations without 3D Supervision](http://www.cvlibs.net/publications/Niemeyer2020CVPR.pdf)  -[[CODE]](https://github.com/autonomousvision/differentiable_volumetric_rendering) - Niemeyer, Michael and Mescheder, Lars and Oechsle, Michael and Geiger, Andreas (CVPR 2020)
-- [SeqXY2SeqZ: Structure Learning for 3D Shapes by Sequentially Predicting 1D Occupancy Segments From 2D Coordinates
-](https://arxiv.org/abs/2003.08933)  -Zhizhong Han, Guanhui Qiao, Yu-Shen Liu, Matthias Zwicker (arxiv 2020)
-
+- [SeqXY2SeqZ: Structure Learning for 3D Shapes by Sequentially Predicting 1D Occupancy Segments From 2D Coordinates](https://arxiv.org/abs/2003.08933)  -Zhizhong Han, Guanhui Qiao, Yu-Shen Liu, Matthias Zwicker (arxiv 2020)
+- [Real-Time Camera Pose Estimation for Sports Fields](https://arxiv.org/abs/2003.14109)  -Leonardo Citraro, Pablo Márquez-Neila, Stefano Savarè, Vivek Jayaram, Charles Dubout, Félix Renaut, Andrés Hasfura, Horesh Ben Shitrit, Pascal Fua
+ (arxiv 2020)
 
 
 ### Group of people
@@ -426,6 +428,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Mimetics: Towards Understanding Human Actions Out of Context](https://arxiv.org/abs/1912.06992) - Philippe Weinzaepfel, Grégory Rogez (Arxiv 2019)
 - [SPIN: A High Speed, High Resolution Vision Dataset for Tracking and Action Recognition in Ping Pong](https://arxiv.org/abs/1912.06640) - Steven Schwarcz, Peng Xu, David D'Ambrosio, Juhana Kangaspunta, Anelia Angelova, Huong Phan, Navdeep Jaitly (Arxiv 2019)
 - [Human Motion Anticipation with Symbolic Label](https://arxiv.org/abs/1912.06079) - Julian Tanke, Andreas Weber, Juergen Gall (Arxiv 2019)
+- [Disentangling and Unifying Graph Convolutions for Skeleton-Based Action Recognition](https://arxiv.org/abs/2003.14111) - Ziyu Liu, Hongwen Zhang, Zhenghao Chen, Zhiyong Wang, Wanli Ouyang (CVPR 2020)
 
 ### Video pose
 - [Nonrigid Structure from Motion in Trajectory Space](http://www.cs.cmu.edu/~yaser/AkhtarSheikhKhanKanade_NIPS2008.pdf) - Ijaz Akhter, Yaser Sheikh, Sohaib Khan and Takeo Kanade. (NIPS 2008)
@@ -475,6 +478,9 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Imitation Learning for Human Pose Prediction](https://arxiv.org/abs/1909.03449)  - Borui Wang, Ehsan Adeli, Hsu-kuang Chiu, De-An Huang, Juan Carlos Niebles (ICCV 2019)
 - [Unsupervised learning of object structure and dynamics from videos](https://arxiv.org/abs/1906.07889) - [[CODE]](https://mjlm.github.io/video_structure/)  - Matthias Minderer*, Chen Sun, Ruben Villegas, Forrester Cole, Kevin Murphy, Honglak Lee (NIPS 2019)
 - [Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction](https://arxiv.org/abs/2002.11927)  - Abduallah Mohamed, Kun Qian, Mohamed Elhoseiny, Christian Claudel (CVPR 2020)
+- [TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting](https://yzhq97.github.io/transmomo/)  - Yang, Zhuoqian and Zhu, Wentao and Wu, Wayne and Qian, Chen and Zhou, Qiang and Zhou, Bolei and Loy, Chen Change (CVPR 2020)
+- [TITAN: Future Forecast using Action Priors](https://arxiv.org/abs/2003.13886)  - Srikanth Malla, Behzad Dariush, Chiho Choi (CVPR 2020)
+
 
 ### Real-time pose estimation
 
@@ -510,6 +516,8 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Deformation-aware Unpaired Image Translation for Pose Estimation on Laboratory Animals](https://arxiv.org/abs/2001.08601)  -Siyuan Li, Semih Günel, Mirela Ostrek, Pavan Ramdya, Pascal Fua, Helge Rhodin (arxiv 2020)
 - [Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data](https://arxiv.org/abs/2003.09572)  - [[CODE]](https://github.com/CalciferZh/minimal-hand) -Yuxiao Zhou, Marc Habermann, Weipeng Xu, Ikhsanul Habibie, Christian Theobalt, Feng Xu (CVPR 2020)
 - [Balanced Alignment for Face Recognition: A Joint Learning Approach](https://arxiv.org/abs/2003.10168)  -Huawei Wei, Peng Lu, Yichen Wei (arxiv 2020)
+- [Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction](https://arxiv.org/abs/2003.13764) (arxiv 2020)
+
 
 ## Datasets
 ### 2D
