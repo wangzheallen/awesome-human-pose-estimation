@@ -532,6 +532,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [MPI-INF-3DHP](http://gvv.mpi-inf.mpg.de/3dhp-dataset/)
 - [Unite The People](http://files.is.tuebingen.mpg.de/classner/up/)
 - [3DPW](http://virtualhumans.mpi-inf.mpg.de/3DPW/)
+- [SMIL](https://github.com/CalciferZh/SMPL/pull/11)
 - [GeometricPoseAffordance](http://wangzheallen.github.io/GPA)
 
 ### Meshes
