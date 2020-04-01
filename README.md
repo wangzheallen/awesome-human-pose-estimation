@@ -298,7 +298,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [SeqXY2SeqZ: Structure Learning for 3D Shapes by Sequentially Predicting 1D Occupancy Segments From 2D Coordinates](https://arxiv.org/abs/2003.08933)  -Zhizhong Han, Guanhui Qiao, Yu-Shen Liu, Matthias Zwicker (arxiv 2020)
 - [Real-Time Camera Pose Estimation for Sports Fields](https://arxiv.org/abs/2003.14109)  -Leonardo Citraro, Pablo Márquez-Neila, Stefano Savarè, Vivek Jayaram, Charles Dubout, Félix Renaut, Andrés Hasfura, Horesh Ben Shitrit, Pascal Fua
  (arxiv 2020)
-
+- [DO OPTIMIZATION METHODS IN DEEP LEARNING APPLICATIONS MATTER](https://arxiv.org/pdf/2002.12642.pdf) -[[CODE]](https://github.com/markomil/vilin-numerical-optimization) -Buse Melis Ozyildirim, Mariam Kiran (arxiv 2020)
 
 ### Group of people
 - [SOCIAL LSTM: HUMAN TRAJECTORY PREDICTION IN CROWDED SPACES.](http://vision.stanford.edu/pdf/CVPR16_N_LSTM.pdf)  - Alexandre Alahi, Kratarth Goel, Vignesh Ramanathan, Alexandre Robicquet, Li Fei-Fei, Silvio Savarese. (CVPR 2016)
