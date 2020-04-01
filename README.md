@@ -480,7 +480,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction](https://arxiv.org/abs/2002.11927)  - Abduallah Mohamed, Kun Qian, Mohamed Elhoseiny, Christian Claudel (CVPR 2020)
 - [TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting](https://yzhq97.github.io/transmomo/)  - Yang, Zhuoqian and Zhu, Wentao and Wu, Wayne and Qian, Chen and Zhou, Qiang and Zhou, Bolei and Loy, Chen Change (CVPR 2020)
 - [TITAN: Future Forecast using Action Priors](https://arxiv.org/abs/2003.13886)  - Srikanth Malla, Behzad Dariush, Chiho Choi (CVPR 2020)
-
+- [Long-term Human Motion Prediction with Scene Context](https://people.eecs.berkeley.edu/~zhecao/hmp/)  - Zhe Cao, Hang Gao, Karttikeya Mangalam, Qi-Zhi Cai, Minh Vo, Jitendra Malik (Arxiv 2020)
 
 ### Real-time pose estimation
 
