@@ -258,8 +258,9 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Weakly-Supervised 3D Human Pose Learning via Multi-view Images in the Wild](https://arxiv.org/abs/2003.07581) - Umar Iqbal, Pavlo Molchanov, Jan Kautz (CVPR 2020)
 - [Fusing Wearable IMUs with Multi-View Images for Human Pose Estimation: A Geometric Approach](https://arxiv.org/abs/2003.11163) - Zhe Zhang, Chunyu Wang, Wenhu Qin, Wenjun Zeng (CVPR 2020)
 - [MetaFuse: A Pre-trained Fusion Model for Human Pose Estimation](https://arxiv.org/abs/2003.13239) - Rongchang Xie, Chunyu Wang, Yizhou Wang (CVPR 2020)
-- [MetaFuse: A Pre-trained Fusion Model for Human Pose Estimation](https://arxiv.org/abs/2003.13239) - Rongchang Xie, Chunyu Wang, Yizhou Wang (CVPR 2020)
 - [Optical Non-Line-of-Sight Physics-based 3D Human Pose Estimation](https://arxiv.org/abs/2003.14414) - Mariko Isogawa, Ye Yuan, Matthew O'Toole, Kris Kitani (CVPR 2020)
+- [Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation](https://arxiv.org/abs/2004.00329) - Matteo Fabbri, Fabio Lanzi, Simone Calderara, Stefano Alletto, Rita Cucchiara (CVPR 2020)
+- [Bodies at Rest: 3D Human Pose and Shape Estimation from a Pressure Image using Synthetic Data](https://arxiv.org/abs/2004.01166) - [[CODE]](https://github.com/Healthcare-Robotics/bodies-at-rest) - Henry M. Clever, Zackory Erickson, Ariel Kapusta, Greg Turk, C. Karen Liu, Charles C. Kemp (CVPR 2020)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1905.07718)  - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 
 ### Geometry
@@ -299,6 +300,9 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Real-Time Camera Pose Estimation for Sports Fields](https://arxiv.org/abs/2003.14109)  -Leonardo Citraro, Pablo Márquez-Neila, Stefano Savarè, Vivek Jayaram, Charles Dubout, Félix Renaut, Andrés Hasfura, Horesh Ben Shitrit, Pascal Fua
  (arxiv 2020)
 - [DO OPTIMIZATION METHODS IN DEEP LEARNING APPLICATIONS MATTER](https://arxiv.org/pdf/2002.12642.pdf) -[[CODE]](https://github.com/markomil/vilin-numerical-optimization) -Buse Melis Ozyildirim, Mariam Kiran (arxiv 2020)
+- [Occlusion-Aware Depth Estimation with Adaptive Normal Constraints](https://arxiv.org/abs/2004.00845)  -Xiaoxiao Long, Lingjie Liu, Christian Theobalt, Wenping Wang (arxiv 2020)
+- [DualConvMesh-Net: Joint Geodesic and Euclidean Convolutions on 3D Meshes](https://arxiv.org/abs/2004.01002)  -Jonas Schult, Francis Engelmann, Theodora Kontogianni, Bastian Leibe (CVPR 2020)
+- [Robust Single Rotation Averaging](https://arxiv.org/abs/2004.00732)  -Seong Hun Lee, Javier Civera (Arxiv 2020)
 
 ### Group of people
 - [SOCIAL LSTM: HUMAN TRAJECTORY PREDICTION IN CROWDED SPACES.](http://vision.stanford.edu/pdf/CVPR16_N_LSTM.pdf)  - Alexandre Alahi, Kratarth Goel, Vignesh Ramanathan, Alexandre Robicquet, Li Fei-Fei, Silvio Savarese. (CVPR 2016)
@@ -389,7 +393,9 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Hierarchical Kinematic Human Mesh Recovery](https://arxiv.org/abs/2003.04232)  - Georgios Georgakis, Ren Li, Srikrishna Karanam, Terrence Chen, Jana Kosecka, Ziyan Wu (Arxiv 2020)
 - [Learning to Transfer Texture from Clothing Images to 3D Humans](https://arxiv.org/abs/2003.02050)  - Aymen Mir, Thiemo Alldieck, Gerard Pons-Moll (CVPR 2020)
 - [The Virtual Tailor: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style](https://arxiv.org/abs/2003.04583)  - [[CODE]](https://virtualhumans.mpi-inf.mpg.de/vtailor/) - Chaitanya Patel, Zhouyingcheng Liao, Gerard Pons-Moll (CVPR 2020)
-
+- [PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization](https://arxiv.org/abs/2004.00452)  - [[CODE]](https://shunsukesaito.github.io/PIFuHD/) - Shunsuke Saito, Tomas Simon, Jason Saragih, Hanbyul Joo (CVPR 2020)
+- [SoftSMPL: Data-driven Modeling of Nonlinear Soft-tissue Dynamics for Parametric Humans](https://arxiv.org/abs/2004.00326)  - [[Page]](http://dancasas.github.io/projects/SoftSMPL/) - Igor Santesteban, Elena Garces, Miguel A. Otaduy, Dan Casas (Eurographics 2020)
+- [Learning 3D Human Shape and Pose from Dense Body Parts](https://arxiv.org/abs/2003.04583)  - [[CODE]](https://github.com/HongwenZhang/DaNet-3DHumanReconstruction) - Zhang, Hongwen and Cao, Jie and Lu, Guo and Ouyang, Wanli and Sun, Zhenan (Arxiv 2020)
 
 ### Pose And Physics-Robotics
 - [Learning Locomotion Skills Using DeepRL: Does the Choice of Action Space Matter? ](https://xbpeng.github.io/projects/ActionSpace/index.html) - [[CODE]](https://xbpeng.github.io/projects/ActionSpace/index.html) - Xue Bin Peng, Michiel van de Panne (Eurographics 2017)
@@ -429,6 +435,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [SPIN: A High Speed, High Resolution Vision Dataset for Tracking and Action Recognition in Ping Pong](https://arxiv.org/abs/1912.06640) - Steven Schwarcz, Peng Xu, David D'Ambrosio, Juhana Kangaspunta, Anelia Angelova, Huong Phan, Navdeep Jaitly (Arxiv 2019)
 - [Human Motion Anticipation with Symbolic Label](https://arxiv.org/abs/1912.06079) - Julian Tanke, Andreas Weber, Juergen Gall (Arxiv 2019)
 - [Disentangling and Unifying Graph Convolutions for Skeleton-Based Action Recognition](https://arxiv.org/abs/2003.14111) - Ziyu Liu, Hongwen Zhang, Zhenghao Chen, Zhiyong Wang, Wanli Ouyang (CVPR 2020)
+- [SSHFD: Single Shot Human Fall Detection with Occluded Joints Resilience](https://arxiv.org/abs/2004.00797) - Umar Asif, Stefan Von Cavallar, Jianbin Tang, Stefan Harre (Arxiv 2020)
 
 ### Video pose
 - [Nonrigid Structure from Motion in Trajectory Space](http://www.cs.cmu.edu/~yaser/AkhtarSheikhKhanKanade_NIPS2008.pdf) - Ijaz Akhter, Yaser Sheikh, Sohaib Khan and Takeo Kanade. (NIPS 2008)
