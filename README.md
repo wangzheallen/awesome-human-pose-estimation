@@ -269,6 +269,8 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 ](https://arxiv.org/abs/2004.03989) - [[Code]](https://github.com/vegesm/wdspose) - Marton Veges, Andras Lorincz (Arxiv 2020)
 - [Exemplar Fine-Tuning for 3D Human Pose Fitting Towards In-the-Wild 3D Human Pose Estimation](https://arxiv.org/abs/2004.03686)  - Hanbyul Joo, Natalia Neverova, Andrea Vedaldi (Arxiv 2020)
 - [Self-Supervised 3D Human Pose Estimation via Part Guided Novel Image Synthesis](https://arxiv.org/abs/2004.04400)  - Jogendra Nath Kundu, Siddharth Seth, Varun Jampani, Mugalodi Rakesh, R. Venkatesh Babu, Anirban Chakraborty (CVPR 2020)
+- [Multimodal and multiview distillation for real-time player detection on a football field](https://arxiv.org/abs/2004.07544)  - Anthony Cioppa, Adrien Deliège, Noor Ul Huda, Rikke Gade, Marc Van Droogenbroeck, Thomas B. Moeslund (CVPRW 2020)
+- [End-to-End Estimation of Multi-Person 3D Poses from Multiple Cameras](https://arxiv.org/abs/2004.06239) - [[code]](https://github.com/microsoft/multiperson-pose-estimation-pytorch) - Hanyue Tu, Chunyu Wang, Wenjun Zeng (Arxiv 2020)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1905.07718) - [[Page]](http://wangzheallen.github.io/GPA) - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 - [Predicting Camera Viewpoint Improves Cross-dataset Generalization for 3D Human Pose Estimation](https://arxiv.org/abs/2004.03143) - [[Page]](http://wangzheallen.github.io/cross-dataset-generalization) - Zhe Wang, Daeyun Shin, Charless C. Fowlkes (Arxiv 2020)
 
@@ -319,7 +321,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Where Does It End? -- Reasoning About Hidden Surfaces by Object Intersection Constraints](https://arxiv.org/abs/2004.04630)   -Michael Strecke, Joerg Stueckler (CVPR 2020)
 - [Leveraging 2D Data to Learn Textured 3D Mesh Generation
 ](https://arxiv.org/abs/2004.04180)   -Paul Henderson, Vagia Tsiminaki, Christoph H. Lampert (CVPR 2020)
-
+- [Image Co-skeletonization via Co-segmentation](https://arxiv.org/abs/2004.05575)   -Koteswar Rao Jerripothula, Jianfei Cai, Jiangbo Lu, Junsong Yuan (Arxiv 2020)
 
 ### Group of people
 - [SOCIAL LSTM: HUMAN TRAJECTORY PREDICTION IN CROWDED SPACES.](http://vision.stanford.edu/pdf/CVPR16_N_LSTM.pdf)  - Alexandre Alahi, Kratarth Goel, Vignesh Ramanathan, Alexandre Robicquet, Li Fei-Fei, Silvio Savarese. (CVPR 2016)
@@ -415,6 +417,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Learning 3D Human Shape and Pose from Dense Body Parts](https://arxiv.org/abs/2003.04583)  - [[CODE]](https://github.com/HongwenZhang/DaNet-3DHumanReconstruction) - Zhang, Hongwen and Cao, Jie and Lu, Guo and Ouyang, Wanli and Sun, Zhenan (Arxiv 2020)
 - [Robust 3D Self-portraits in Seconds](https://arxiv.org/abs/2004.02460)  -Zhe Li, Tao Yu, Chuanyu Pan, Zerong Zheng, Yebin Liu (CVPR 2020)
 - [ARCH: Animatable Reconstruction of Clothed Humans](https://arxiv.org/abs/2004.04572)  -Zeng Huang, Yuanlu Xu, Christoph Lassner, Hao Li, Tony Tung (CVPR 2020)
+- [MulayCap: Multi-layer Human Performance Capture Using A Monocular Video Camera](https://arxiv.org/abs/2004.05815)  -Zhaoqi Su, Weilin Wan, Tao Yu, Lingjie Liu, Lu Fang, Wenping Wang, Yebin Liu (Arxiv 2020)
 
 ### Pose And Physics-Robotics
 - [Learning Locomotion Skills Using DeepRL: Does the Choice of Action Space Matter? ](https://xbpeng.github.io/projects/ActionSpace/index.html) - [[CODE]](https://xbpeng.github.io/projects/ActionSpace/index.html) - Xue Bin Peng, Michiel van de Panne (Eurographics 2017)
@@ -455,6 +458,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Human Motion Anticipation with Symbolic Label](https://arxiv.org/abs/1912.06079) - Julian Tanke, Andreas Weber, Juergen Gall (Arxiv 2019)
 - [Disentangling and Unifying Graph Convolutions for Skeleton-Based Action Recognition](https://arxiv.org/abs/2003.14111) - Ziyu Liu, Hongwen Zhang, Zhenghao Chen, Zhiyong Wang, Wanli Ouyang (CVPR 2020)
 - [SSHFD: Single Shot Human Fall Detection with Occluded Joints Resilience](https://arxiv.org/abs/2004.00797) - Umar Asif, Stefan Von Cavallar, Jianbin Tang, Stefan Harre (Arxiv 2020)
+- [Asynchronous Interaction Aggregation for Action Detection](https://arxiv.org/abs/2004.07485) - Jiajun Tang, Jin Xia, Xinzhi Mu, Bo Pang, Cewu Lu (Arxiv 2020)
 
 ### Video pose
 - [Nonrigid Structure from Motion in Trajectory Space](http://www.cs.cmu.edu/~yaser/AkhtarSheikhKhanKanade_NIPS2008.pdf) - Ijaz Akhter, Yaser Sheikh, Sohaib Khan and Takeo Kanade. (NIPS 2008)
