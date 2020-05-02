@@ -271,6 +271,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Self-Supervised 3D Human Pose Estimation via Part Guided Novel Image Synthesis](https://arxiv.org/abs/2004.04400)  - Jogendra Nath Kundu, Siddharth Seth, Varun Jampani, Mugalodi Rakesh, R. Venkatesh Babu, Anirban Chakraborty (CVPR 2020)
 - [Multimodal and multiview distillation for real-time player detection on a football field](https://arxiv.org/abs/2004.07544)  - Anthony Cioppa, Adrien Deliège, Noor Ul Huda, Rikke Gade, Marc Van Droogenbroeck, Thomas B. Moeslund (CVPRW 2020)
 - [End-to-End Estimation of Multi-Person 3D Poses from Multiple Cameras](https://arxiv.org/abs/2004.06239) - [[code]](https://github.com/microsoft/multiperson-pose-estimation-pytorch) - Hanyue Tu, Chunyu Wang, Wenjun Zeng (Arxiv 2020)
+- [Motion Guided 3D Pose Estimation from Videos](https://arxiv.org/abs/2004.13985)  - Jingbo Wang, Sijie Yan, Yuanjun Xiong, Dahua Lin (Arxiv 2020)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1905.07718) - [[Page]](http://wangzheallen.github.io/GPA) - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 - [Predicting Camera Viewpoint Improves Cross-dataset Generalization for 3D Human Pose Estimation](https://arxiv.org/abs/2004.03143) - [[Page]](http://wangzheallen.github.io/cross-dataset-generalization) - Zhe Wang, Daeyun Shin, Charless C. Fowlkes (Arxiv 2020)
 
@@ -512,6 +513,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [TITAN: Future Forecast using Action Priors](https://arxiv.org/abs/2003.13886)  - Srikanth Malla, Behzad Dariush, Chiho Choi (CVPR 2020)
 - [Long-term Human Motion Prediction with Scene Context](https://people.eecs.berkeley.edu/~zhecao/hmp/)  - Zhe Cao, Hang Gao, Karttikeya Mangalam, Qi-Zhi Cai, Minh Vo, Jitendra Malik (Arxiv 2020)
 - [Human Motion Transfer from Poses in the Wild](https://arxiv.org/abs/2004.03142)  - Jian Ren, Menglei Chai, Sergey Tulyakov, Chen Fang, Xiaohui Shen, Jianchao Yang (Arxiv 2020)
+- [TPNet: Trajectory Proposal Network for Motion Prediction](https://arxiv.org/abs/2004.12255)  - Liangji Fang, Qinhong Jiang, Jianping Shi, Bolei Zhou (Arxiv 2020)
 
 ### Real-time pose estimation
 
