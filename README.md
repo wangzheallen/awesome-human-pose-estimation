@@ -131,7 +131,10 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Transferring Dense Pose to Proximal Animal Classes](https://arxiv.org/abs/2003.00080) - [[CODE]](https://asanakoy.github.io/densepose-evolution/)  - Artsiom Sanakoyeu, Vasil Khalidov, Maureen S. McCarthy, Andrea Vedaldi, Natalia Neverova (CVPR 2020)
 - [Peeking into occluded joints: A novel framework for crowd pose estimation](https://arxiv.org/abs/2003.10506)   - ingteng Qiu, Xuanye Zhang, Yanran Li, Guanbin Li, Xiaojun Wu, Zixiang Xiong, Xiaoguang Han, Shuguang Cui (Arxiv 2020)
 - [Motion-supervised Co-Part Segmentation](https://arxiv.org/abs/2004.03234)   - Aliaksandr Siarohin*, Subhankar Roy*, Stéphane Lathuilière, Sergey Tulyakov, Elisa Ricci, Nicu Sebe (Arxiv 2020)
-
+- [Detailed 2D-3D Joint Representation for Human-Object Interaction](https://arxiv.org/abs/2004.08154) - [[CODE]](https://github.com/DirtyHarryLYL/DJ-RN)  - Yong-Lu Li, Xinpeng Liu, Han Lu, Shiyi Wang, Junqi Liu, Jiefeng Li, Cewu Lu (CVPR 2020)
+- [Yoga-82: A New Dataset for Fine-grained Classification of Human Poses](https://arxiv.org/abs/2004.10362) - [[Data]](https://sites.google.com/view/yoga-82/home)  - Manisha Verma, Sudhakar Kumawat, Yuta Nakashima, Shanmuganathan Raman (CVPRW 2020)
+- [Self-supervised Keypoint Correspondences for Multi-Person Pose Estimation and Tracking in Videos
+](https://arxiv.org/abs/2004.12652)   - Rafi Umer, Andreas Doering, Bastian Leibe, Juergen Gall (Arxiv 2020)
 
 ### 3D Pose estimation
 - [Reconstruction of Articulated Objects from Point Correspondences in a Single Uncalibrated Image](https://pdfs.semanticscholar.org/4034/943de699dd4d672d3d59b408459168785e9c.pdf) - CJ Taylor. (CVIU 2000)
@@ -419,6 +422,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Robust 3D Self-portraits in Seconds](https://arxiv.org/abs/2004.02460)  -Zhe Li, Tao Yu, Chuanyu Pan, Zerong Zheng, Yebin Liu (CVPR 2020)
 - [ARCH: Animatable Reconstruction of Clothed Humans](https://arxiv.org/abs/2004.04572)  -Zeng Huang, Yuanlu Xu, Christoph Lassner, Hao Li, Tony Tung (CVPR 2020)
 - [MulayCap: Multi-layer Human Performance Capture Using A Monocular Video Camera](https://arxiv.org/abs/2004.05815)  -Zhaoqi Su, Weilin Wan, Tao Yu, Lingjie Liu, Lu Fang, Wenping Wang, Yebin Liu (Arxiv 2020)
+- [TetraTSDF: 3D human reconstruction from a single image with a tetrahedral outer shell](https://arxiv.org/abs/2004.10534)  -Hayato Onizuka, Zehra Hayirci, Diego Thomas, Akihiro Sugimoto, Hideaki Uchiyama, Rin-ichiro Taniguchi (Arxiv 2020)
 
 ### Pose And Physics-Robotics
 - [Learning Locomotion Skills Using DeepRL: Does the Choice of Action Space Matter? ](https://xbpeng.github.io/projects/ActionSpace/index.html) - [[CODE]](https://xbpeng.github.io/projects/ActionSpace/index.html) - Xue Bin Peng, Michiel van de Panne (Eurographics 2017)
