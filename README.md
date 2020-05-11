@@ -365,7 +365,8 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Textured Neural Avatars](https://arxiv.org/abs/1905.08776)  - [[CODE]](https://saic-violet.github.io/texturedavatar/) - Aliaksandra Shysheya, et al (Arxiv 2019)
 - [Explicit Disentanglement of Appearance and Perspective in Generative Models](https://arxiv.org/pdf/1906.11881.pdf)  -Nicki S. Detlefsen,Søren Hauberg  (Arxiv 2019)
 - [Learning Variations in Human Motion via Mix-and-Match Perturbation](https://arxiv.org/abs/1908.00733)  -Mohammad Sadegh Aliakbarian, Fatemeh Sadat Saleh, Mathieu Salzmann, Lars Petersson, Stephen Gould, Amirhossein Habibian  (Arxiv 2019)
-- [First Order Motion Model for Image Animation]https://arxiv.org/pdf/2003.00196.pdf) - [[CODE]](https://github.com/AliaksandrSiarohin/first-order-model) -Stéphane Lathuilière, Sergey Tulyakov, Elisa Ricci and Nicu Sebe  (NIPS 2019)
+- [First Order Motion Model for Image Animation](https://arxiv.org/pdf/2003.00196.pdf) - [[CODE]](https://github.com/AliaksandrSiarohin/first-order-model) -Stéphane Lathuilière, Sergey Tulyakov, Elisa Ricci and Nicu Sebe  (NIPS 2019)
+- [Adversarial Synthesis of Human Pose from Text](https://arxiv.org/abs/2005.00340) -Yifei Zhang, Rania Briq, Julian Tanke, Juergen Gall  (Arxiv 2020)
 
 ### 3D Human Mesh
 - [Video Based Reconstruction of 3D People Models](https://arxiv.org/pdf/1803.04758.pdf) - Thiemo Alldieck， Marcus Magnor， Weipeng Xu， Christian Theobalt， Gerard Pons-Moll， (CVPR 2018)
@@ -423,6 +424,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [ARCH: Animatable Reconstruction of Clothed Humans](https://arxiv.org/abs/2004.04572)  -Zeng Huang, Yuanlu Xu, Christoph Lassner, Hao Li, Tony Tung (CVPR 2020)
 - [MulayCap: Multi-layer Human Performance Capture Using A Monocular Video Camera](https://arxiv.org/abs/2004.05815)  -Zhaoqi Su, Weilin Wan, Tao Yu, Lingjie Liu, Lu Fang, Wenping Wang, Yebin Liu (Arxiv 2020)
 - [TetraTSDF: 3D human reconstruction from a single image with a tetrahedral outer shell](https://arxiv.org/abs/2004.10534)  -Hayato Onizuka, Zehra Hayirci, Diego Thomas, Akihiro Sugimoto, Hideaki Uchiyama, Rin-ichiro Taniguchi (Arxiv 2020)
+- [Self-Supervised Human Depth Estimation from Monocular Videos](https://arxiv.org/abs/2005.03358)  -Feitong Tan, Hao Zhu, Zhaopeng Cui, Siyu Zhu, Marc Pollefeys, Ping Tan (CVPR 2020)
 
 ### Pose And Physics-Robotics
 - [Learning Locomotion Skills Using DeepRL: Does the Choice of Action Space Matter? ](https://xbpeng.github.io/projects/ActionSpace/index.html) - [[CODE]](https://xbpeng.github.io/projects/ActionSpace/index.html) - Xue Bin Peng, Michiel van de Panne (Eurographics 2017)
