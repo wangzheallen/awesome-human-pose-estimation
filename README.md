@@ -275,6 +275,8 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Multimodal and multiview distillation for real-time player detection on a football field](https://arxiv.org/abs/2004.07544)  - Anthony Cioppa, Adrien Deliège, Noor Ul Huda, Rikke Gade, Marc Van Droogenbroeck, Thomas B. Moeslund (CVPRW 2020)
 - [End-to-End Estimation of Multi-Person 3D Poses from Multiple Cameras](https://arxiv.org/abs/2004.06239) - [[code]](https://github.com/microsoft/multiperson-pose-estimation-pytorch) - Hanyue Tu, Chunyu Wang, Wenjun Zeng (Arxiv 2020)
 - [Motion Guided 3D Pose Estimation from Videos](https://arxiv.org/abs/2004.13985)  - Jingbo Wang, Sijie Yan, Yuanjun Xiong, Dahua Lin (Arxiv 2020)
+- [View Invariant Human Body Detection and Pose Estimation from Multiple Depth Sensors](https://arxiv.org/abs/2005.04258)  - Walid Bekhtaoui, Ruhan Sa, Brian Teixeira, Vivek Singh, Klaus Kirchberg, Yao-jen Chang, Ankur Kapoor (Arxiv 2020)
+- [Epipolar Transformers](https://arxiv.org/abs/2005.04551) - [[code]](https://github.com/yihui-he/epipolar-transformers)  - Yihui He, Rui Yan, Katerina Fragkiadaki, Shoou-I Yu (CVPR 2020)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1905.07718) - [[Page]](http://wangzheallen.github.io/GPA) - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 - [Predicting Camera Viewpoint Improves Cross-dataset Generalization for 3D Human Pose Estimation](https://arxiv.org/abs/2004.03143) - [[Page]](http://wangzheallen.github.io/cross-dataset-generalization) - Zhe Wang, Daeyun Shin, Charless C. Fowlkes (Arxiv 2020)
 
@@ -326,6 +328,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Leveraging 2D Data to Learn Textured 3D Mesh Generation
 ](https://arxiv.org/abs/2004.04180)   -Paul Henderson, Vagia Tsiminaki, Christoph H. Lampert (CVPR 2020)
 - [Image Co-skeletonization via Co-segmentation](https://arxiv.org/abs/2004.05575)   -Koteswar Rao Jerripothula, Jianfei Cai, Jiangbo Lu, Junsong Yuan (Arxiv 2020)
+- [On the uncertainty of self-supervised monocular depth estimation](https://arxiv.org/abs/2005.06209)  -[[CODE]](https://github.com/mattpoggi/mono-uncertainty)   -Matteo Poggi, Filippo Aleotti, Fabio Tosi, Stefano Mattoccia (CVPR 2020)
 
 ### Group of people
 - [SOCIAL LSTM: HUMAN TRAJECTORY PREDICTION IN CROWDED SPACES.](http://vision.stanford.edu/pdf/CVPR16_N_LSTM.pdf)  - Alexandre Alahi, Kratarth Goel, Vignesh Ramanathan, Alexandre Robicquet, Li Fei-Fei, Silvio Savarese. (CVPR 2016)
@@ -467,6 +470,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Disentangling and Unifying Graph Convolutions for Skeleton-Based Action Recognition](https://arxiv.org/abs/2003.14111) - Ziyu Liu, Hongwen Zhang, Zhenghao Chen, Zhiyong Wang, Wanli Ouyang (CVPR 2020)
 - [SSHFD: Single Shot Human Fall Detection with Occluded Joints Resilience](https://arxiv.org/abs/2004.00797) - Umar Asif, Stefan Von Cavallar, Jianbin Tang, Stefan Harre (Arxiv 2020)
 - [Asynchronous Interaction Aggregation for Action Detection](https://arxiv.org/abs/2004.07485) - Jiajun Tang, Jin Xia, Xinzhi Mu, Bo Pang, Cewu Lu (Arxiv 2020)
+- [3DV: 3D Dynamic Voxel for Action Recognition in Depth Video](https://arxiv.org/abs/2005.05501) - Yancheng Wang, Yang Xiao, Fu Xiong, Wenxiang Jiang, Zhiguo Cao, Joey Tianyi Zhou, Junsong Yuan (CVPR 2020)
 
 ### Video pose
 - [Nonrigid Structure from Motion in Trajectory Space](http://www.cs.cmu.edu/~yaser/AkhtarSheikhKhanKanade_NIPS2008.pdf) - Ijaz Akhter, Yaser Sheikh, Sohaib Khan and Takeo Kanade. (NIPS 2008)
@@ -521,6 +525,8 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Long-term Human Motion Prediction with Scene Context](https://people.eecs.berkeley.edu/~zhecao/hmp/)  - Zhe Cao, Hang Gao, Karttikeya Mangalam, Qi-Zhi Cai, Minh Vo, Jitendra Malik (Arxiv 2020)
 - [Human Motion Transfer from Poses in the Wild](https://arxiv.org/abs/2004.03142)  - Jian Ren, Menglei Chai, Sergey Tulyakov, Chen Fang, Xiaohui Shen, Jianchao Yang (Arxiv 2020)
 - [TPNet: Trajectory Proposal Network for Motion Prediction](https://arxiv.org/abs/2004.12255)  - Liangji Fang, Qinhong Jiang, Jianping Shi, Bolei Zhou (Arxiv 2020)
+- [Skeleton-Aware Networks for Deep Motion Retargeting](https://arxiv.org/abs/2005.05732) - [[CODE]](https://deepmotionediting.github.io/retargeting)  - Kfir Aberman, Peizhuo Li, Dani Lischinski, Olga Sorkine-Hornung, Daniel Cohen-Or, Baoquan Chen (SIGGRAPH 2020)
+- [Unpaired Motion Style Transfer from Video to Animation](https://arxiv.org/abs/2005.05751) - [[CODE]](https://deepmotionediting.github.io/style_transfer)  - Kfir Aberman, Yijia Weng, Dani Lischinski, Daniel Cohen-Or, Baoquan Chen (SIGGRAPH 2020)
 
 ### Real-time pose estimation
 
