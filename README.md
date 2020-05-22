@@ -329,6 +329,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 ](https://arxiv.org/abs/2004.04180)   -Paul Henderson, Vagia Tsiminaki, Christoph H. Lampert (CVPR 2020)
 - [Image Co-skeletonization via Co-segmentation](https://arxiv.org/abs/2004.05575)   -Koteswar Rao Jerripothula, Jianfei Cai, Jiangbo Lu, Junsong Yuan (Arxiv 2020)
 - [On the uncertainty of self-supervised monocular depth estimation](https://arxiv.org/abs/2005.06209)  -[[CODE]](https://github.com/mattpoggi/mono-uncertainty)   -Matteo Poggi, Filippo Aleotti, Fabio Tosi, Stefano Mattoccia (CVPR 2020)
+- [Focus on defocus: bridging the synthetic to real domain gap for depth estimation](https://arxiv.org/abs/2005.09623)     -Maxim Maximov, Kevin Galim, Laura Leal-Taixé (CVPR 2020)
 
 ### Group of people
 - [SOCIAL LSTM: HUMAN TRAJECTORY PREDICTION IN CROWDED SPACES.](http://vision.stanford.edu/pdf/CVPR16_N_LSTM.pdf)  - Alexandre Alahi, Kratarth Goel, Vignesh Ramanathan, Alexandre Robicquet, Li Fei-Fei, Silvio Savarese. (CVPR 2016)
