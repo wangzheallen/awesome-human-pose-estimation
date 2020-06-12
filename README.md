@@ -569,6 +569,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [HandVoxNet: Deep Voxel-Based Network for 3D Hand Shape and Pose Estimation from a Single Depth Map
 ](https://arxiv.org/abs/2004.01588) -Jameel Malik, et,al (CVPR 2020)
 - [Weakly-Supervised Mesh-Convolutional Hand Reconstruction in the Wild](https://arxiv.org/abs/2004.01946) - [[CODE]](https://www.arielai.com/mesh_hands/) -Dominik Kulon, Riza Alp Güler, Iasonas Kokkinos, Michael Bronstein, Stefanos Zafeiriou (CVPR 2020)
+- [Two-hand Global 3D Pose Estimation Using Monocular RGB](https://arxiv.org/abs/2006.01320) -Fanqing Lin, Connor Wilhelm, Tony Martinez (arxiv 2020)
 
 ## Datasets
 ### 2D
