@@ -276,7 +276,12 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [End-to-End Estimation of Multi-Person 3D Poses from Multiple Cameras](https://arxiv.org/abs/2004.06239) - [[code]](https://github.com/microsoft/multiperson-pose-estimation-pytorch) - Hanyue Tu, Chunyu Wang, Wenjun Zeng (Arxiv 2020)
 - [Motion Guided 3D Pose Estimation from Videos](https://arxiv.org/abs/2004.13985)  - Jingbo Wang, Sijie Yan, Yuanjun Xiong, Dahua Lin (Arxiv 2020)
 - [View Invariant Human Body Detection and Pose Estimation from Multiple Depth Sensors](https://arxiv.org/abs/2005.04258)  - Walid Bekhtaoui, Ruhan Sa, Brian Teixeira, Vivek Singh, Klaus Kirchberg, Yao-jen Chang, Ankur Kapoor (Arxiv 2020)
+- [MEBOW: Monocular Estimation of Body Orientation In the Wild ](http://infolab.stanford.edu/~wangz/project/imsearch/BODY/CVPR20/wu.pdf)  - Chenyan Wu, et,al (CVPR 2020)
 - [Epipolar Transformers](https://arxiv.org/abs/2005.04551) - [[code]](https://github.com/yihui-he/epipolar-transformers)  - Yihui He, Rui Yan, Katerina Fragkiadaki, Shoou-I Yu (CVPR 2020)
+- [Cross-View Tracking for Multi-Human 3D Pose Estimation at over 100 FPS](https://arxiv.org/abs/2003.03972)  - Long Chen, Haizhou Ai, Rui Chen, Zijie Zhuang, Shuang Liu (CVPR 2020)
+- [Three-dimensional Reconstruction of Human Interactions](http://openaccess.thecvf.com/content_CVPR_2020/papers/Fieraru_Three-Dimensional_Reconstruction_of_Human_Interactions_CVPR_2020_paper.pdf) - [[code]](http://vision.imar.ro/ci3d/)  - Mihai Fieraru et al. (CVPR 2020)
+- [Coherent Reconstruction of Multiple Humans from a Single Image](http://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_Coherent_Reconstruction_of_Multiple_Humans_From_a_Single_Image_CVPR_2020_paper.pdf) - [[code]](https://github.com/JiangWenPL/multiperson)  - Wen Jiang, Nikos Kolotouros, Georgios Pavlakos
+, Xiaowei Zhou, Kostas Daniilidis (CVPR 2020)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1905.07718) - [[Page]](http://wangzheallen.github.io/GPA) - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 - [Predicting Camera Viewpoint Improves Cross-dataset Generalization for 3D Human Pose Estimation](https://arxiv.org/abs/2004.03143) - [[Page]](http://wangzheallen.github.io/cross-dataset-generalization) - Zhe Wang, Daeyun Shin, Charless C. Fowlkes (Arxiv 2020)
 
@@ -331,6 +336,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [On the uncertainty of self-supervised monocular depth estimation](https://arxiv.org/abs/2005.06209)  -[[CODE]](https://github.com/mattpoggi/mono-uncertainty)   -Matteo Poggi, Filippo Aleotti, Fabio Tosi, Stefano Mattoccia (CVPR 2020)
 - [Focus on defocus: bridging the synthetic to real domain gap for depth estimation](https://arxiv.org/abs/2005.09623)     -Maxim Maximov, Kevin Galim, Laura Leal-Taixé (CVPR 2020)
 - [Uncertainty-Aware CNNs for Depth Completion: Uncertainty from Beginning to End](https://arxiv.org/abs/2006.03349)     -Abdelrahman Eldesokey, Michael Felsberg, Karl Holmquist, Mikael Persson (CVPR 2020)
+- [Accurate Estimation of Body Height From a Single Depth Image via a Four-Stage Developing Network](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yin_Accurate_Estimation_of_Body_Height_From_a_Single_Depth_Image_CVPR_2020_paper.pdf)  -[[CODE]](https://depth2height.github.io/)   -Fukun Yin, Shizhe Zhou (CVPR 2020)
 
 ### Group of people
 - [SOCIAL LSTM: HUMAN TRAJECTORY PREDICTION IN CROWDED SPACES.](http://vision.stanford.edu/pdf/CVPR16_N_LSTM.pdf)  - Alexandre Alahi, Kratarth Goel, Vignesh Ramanathan, Alexandre Robicquet, Li Fei-Fei, Silvio Savarese. (CVPR 2016)
@@ -431,6 +437,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [TetraTSDF: 3D human reconstruction from a single image with a tetrahedral outer shell](https://arxiv.org/abs/2004.10534)  -Hayato Onizuka, Zehra Hayirci, Diego Thomas, Akihiro Sugimoto, Hideaki Uchiyama, Rin-ichiro Taniguchi (Arxiv 2020)
 - [Self-Supervised Human Depth Estimation from Monocular Videos](https://arxiv.org/abs/2005.03358)  -Feitong Tan, Hao Zhu, Zhaopeng Cui, Siyu Zhu, Marc Pollefeys, Ping Tan (CVPR 2020)
 - [Learning to Dress 3D People in Generative Clothing](https://arxiv.org/abs/1907.13615)  -Qianli Ma, Jinlong Yang, Anurag Ranjan, Sergi Pujades, Gerard Pons-Moll, Siyu Tang, Michael J. Black (Arxiv 2020)
+- [IMPLICIT FUNCTIONS IN FEATURE SPACE FOR 3D SHAPE RECONSTRUCTION AND COMPLETION](http://virtualhumans.mpi-inf.mpg.de/ifnets/) - [[CODE]](https://github.com/jchibane/if-net) -Julian Chibane, Thiemo Alldieck, Gerard Pons-Moll (CVPR 2020)
 
 ### Pose And Physics-Robotics
 - [Learning Locomotion Skills Using DeepRL: Does the Choice of Action Space Matter? ](https://xbpeng.github.io/projects/ActionSpace/index.html) - [[CODE]](https://xbpeng.github.io/projects/ActionSpace/index.html) - Xue Bin Peng, Michiel van de Panne (Eurographics 2017)
@@ -571,8 +578,9 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 ](https://arxiv.org/abs/2004.01588) -Jameel Malik, et,al (CVPR 2020)
 - [Weakly-Supervised Mesh-Convolutional Hand Reconstruction in the Wild](https://arxiv.org/abs/2004.01946) - [[CODE]](https://www.arielai.com/mesh_hands/) -Dominik Kulon, Riza Alp Güler, Iasonas Kokkinos, Michael Bronstein, Stefanos Zafeiriou (CVPR 2020)
 - [Two-hand Global 3D Pose Estimation Using Monocular RGB](https://arxiv.org/abs/2006.01320) -Fanqing Lin, Connor Wilhelm, Tony Martinez (arxiv 2020)
-- [Leveraging Photometric Consistency over Time for Sparsely Supervised Hand-Object Reconstruction]
-- [[CODE]](https://hassony2.github.io/handobjectconsist.html) -Hasson, Yana and Tekin, Bugra and Bogo, Federica and Laptev, Ivan and Pollefeys, Marc and Schmid, Cordelia (CVPR 2020)
+- [Leveraging Photometric Consistency over Time for Sparsely Supervised Hand-Object Reconstruction](https://arxiv.org/pdf/2004.13449.pdf) -[[CODE]](https://hassony2.github.io/handobjectconsist.html) -Hasson, Yana and Tekin, Bugra and Bogo, Federica and Laptev, Ivan and Pollefeys, Marc and Schmid, Cordelia (CVPR 2020)
+ - [GanHand: Predicting Human Grasp Affordances in Multi-Object Scenes](http://openaccess.thecvf.com/content_CVPR_2020/papers/Corona_GanHand_Predicting_Human_Grasp_Affordances_in_Multi-Object_Scenes_CVPR_2020_paper.pdf) -Enric Corona, Albert Pumarola, Guillem Alenya, Francesc Moreno-Noguer, Gregory Rogez (CVPR 2020)
+
 
 ## Datasets
 ### 2D
