@@ -330,6 +330,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Image Co-skeletonization via Co-segmentation](https://arxiv.org/abs/2004.05575)   -Koteswar Rao Jerripothula, Jianfei Cai, Jiangbo Lu, Junsong Yuan (Arxiv 2020)
 - [On the uncertainty of self-supervised monocular depth estimation](https://arxiv.org/abs/2005.06209)  -[[CODE]](https://github.com/mattpoggi/mono-uncertainty)   -Matteo Poggi, Filippo Aleotti, Fabio Tosi, Stefano Mattoccia (CVPR 2020)
 - [Focus on defocus: bridging the synthetic to real domain gap for depth estimation](https://arxiv.org/abs/2005.09623)     -Maxim Maximov, Kevin Galim, Laura Leal-Taixé (CVPR 2020)
+- [Uncertainty-Aware CNNs for Depth Completion: Uncertainty from Beginning to End](https://arxiv.org/abs/2006.03349)     -Abdelrahman Eldesokey, Michael Felsberg, Karl Holmquist, Mikael Persson (CVPR 2020)
 
 ### Group of people
 - [SOCIAL LSTM: HUMAN TRAJECTORY PREDICTION IN CROWDED SPACES.](http://vision.stanford.edu/pdf/CVPR16_N_LSTM.pdf)  - Alexandre Alahi, Kratarth Goel, Vignesh Ramanathan, Alexandre Robicquet, Li Fei-Fei, Silvio Savarese. (CVPR 2016)
@@ -570,6 +571,8 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 ](https://arxiv.org/abs/2004.01588) -Jameel Malik, et,al (CVPR 2020)
 - [Weakly-Supervised Mesh-Convolutional Hand Reconstruction in the Wild](https://arxiv.org/abs/2004.01946) - [[CODE]](https://www.arielai.com/mesh_hands/) -Dominik Kulon, Riza Alp Güler, Iasonas Kokkinos, Michael Bronstein, Stefanos Zafeiriou (CVPR 2020)
 - [Two-hand Global 3D Pose Estimation Using Monocular RGB](https://arxiv.org/abs/2006.01320) -Fanqing Lin, Connor Wilhelm, Tony Martinez (arxiv 2020)
+- [Leveraging Photometric Consistency over Time for Sparsely Supervised Hand-Object Reconstruction]
+- [[CODE]](https://hassony2.github.io/handobjectconsist.html) -Hasson, Yana and Tekin, Bugra and Bogo, Federica and Laptev, Ivan and Pollefeys, Marc and Schmid, Cordelia (CVPR 2020)
 
 ## Datasets
 ### 2D
