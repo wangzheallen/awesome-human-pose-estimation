@@ -132,6 +132,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Peeking into occluded joints: A novel framework for crowd pose estimation](https://arxiv.org/abs/2003.10506)   - ingteng Qiu, Xuanye Zhang, Yanran Li, Guanbin Li, Xiaojun Wu, Zixiang Xiong, Xiaoguang Han, Shuguang Cui (Arxiv 2020)
 - [Motion-supervised Co-Part Segmentation](https://arxiv.org/abs/2004.03234)   - Aliaksandr Siarohin*, Subhankar Roy*, Stéphane Lathuilière, Sergey Tulyakov, Elisa Ricci, Nicu Sebe (Arxiv 2020)
 - [Detailed 2D-3D Joint Representation for Human-Object Interaction](https://arxiv.org/abs/2004.08154) - [[CODE]](https://github.com/DirtyHarryLYL/DJ-RN)  - Yong-Lu Li, Xinpeng Liu, Han Lu, Shiyi Wang, Junqi Liu, Jiefeng Li, Cewu Lu (CVPR 2020)
+- [Distribution Aware Coordinate Representation for Human Pose Estimation](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Distribution-Aware_Coordinate_Representation_for_Human_Pose_Estimation_CVPR_2020_paper.pdf) - [[CODE]](https://github.com/ilovepose/DarkPose)  - Feng Zhang, Xiatian Zhu, Hanbin Dai, Mao Ye, Ce Zhu (CVPR 2020)
 - [Yoga-82: A New Dataset for Fine-grained Classification of Human Poses](https://arxiv.org/abs/2004.10362) - [[Data]](https://sites.google.com/view/yoga-82/home)  - Manisha Verma, Sudhakar Kumawat, Yuta Nakashima, Shanmuganathan Raman (CVPRW 2020)
 - [Self-supervised Keypoint Correspondences for Multi-Person Pose Estimation and Tracking in Videos
 ](https://arxiv.org/abs/2004.12652)   - Rafi Umer, Andreas Doering, Bastian Leibe, Juergen Gall (Arxiv 2020)
