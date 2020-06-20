@@ -281,7 +281,10 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Epipolar Transformers](https://arxiv.org/abs/2005.04551) - [[code]](https://github.com/yihui-he/epipolar-transformers)  - Yihui He, Rui Yan, Katerina Fragkiadaki, Shoou-I Yu (CVPR 2020)
 - [Cross-View Tracking for Multi-Human 3D Pose Estimation at over 100 FPS](https://arxiv.org/abs/2003.03972)  - Long Chen, Haizhou Ai, Rui Chen, Zijie Zhuang, Shuang Liu (CVPR 2020)
 - [Multiview-Consistent Semi-Supervised Learning for 3D Human Pose Estimation](https://arxiv.org/abs/1908.05293)  - Rahul Mitra, Nitesh B. Gundavarapu, Abhishek Sharma, Arjun Jain (CVPR 2020)
+- [Attention Mechanism Exploits Temporal Contexts: Real-Time 3D Human Pose Reconstruction
+](http://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Attention_Mechanism_Exploits_Temporal_Contexts_Real-Time_3D_Human_Pose_Reconstruction_CVPR_2020_paper.html)  - Ruixu Liu, Ju Shen, He Wang, Chen Chen, Sen-ching Cheung, Vijayan Asari (CVPR 2020)
 - [Cascaded Deep Monocular 3D Human Pose Estimation With Evolutionary Training Data](http://openaccess.thecvf.com/content_CVPR_2020/html/Li_Cascaded_Deep_Monocular_3D_Human_Pose_Estimation_With_Evolutionary_Training_CVPR_2020_paper.html) - Shichao Li, Lei Ke, Kevin Pratama, Yu-Wing Tai, Chi-Keung Tang, Kwang-Ting Cheng (CVPR 2020)
+- [Deep Kinematics Analysis for Monocular 3D Human Pose Estimation](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Deep_Kinematics_Analysis_for_Monocular_3D_Human_Pose_Estimation_CVPR_2020_paper.pdf) - Jingwei Xu et al. (CVPR 2020)
 - [Three-dimensional Reconstruction of Human Interactions](http://openaccess.thecvf.com/content_CVPR_2020/papers/Fieraru_Three-Dimensional_Reconstruction_of_Human_Interactions_CVPR_2020_paper.pdf) - [[code]](http://vision.imar.ro/ci3d/)  - Mihai Fieraru et al. (CVPR 2020)
 - [Coherent Reconstruction of Multiple Humans from a Single Image](http://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_Coherent_Reconstruction_of_Multiple_Humans_From_a_Single_Image_CVPR_2020_paper.pdf) - [[code]](https://github.com/JiangWenPL/multiperson)  - Wen Jiang, Nikos Kolotouros, Georgios Pavlakos
 , Xiaowei Zhou, Kostas Daniilidis (CVPR 2020)
@@ -444,6 +447,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [IMPLICIT FUNCTIONS IN FEATURE SPACE FOR 3D SHAPE RECONSTRUCTION AND COMPLETION](http://virtualhumans.mpi-inf.mpg.de/ifnets/) - [[CODE]](https://github.com/jchibane/if-net) -Julian Chibane, Thiemo Alldieck, Gerard Pons-Moll (CVPR 2020)
 - [TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style
 ](https://arxiv.org/abs/2003.04583) - [[CODE]](https://virtualhumans.mpi-inf.mpg.de/tailornet/) -Chaitanya Patel, Zhouyingcheng Liao, Gerard Pons-Moll (CVPR 2020)
+- [3D Human Mesh Regression With Dense Correspondence](http://openaccess.thecvf.com/content_CVPR_2020/html/Zeng_3D_Human_Mesh_Regression_With_Dense_Correspondence_CVPR_2020_paper.html)  -Wang Zeng, Wanli Ouyang, Ping Luo, Wentao Liu, Xiaogang Wang (CVPR 2020)
 - [Sequential 3D Human Pose and Shape Estimation From Point Clouds](http://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Sequential_3D_Human_Pose_and_Shape_Estimation_From_Point_Clouds_CVPR_2020_paper.html)  -Kangkan Wang, Jin Xie, Guofeng Zhang, Lei Liu, Jian Yang (CVPR 2020)
 - [GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models
 ](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_GHUM__GHUML_Generative_3D_Human_Shape_and_Articulated_Pose_CVPR_2020_paper.pdf)  -Hongyi Xu, Eduard Gabriel Bazavan, Andrei Zanfir, William T. Freeman, Rahul Sukthankar, Cristian Sminchisescu;(CVPR 2020)
