@@ -595,6 +595,8 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Two-hand Global 3D Pose Estimation Using Monocular RGB](https://arxiv.org/abs/2006.01320) -Fanqing Lin, Connor Wilhelm, Tony Martinez (arxiv 2020)
 - [Leveraging Photometric Consistency over Time for Sparsely Supervised Hand-Object Reconstruction](https://arxiv.org/pdf/2004.13449.pdf) -[[CODE]](https://hassony2.github.io/handobjectconsist.html) -Hasson, Yana and Tekin, Bugra and Bogo, Federica and Laptev, Ivan and Pollefeys, Marc and Schmid, Cordelia (CVPR 2020)
  - [GanHand: Predicting Human Grasp Affordances in Multi-Object Scenes](http://openaccess.thecvf.com/content_CVPR_2020/papers/Corona_GanHand_Predicting_Human_Grasp_Affordances_in_Multi-Object_Scenes_CVPR_2020_paper.pdf) -Enric Corona, Albert Pumarola, Guillem Alenya, Francesc Moreno-Noguer, Gregory Rogez (CVPR 2020)
+ - [Weakly-Supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects
+](http://openaccess.thecvf.com/content_CVPR_2020/html/Baek_Weakly-Supervised_Domain_Adaptation_via_GAN_and_Mesh_Model_for_Estimating_CVPR_2020_paper.html) -Seungryul Baek, Kwang In Kim, Tae-Kyun Kim (CVPR 2020)
 
 
 ## Datasets
