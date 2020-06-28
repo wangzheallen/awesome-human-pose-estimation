@@ -289,6 +289,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Coherent Reconstruction of Multiple Humans from a Single Image](http://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_Coherent_Reconstruction_of_Multiple_Humans_From_a_Single_Image_CVPR_2020_paper.pdf) - [[code]](https://github.com/JiangWenPL/multiperson)  - Wen Jiang, Nikos Kolotouros, Georgios Pavlakos
 , Xiaowei Zhou, Kostas Daniilidis (CVPR 2020)
 - [Optical Non-Line-of-Sight Physics-based 3D Human Pose Estimation](https://arxiv.org/abs/2003.14414) - [[code]](https://marikoisogawa.github.io/project/nlos_pose)  - Mariko Isogawa, Ye Yuan, Matthew O'Toole, Kris Kitani (CVPR 2020)
+- [Kinematic-Structure-Preserved Representation for Unsupervised 3D Human Pose Estimation](https://arxiv.org/abs/2006.14107)   - Jogendra Nath Kundu, Siddharth Seth, Rahul M V, Mugalodi Rakesh, R. Venkatesh Babu, Anirban Chakraborty (AAAI 2020)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1905.07718) - [[Page]](http://wangzheallen.github.io/GPA) - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 - [Predicting Camera Viewpoint Improves Cross-dataset Generalization for 3D Human Pose Estimation](https://arxiv.org/abs/2004.03143) - [[Page]](http://wangzheallen.github.io/cross-dataset-generalization) - Zhe Wang, Daeyun Shin, Charless C. Fowlkes (Arxiv 2020)
 
