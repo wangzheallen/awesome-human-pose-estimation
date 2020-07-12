@@ -136,6 +136,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Yoga-82: A New Dataset for Fine-grained Classification of Human Poses](https://arxiv.org/abs/2004.10362) - [[Data]](https://sites.google.com/view/yoga-82/home)  - Manisha Verma, Sudhakar Kumawat, Yuta Nakashima, Shanmuganathan Raman (CVPRW 2020)
 - [Self-supervised Keypoint Correspondences for Multi-Person Pose Estimation and Tracking in Videos
 ](https://arxiv.org/abs/2004.12652)   - Rafi Umer, Andreas Doering, Bastian Leibe, Juergen Gall (Arxiv 2020)
+- [Making DensePose fast and light](https://arxiv.org/abs/2006.15190)   (Arxiv 2020)
 
 ### 3D Pose estimation
 - [Reconstruction of Articulated Objects from Point Correspondences in a Single Uncalibrated Image](https://pdfs.semanticscholar.org/4034/943de699dd4d672d3d59b408459168785e9c.pdf) - CJ Taylor. (CVIU 2000)
@@ -290,6 +291,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 , Xiaowei Zhou, Kostas Daniilidis (CVPR 2020)
 - [Optical Non-Line-of-Sight Physics-based 3D Human Pose Estimation](https://arxiv.org/abs/2003.14414) - [[code]](https://marikoisogawa.github.io/project/nlos_pose)  - Mariko Isogawa, Ye Yuan, Matthew O'Toole, Kris Kitani (CVPR 2020)
 - [Kinematic-Structure-Preserved Representation for Unsupervised 3D Human Pose Estimation](https://arxiv.org/abs/2006.14107)   - Jogendra Nath Kundu, Siddharth Seth, Rahul M V, Mugalodi Rakesh, R. Venkatesh Babu, Anirban Chakraborty (AAAI 2020)
+- [Inference Stage Optimization for Cross-scenario 3D Human Pose Estimation](https://arxiv.org/abs/2007.02054)   - Jianfeng Zhang, Xuecheng Nie, Jiashi Feng (Arxiv 2020)
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1905.07718) - [[Page]](http://wangzheallen.github.io/GPA) - Zhe Wang, Liyan Chen, Shaurya Rathore, Daeyun Shin, Charless Fowlkes (Arxiv 2019)
 - [Predicting Camera Viewpoint Improves Cross-dataset Generalization for 3D Human Pose Estimation](https://arxiv.org/abs/2004.03143) - [[Page]](http://wangzheallen.github.io/cross-dataset-generalization) - Zhe Wang, Daeyun Shin, Charless C. Fowlkes (Arxiv 2020)
 
@@ -345,6 +347,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [Focus on defocus: bridging the synthetic to real domain gap for depth estimation](https://arxiv.org/abs/2005.09623)     -Maxim Maximov, Kevin Galim, Laura Leal-Taixé (CVPR 2020)
 - [Uncertainty-Aware CNNs for Depth Completion: Uncertainty from Beginning to End](https://arxiv.org/abs/2006.03349)     -Abdelrahman Eldesokey, Michael Felsberg, Karl Holmquist, Mikael Persson (CVPR 2020)
 - [Accurate Estimation of Body Height From a Single Depth Image via a Four-Stage Developing Network](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yin_Accurate_Estimation_of_Body_Height_From_a_Single_Depth_Image_CVPR_2020_paper.pdf)  -[[CODE]](https://depth2height.github.io/)   -Fukun Yin, Shizhe Zhou (CVPR 2020)
+- [Quaternion Capsule Networks](https://arxiv.org/pdf/2007.04389.pdf)  (Arxiv 2020)
 
 ### Group of people
 - [SOCIAL LSTM: HUMAN TRAJECTORY PREDICTION IN CROWDED SPACES.](http://vision.stanford.edu/pdf/CVPR16_N_LSTM.pdf)  - Alexandre Alahi, Kratarth Goel, Vignesh Ramanathan, Alexandre Robicquet, Li Fei-Fei, Silvio Savarese. (CVPR 2016)
@@ -598,6 +601,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
  - [GanHand: Predicting Human Grasp Affordances in Multi-Object Scenes](http://openaccess.thecvf.com/content_CVPR_2020/papers/Corona_GanHand_Predicting_Human_Grasp_Affordances_in_Multi-Object_Scenes_CVPR_2020_paper.pdf) -Enric Corona, Albert Pumarola, Guillem Alenya, Francesc Moreno-Noguer, Gregory Rogez (CVPR 2020)
  - [Weakly-Supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects
 ](http://openaccess.thecvf.com/content_CVPR_2020/html/Baek_Weakly-Supervised_Domain_Adaptation_via_GAN_and_Mesh_Model_for_Estimating_CVPR_2020_paper.html) -Seungryul Baek, Kwang In Kim, Tae-Kyun Kim (CVPR 2020)
+ - [JGR-P2O: Joint Graph Reasoning based Pixel-to-Offset Prediction Network for 3D Hand Pose Estimation from a Single Depth Image](https://arxiv.org/pdf/2007.04646.pdf)   (ECCV 2020)
 
 
 ## Datasets
