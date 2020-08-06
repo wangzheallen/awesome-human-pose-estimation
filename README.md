@@ -121,6 +121,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [The Devil is in the Details: Delving into Unbiased Data Processing for Human Pose Estimation](https://arxiv.org/abs/1911.07524)   - Junjie Huang, Zheng Zhu, Feng Guo, Guan Huang (Arxiv 2019)
 - [DirectPose: Direct End-to-End Multi-Person Pose Estimation](https://arxiv.org/pdf/1911.07451.pdf)   - Zhi Tian, Hao Chen, Chunhua Shen (Arxiv 2019)
 - [The Devil is in the Details: Delving into Unbiased Data Processing for Human Pose Estimation](https://arxiv.org/abs/1911.07524)  - Junjie Huang, Zheng Zhu, Feng Guo, Guan Huang (ICCV 2019)
+- [TRB: A Novel Triplet Representation for Understanding 2D Human Body](https://arxiv.org/abs/1910.11535) - [[Data]](https://github.com/kennymckormick/Triplet-Representation-of-human-Body)  - Haodong Duan, KwanYee Lin, Sheng Jin, Wentao Liu, Chen Qian, Wanli Ouyang (ICCV 2019)
 - [Simple and Lightweight Human Pose Estimation](https://arxiv.org/abs/1911.10346)  - Zhe Zhang, Jie Tang, Gangshan Wu (Arxiv 2019)
 - [Mixture Dense Regression for Object Detection and Human Pose Estimation](https://arxiv.org/abs/1912.00821)  - Ali Varamesh, Tinne Tuytelaars (Arxiv 2019)
 - [15 Keypoints Is All You Need](https://arxiv.org/abs/1912.02323)  - Michael Snower, Asim Kadav, Farley Lai, Hans Peter Graf (Arxiv 2019)
@@ -137,6 +138,8 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Self-supervised Keypoint Correspondences for Multi-Person Pose Estimation and Tracking in Videos
 ](https://arxiv.org/abs/2004.12652)   - Rafi Umer, Andreas Doering, Bastian Leibe, Juergen Gall (Arxiv 2020)
 - [Making DensePose fast and light](https://arxiv.org/abs/2006.15190)   (Arxiv 2020)
+- [Differentiable Hierarchical Graph Grouping for Multi-Person Pose Estimation](https://arxiv.org/pdf/2007.11864) - Sheng Jin, Wentao Liu, Enze Xie, Wenhai Wang, Chen Qian, Wanli Ouyang, Ping Luo (ECCV 2020)
+- [Whole-Body Human Pose Estimation in the Wild](https://arxiv.org/abs/2007.11858) - [[Data]](https://github.com/jin-s13/COCO-WholeBody)  - Sheng Jin, Lumin Xu, Jin Xu, Can Wang, Wentao Liu, Chen Qian, Wanli Ouyang, Ping Luo (ECCV 2020)
 
 ### 3D Pose estimation
 - [Reconstruction of Articulated Objects from Point Correspondences in a Single Uncalibrated Image](https://pdfs.semanticscholar.org/4034/943de699dd4d672d3d59b408459168785e9c.pdf) - CJ Taylor. (CVIU 2000)
@@ -607,6 +610,8 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 ## Datasets
 ### 2D
 - [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/)
+- [MPII-TRB Dataset](https://github.com/kennymckormick/Triplet-Representation-of-human-Body)
+- [COCO-WholeBody Dataset](https://github.com/jin-s13/COCO-WholeBody)
 - [LSP](http://sam.johnson.io/research/lsp.html)
 - [FLIC](https://bensapp.github.io/flic-dataset.html)
 - [FLIC-plus](https://cims.nyu.edu/~tompson/flic_plus.htm)
@@ -655,6 +660,7 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 
 
 ### PyTorch
+- [MMPose](https://github.com/open-mmlab/mmpose)
 - [openpifpaf](https://github.com/vita-epfl/openpifpaf)
 - [pytorch-pose-hg-3d](https://github.com/xingyizhou/Pytorch-pose-hg-3d)
 - [pytorch_Realtime_Multi-Person_Pose_Estimation](https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation)
